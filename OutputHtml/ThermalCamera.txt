@@ -1,0 +1,826 @@
+[{'name': <h3 class="product-name product_title">
+<a href="https://www.foxeer.com/foxeer-ft256-analog-cvbs-thermal-camera-g-567">Foxeer FT256 Analog CVBS Thermal Camera</a>
+</h3>, 'link': 'https://www.foxeer.com/foxeer-ft256-analog-cvbs-thermal-camera-g-567', 'price': {'price': <div class="price price-detail">$499 </div>, 'price_div': <div class="price price-detail">$499 </div>}, 'type': 'Camera', 'details': {'details': {<td valign="center">
+<span>Resolution</span>
+</td>: <td valign="center">
+<span>256*192</span>
+</td>, <td valign="center">
+<span>Frame Rate</span><span></span>
+</td>: <td valign="center">
+<span>50fps</span>
+</td>, <td valign="center">
+<span>Lens</span><span></span>
+</td>: <td valign="center">
+<span>Fixed Focus Atherma 7mm</span>
+</td>, <td valign="center">
+<span>FOV(H*V)</span><span></span>
+</td>: <td valign="center">
+<span>25°*19°</span>
+</td>, <td valign="center">
+<span>Refresh Rate</span>
+</td>: <td valign="center">
+<span>25Hz</span>
+</td>, <td valign="center">
+<span>Detector Type</span>
+</td>: <td valign="center">
+<span>12μm</span>
+</td>, <td valign="center">
+<span>Spectral Range</span><span></span>
+</td>: <td valign="center">
+<span>8～14μm</span><span></span>
+</td>, <td valign="center">
+<span>Thermal Sensitivity</span><span></span>
+</td>: <td valign="center">
+<span>&lt;50mk</span><span></span>
+</td>, <td valign="center">
+<span>Image Display</span><span></span>
+</td>: <td valign="center">
+<span>White Hot</span><span></span>
+</td>, <td valign="center">
+<span>Image Algorithm</span><span></span>
+</td>: <td valign="center">
+<span>Non-uniformity Correction (NUC); 3D Noise Reduction (3DNR); Digital Detail Enhancement</span><span></span>
+</td>, <td valign="center">
+<span>Power Input</span><span></span>
+</td>: <td valign="center">
+<span>4.5-18V</span><span></span>
+</td>, <td valign="center" width="235">
+<span>Video Output </span><span></span>
+</td>: <td valign="center" width="235">
+<span>CVBS</span>
+</td>, <td valign="center">
+<span>Weight</span><span></span>
+</td>: <td valign="center">
+<span>28g</span><span></span>
+</td>, <td valign="center">
+<span>TV System</span><span></span>
+</td>: <td valign="center">
+<span>PAL</span><span></span>
+</td>, <td valign="center">
+<span>Size</span><span></span>
+</td>: <td valign="center">
+<span>25.8*25.8*31.8mm</span>
+</td>, <td valign="center">
+<span>Consumption</span><span></span>
+</td>: <td valign="center">
+<span>&lt;1W</span><span></span>
+</td>, <td valign="center">
+<span>Working Temperature</span><span></span>
+</td>: <td valign="center">
+<span>-40℃～+80℃</span><span></span>
+</td>, <td valign="center">
+<span>Storage Temperature</span><span></span>
+</td>: <td valign="center">
+<span>-50℃～+85℃</span><span></span>
+</td>, <td valign="center">
+<span>Humidity</span><span></span>
+</td>: <td valign="center">
+<span>5%~95%, Non-condensin</span><span></span>
+</td>, <td valign="center">
+<span>Vibration</span><span></span>
+</td>: <td valign="center">
+<span>6.06grms, 3-axis</span><span></span>
+</td>, <td valign="center">
+<span>Shock</span><span></span>
+</td>: <td valign="center">
+<span>Half-sine Wave, 80g/4ms, 3-axis 6-directi</span><span></span>
+</td>, <td valign="center">
+<span>Package Includes</span><span></span>
+</td>: <td valign="center">
+<span>1 x Camera, 1 x Cable, 1 x Bracket</span><span></span>
+</td>, 'download_links': [], 'video_link': 'https://www.youtube.com/embed/4c-HhbnD7Rk?si=QNPIrXiU9kECwgle'}, 'details_table': <table class="table table-bordered">
+<tbody>
+<tr>
+<td valign="center">
+<span>Resolution</span>
+</td>
+<td valign="center">
+<span>256*192</span>
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>Frame Rate</span><span></span>
+</td>
+<td valign="center">
+<span>50fps</span>
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>Lens</span><span></span>
+</td>
+<td valign="center">
+<span>Fixed Focus Atherma 7mm</span>
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>FOV(H*V)</span><span></span>
+</td>
+<td valign="center">
+<span>25°*19°</span>
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>Refresh Rate</span>
+</td>
+<td valign="center">
+<span>25Hz</span>
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>Detector Type</span>
+</td>
+<td valign="center">
+<span>12μm</span>
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>Spectral Range</span><span></span>
+</td>
+<td valign="center">
+<span>8～14μm</span><span></span>
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>Thermal Sensitivity</span><span></span>
+</td>
+<td valign="center">
+<span>&lt;50mk</span><span></span>
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>Image Display</span><span></span>
+</td>
+<td valign="center">
+<span>White Hot</span><span></span>
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>Image Algorithm</span><span></span>
+</td>
+<td valign="center">
+<span>Non-uniformity Correction (NUC); 3D Noise Reduction (3DNR); Digital Detail Enhancement</span><span></span>
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>Power Input</span><span></span>
+</td>
+<td valign="center">
+<span>4.5-18V</span><span></span>
+</td>
+</tr>
+<tr>
+<td valign="center" width="235">
+<span>Video Output </span><span></span>
+</td>
+<td valign="center" width="235">
+<span>CVBS</span>
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>Weight</span><span></span>
+</td>
+<td valign="center">
+<span>28g</span><span></span>
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>TV System</span><span></span>
+</td>
+<td valign="center">
+<span>PAL</span><span></span>
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>Size</span><span></span>
+</td>
+<td valign="center">
+<span>25.8*25.8*31.8mm</span>
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>Consumption</span><span></span>
+</td>
+<td valign="center">
+<span>&lt;1W</span><span></span>
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>Working Temperature</span><span></span>
+</td>
+<td valign="center">
+<span>-40℃～+80℃</span><span></span>
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>Storage Temperature</span><span></span>
+</td>
+<td valign="center">
+<span>-50℃～+85℃</span><span></span>
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>Humidity</span><span></span>
+</td>
+<td valign="center">
+<span>5%~95%, Non-condensin</span><span></span>
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>Vibration</span><span></span>
+</td>
+<td valign="center">
+<span>6.06grms, 3-axis</span><span></span>
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>Shock</span><span></span>
+</td>
+<td valign="center">
+<span>Half-sine Wave, 80g/4ms, 3-axis 6-directi</span><span></span>
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>Package Includes</span><span></span>
+</td>
+<td valign="center">
+<span>1 x Camera, 1 x Cable, 1 x Bracket</span><span></span>
+</td>
+</tr>
+</tbody>
+</table>, 'images': {'images': ['https://inew.foxeer.com//upload/s/goods/2023-12-06/10-11-47-656fd8632a187.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2023-12-06/10-11-54-656fd86a58a98.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2023-12-06/10-11-54-656fd86a51db6.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2023-12-06/10-11-54-656fd86a31881.images.400x400.jpg'], 'image_block': <div class="product-img">
+<a class="jqzoom fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2023-12-06/10-11-47-656fd8632a187.images.800x800.jpg" rel="gal1"><span big="https://inew.foxeer.com//upload/s/goods/2023-12-06/10-11-47-656fd8632a187.images.800x800.jpg" class="zoom"><img id="zoomimg" src="https://inew.foxeer.com//upload/s/goods/2023-12-06/10-11-47-656fd8632a187.images.400x400.jpg" width="600"/></span> </a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2023-12-06/10-11-54-656fd86a58a98.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2023-12-06/10-11-54-656fd86a58a98.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2023-12-06/10-11-54-656fd86a58a98.images.400x400.jpg" width="600"/></span></a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2023-12-06/10-11-54-656fd86a51db6.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2023-12-06/10-11-54-656fd86a51db6.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2023-12-06/10-11-54-656fd86a51db6.images.400x400.jpg" width="600"/></span></a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2023-12-06/10-11-54-656fd86a31881.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2023-12-06/10-11-54-656fd86a31881.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2023-12-06/10-11-54-656fd86a31881.images.400x400.jpg" width="600"/></span></a>
+</div>}}, 'tags': {'tag_combinations': [''], 'spec_info': <div id="spec_info">
+</div>}}, {'name': <h3 class="product-name product_title">
+<a href="https://www.foxeer.com/foxeer-ft640-v2-analog-cvbs-thermal-camera-g-563">Foxeer FT640 V2 Analog CVBS Thermal Camera</a>
+</h3>, 'link': 'https://www.foxeer.com/foxeer-ft640-v2-analog-cvbs-thermal-camera-g-563', 'price': {'price': <div class="price price-detail">$3499 </div>, 'price_div': <div class="price price-detail">$3499 </div>}, 'type': 'Camera', 'details': {'details': {<td valign="center">
+<span>Resolution</span>
+</td>: <td valign="center">
+<span>640x512</span>
+</td>, <td valign="center">
+<span>Frame Rate</span><span></span>
+</td>: <td valign="center">
+<span>60fps</span>
+</td>, <td valign="center">
+<span>Lens</span><span></span>
+</td>: <td valign="center">
+<span>Fixed Focus Atherma 9.1mm</span>
+</td>, <td valign="center">
+<span>FOV(H*V)</span><span></span>
+</td>: <td valign="center">
+<span>48.7°*38.6°</span>
+</td>, <td valign="center">
+<span>Refresh Rate</span>
+</td>: <td valign="center">
+<span>25Hz</span>
+</td>, <td valign="center">
+<span>Detector Type</span>
+</td>: <td valign="center">
+<span>12μm</span>
+</td>, <td valign="center">
+<span>Spectral Range</span><span></span>
+</td>: <td valign="center">
+<span>8～14μm</span><span></span>
+</td>, <td valign="center">
+<span>Thermal Sensitivity</span><span></span>
+</td>: <td valign="center">
+<span>&lt;50mk</span><span></span>
+</td>, <td valign="center">
+<span>Image Display</span><span></span>
+</td>: <td valign="center">
+<span>White Hot</span><span></span>
+</td>, <td valign="center">
+<span>Image Algorithm</span><span></span>
+</td>: <td valign="center">
+<span>Non-uniformity Correction (NUC); 3D Noise Reduction (3DNR); Digital Detail Enhancement</span><span></span>
+</td>, <td valign="center">
+<span>Power Input</span><span></span>
+</td>: <td valign="center">
+<span>4.5-18V</span><span></span>
+</td>, <td valign="center" width="235">
+<span>Video Output </span><span></span>
+</td>: <td valign="center" width="235">
+<span>CVBS</span>
+</td>, <td valign="center">
+<span>Weight</span><span></span>
+</td>: <td valign="center">
+<span>38g</span><span></span>
+</td>, <td valign="center">
+<span>TV System</span><span></span>
+</td>: <td valign="center">
+PAL
+</td>, <td valign="center">
+<span>Size</span><span></span>
+</td>: <td valign="center">
+<span>25.8*25.8*31.7mm</span><span></span>
+</td>, <td valign="center">
+<span>Consumption</span><span></span>
+</td>: <td valign="center">
+<span>&lt;1.2W</span><span></span>
+</td>, <td valign="center">
+<span>Working Temperature</span><span></span>
+</td>: <td valign="center">
+<span>-40℃～+80℃</span><span></span>
+</td>, <td valign="center">
+<span>Storage Temperature</span><span></span>
+</td>: <td valign="center">
+<span>-50℃～+85℃</span><span></span>
+</td>, <td valign="center">
+<span>Humidity</span><span></span>
+</td>: <td valign="center">
+<span>5%~95%, Non-condensin</span><span></span>
+</td>, <td valign="center">
+<span>Vibration</span><span></span>
+</td>: <td valign="center">
+<span>6.06grms, 3-axis</span><span></span>
+</td>, <td valign="center">
+<span>Shock</span><span></span>
+</td>: <td valign="center">
+<span>Half-sine Wave, 80g/4ms, 3-axis 6-directi</span><span></span>
+</td>, <td valign="center">
+<span>Package Includes</span><span></span>
+</td>: <td valign="center">
+<span>1 x Camera, 1 x Cable</span><span></span>
+</td>, 'download_links': [], 'video_link': None}, 'details_table': <table class="table table-bordered">
+<tbody>
+<tr>
+<td valign="center">
+<span>Resolution</span>
+</td>
+<td valign="center">
+<span>640x512</span>
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>Frame Rate</span><span></span>
+</td>
+<td valign="center">
+<span>60fps</span>
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>Lens</span><span></span>
+</td>
+<td valign="center">
+<span>Fixed Focus Atherma 9.1mm</span>
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>FOV(H*V)</span><span></span>
+</td>
+<td valign="center">
+<span>48.7°*38.6°</span>
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>Refresh Rate</span>
+</td>
+<td valign="center">
+<span>25Hz</span>
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>Detector Type</span>
+</td>
+<td valign="center">
+<span>12μm</span>
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>Spectral Range</span><span></span>
+</td>
+<td valign="center">
+<span>8～14μm</span><span></span>
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>Thermal Sensitivity</span><span></span>
+</td>
+<td valign="center">
+<span>&lt;50mk</span><span></span>
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>Image Display</span><span></span>
+</td>
+<td valign="center">
+<span>White Hot</span><span></span>
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>Image Algorithm</span><span></span>
+</td>
+<td valign="center">
+<span>Non-uniformity Correction (NUC); 3D Noise Reduction (3DNR); Digital Detail Enhancement</span><span></span>
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>Power Input</span><span></span>
+</td>
+<td valign="center">
+<span>4.5-18V</span><span></span>
+</td>
+</tr>
+<tr>
+<td valign="center" width="235">
+<span>Video Output </span><span></span>
+</td>
+<td valign="center" width="235">
+<span>CVBS</span>
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>Weight</span><span></span>
+</td>
+<td valign="center">
+<span>38g</span><span></span>
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>TV System</span><span></span>
+</td>
+<td valign="center">
+PAL
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>Size</span><span></span>
+</td>
+<td valign="center">
+<span>25.8*25.8*31.7mm</span><span></span>
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>Consumption</span><span></span>
+</td>
+<td valign="center">
+<span>&lt;1.2W</span><span></span>
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>Working Temperature</span><span></span>
+</td>
+<td valign="center">
+<span>-40℃～+80℃</span><span></span>
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>Storage Temperature</span><span></span>
+</td>
+<td valign="center">
+<span>-50℃～+85℃</span><span></span>
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>Humidity</span><span></span>
+</td>
+<td valign="center">
+<span>5%~95%, Non-condensin</span><span></span>
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>Vibration</span><span></span>
+</td>
+<td valign="center">
+<span>6.06grms, 3-axis</span><span></span>
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>Shock</span><span></span>
+</td>
+<td valign="center">
+<span>Half-sine Wave, 80g/4ms, 3-axis 6-directi</span><span></span>
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>Package Includes</span><span></span>
+</td>
+<td valign="center">
+<span>1 x Camera, 1 x Cable</span><span></span>
+</td>
+</tr>
+</tbody>
+</table>, 'images': {'images': ['https://inew.foxeer.com//upload/s/goods/2023-11-10/11-50-54-654da89e13246.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2023-11-10/11-51-13-654da8b1e0b2b.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2023-11-10/11-51-13-654da8b1d7d6c.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2023-11-10/11-51-13-654da8b1c4778.images.400x400.jpg'], 'image_block': <div class="product-img">
+<a class="jqzoom fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2023-11-10/11-50-54-654da89e13246.images.800x800.jpg" rel="gal1"><span big="https://inew.foxeer.com//upload/s/goods/2023-11-10/11-50-54-654da89e13246.images.800x800.jpg" class="zoom"><img id="zoomimg" src="https://inew.foxeer.com//upload/s/goods/2023-11-10/11-50-54-654da89e13246.images.400x400.jpg" width="600"/></span> </a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2023-11-10/11-51-13-654da8b1e0b2b.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2023-11-10/11-51-13-654da8b1e0b2b.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2023-11-10/11-51-13-654da8b1e0b2b.images.400x400.jpg" width="600"/></span></a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2023-11-10/11-51-13-654da8b1d7d6c.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2023-11-10/11-51-13-654da8b1d7d6c.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2023-11-10/11-51-13-654da8b1d7d6c.images.400x400.jpg" width="600"/></span></a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2023-11-10/11-51-13-654da8b1c4778.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2023-11-10/11-51-13-654da8b1c4778.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2023-11-10/11-51-13-654da8b1c4778.images.400x400.jpg" width="600"/></span></a>
+</div>}}, 'tags': {'tag_combinations': [''], 'spec_info': <div id="spec_info">
+</div>}}, {'name': <h3 class="product-name product_title">
+<a href="https://www.foxeer.com/foxeer-ft384-v2-thermal-camera-g-562">Foxeer FT384 V2 Thermal camera</a>
+</h3>, 'link': 'https://www.foxeer.com/foxeer-ft384-v2-thermal-camera-g-562', 'price': {'price': <div class="price price-detail">$1999 </div>, 'price_div': <div class="price price-detail">$1999 </div>}, 'type': 'Camera', 'details': {'details': {<td valign="center">
+<span>Resolution</span>
+</td>: <td valign="center">
+<span>384x288</span>
+</td>, <td valign="center">
+<span>Frame Rate</span><span></span>
+</td>: <td valign="center">
+<span>50fps</span>
+</td>, <td valign="center">
+<span>Lens</span><span></span>
+</td>: <td valign="center">
+<span>9.1mm/29.2°*21.7°(H*V); 5.3mm/50°*37.5°(H*V)</span>
+</td>, <td valign="center">
+<span>Refresh Rate</span>
+</td>: <td valign="center">
+<span>25Hz</span>
+</td>, <td valign="center">
+<span>Detector Type</span>
+</td>: <td valign="center">
+<span>12μm</span>
+</td>, <td valign="center">
+<span>Spectral Range</span><span></span>
+</td>: <td valign="center">
+<span>8～14μm</span><span></span>
+</td>, <td valign="center">
+<span>Thermal Sensitivity</span><span></span>
+</td>: <td valign="center">
+<span>&lt;50mk</span><span></span>
+</td>, <td valign="center">
+<span>Image Display</span><span></span>
+</td>: <td valign="center">
+<span>White Hot</span><span></span>
+</td>, <td valign="center">
+<span>Image Algorithm</span><span></span>
+</td>: <td valign="center">
+<span>Non-uniformity Correction (NUC); 3D Noise Reduction (3DNR); Digital Detail Enhancement</span><span></span>
+</td>, <td valign="center">
+<span>Power Input</span><span></span>
+</td>: <td valign="center">
+<span>4.5-18V</span><span></span>
+</td>, <td valign="center" width="235">
+<span>Video Output </span><span></span>
+</td>: <td valign="center" width="235">
+<span>CVBS</span>
+</td>, <td valign="center">
+<span>Weight</span><span></span>
+</td>: <td valign="center">
+<span>38g</span><span></span>
+</td>, <td valign="center">
+<span>TV System</span><span></span>
+</td>: <td valign="center">
+<span>PAL</span><span></span>
+</td>, <td valign="center">
+<span>Size</span><span></span>
+</td>: <td valign="center">
+<span>23*23*29mm</span><span></span>
+</td>, <td valign="center">
+<span>Consumption</span><span></span>
+</td>: <td valign="center">
+<span>&lt;1W</span><span></span>
+</td>, <td valign="center">
+<span>Working Temperature</span><span></span>
+</td>: <td valign="center">
+<span>-40℃～+80℃</span><span></span>
+</td>, <td valign="center">
+<span>Storage Temperature</span><span></span>
+</td>: <td valign="center">
+<span>-50℃～+85℃</span><span></span>
+</td>, <td valign="center">
+<span>Humidity</span><span></span>
+</td>: <td valign="center">
+<span>5%~95%, Non-condensin</span><span></span>
+</td>, <td valign="center">
+<span>Vibration</span><span></span>
+</td>: <td valign="center">
+<span>6.06grms, 3-axis</span><span></span>
+</td>, <td valign="center">
+<span>Shock</span><span></span>
+</td>: <td valign="center">
+<span>Half-sine Wave, 80g/4ms, 3-axis 6-directi</span><span></span>
+</td>, <td valign="center">
+<span>Package Includes</span><span></span>
+</td>: <td valign="center">
+<span>1 x Camera, 1 x Cable</span><span></span>
+</td>, 'download_links': [], 'video_link': 'https://www.youtube.com/embed/LRIvuZ_1G3U?si=k7HPlVW8-YuqFa0e'}, 'details_table': <table class="table table-bordered">
+<tbody>
+<tr>
+<td valign="center">
+<span>Resolution</span>
+</td>
+<td valign="center">
+<span>384x288</span>
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>Frame Rate</span><span></span>
+</td>
+<td valign="center">
+<span>50fps</span>
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>Lens</span><span></span>
+</td>
+<td valign="center">
+<span>9.1mm/29.2°*21.7°(H*V); 5.3mm/50°*37.5°(H*V)</span>
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>Refresh Rate</span>
+</td>
+<td valign="center">
+<span>25Hz</span>
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>Detector Type</span>
+</td>
+<td valign="center">
+<span>12μm</span>
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>Spectral Range</span><span></span>
+</td>
+<td valign="center">
+<span>8～14μm</span><span></span>
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>Thermal Sensitivity</span><span></span>
+</td>
+<td valign="center">
+<span>&lt;50mk</span><span></span>
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>Image Display</span><span></span>
+</td>
+<td valign="center">
+<span>White Hot</span><span></span>
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>Image Algorithm</span><span></span>
+</td>
+<td valign="center">
+<span>Non-uniformity Correction (NUC); 3D Noise Reduction (3DNR); Digital Detail Enhancement</span><span></span>
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>Power Input</span><span></span>
+</td>
+<td valign="center">
+<span>4.5-18V</span><span></span>
+</td>
+</tr>
+<tr>
+<td valign="center" width="235">
+<span>Video Output </span><span></span>
+</td>
+<td valign="center" width="235">
+<span>CVBS</span>
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>Weight</span><span></span>
+</td>
+<td valign="center">
+<span>38g</span><span></span>
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>TV System</span><span></span>
+</td>
+<td valign="center">
+<span>PAL</span><span></span>
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>Size</span><span></span>
+</td>
+<td valign="center">
+<span>23*23*29mm</span><span></span>
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>Consumption</span><span></span>
+</td>
+<td valign="center">
+<span>&lt;1W</span><span></span>
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>Working Temperature</span><span></span>
+</td>
+<td valign="center">
+<span>-40℃～+80℃</span><span></span>
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>Storage Temperature</span><span></span>
+</td>
+<td valign="center">
+<span>-50℃～+85℃</span><span></span>
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>Humidity</span><span></span>
+</td>
+<td valign="center">
+<span>5%~95%, Non-condensin</span><span></span>
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>Vibration</span><span></span>
+</td>
+<td valign="center">
+<span>6.06grms, 3-axis</span><span></span>
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>Shock</span><span></span>
+</td>
+<td valign="center">
+<span>Half-sine Wave, 80g/4ms, 3-axis 6-directi</span><span></span>
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>Package Includes</span><span></span>
+</td>
+<td valign="center">
+<span>1 x Camera, 1 x Cable</span><span></span>
+</td>
+</tr>
+</tbody>
+</table>, 'images': {'images': ['https://inew.foxeer.com//upload/s/goods/2023-11-10/11-47-15-654da7c33cba6.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2023-11-10/11-47-28-654da7d0367ae.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2023-11-10/11-47-26-654da7cee1440.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2023-11-10/11-47-27-654da7cf072d8.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2023-11-10/11-47-26-654da7cedbaa0.images.400x400.jpg'], 'image_block': <div class="product-img">
+<a class="jqzoom fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2023-11-10/11-47-15-654da7c33cba6.images.800x800.jpg" rel="gal1"><span big="https://inew.foxeer.com//upload/s/goods/2023-11-10/11-47-15-654da7c33cba6.images.800x800.jpg" class="zoom"><img id="zoomimg" src="https://inew.foxeer.com//upload/s/goods/2023-11-10/11-47-15-654da7c33cba6.images.400x400.jpg" width="600"/></span> </a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2023-11-10/11-47-28-654da7d0367ae.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2023-11-10/11-47-28-654da7d0367ae.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2023-11-10/11-47-28-654da7d0367ae.images.400x400.jpg" width="600"/></span></a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2023-11-10/11-47-26-654da7cee1440.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2023-11-10/11-47-26-654da7cee1440.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2023-11-10/11-47-26-654da7cee1440.images.400x400.jpg" width="600"/></span></a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2023-11-10/11-47-27-654da7cf072d8.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2023-11-10/11-47-27-654da7cf072d8.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2023-11-10/11-47-27-654da7cf072d8.images.400x400.jpg" width="600"/></span></a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2023-11-10/11-47-26-654da7cedbaa0.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2023-11-10/11-47-26-654da7cedbaa0.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2023-11-10/11-47-26-654da7cedbaa0.images.400x400.jpg" width="600"/></span></a>
+</div>}}, 'tags': {'tag_combinations': ['lens: 9.1mm', 'lens: 5.3mm'], 'spec_info': <div id="spec_info">
+<div class="spec_goods_price_div standard clearfix">
+<ul>
+<li class="jaj"><span>lens: </span></li>
+<li class="lawir colo">
+<input hidden="" id="goods_spec_385" name="goods_spec[4]" type="radio" value="385">
+<a data-item_id="385" enable="1" id="goods_spec_a_385" onclick=" select_filter(this);">9.1mm</a>
+<input hidden="" id="goods_spec_386" name="goods_spec[4]" type="radio" value="386">
+<a data-item_id="386" enable="1" id="goods_spec_a_386" onclick=" select_filter(this);">5.3mm</a>
+</input></input></li>
+</ul>
+</div>
+</div>}}]

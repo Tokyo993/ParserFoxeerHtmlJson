@@ -1,0 +1,4227 @@
+[{'name': <h3 class="product-name product_title">
+<a href="https://www.foxeer.com/foxeer-f405-v2-fc-reaper-55a-esc-8s-stack-video-switcher-servo-borameter-g-578">Foxeer F405 V2 FC Reaper 55A ESC 8S Stack Video Switcher Servo Borameter</a>
+</h3>, 'link': 'https://www.foxeer.com/foxeer-f405-v2-fc-reaper-55a-esc-8s-stack-video-switcher-servo-borameter-g-578', 'price': {'price': <div class="price price-detail">$32.9-$66.9 </div>, 'price_div': <div class="price price-detail">$32.9-$66.9 </div>}, 'type': 'FlightController', 'details': {'details': {<td valign="center" width="189">
+<span>Model</span><span></span>
+</td>: <td valign="center" width="413">
+Foxeer F405 V2 Flight Controller
+</td>, <td valign="center">
+CPU
+</td>: <td valign="center">
+STM32F405RGT6
+</td>, <td valign="center">
+Gyro
+</td>: <td valign="center">
+ICM42688-P
+</td>, <td valign="center">
+Barometer
+</td>: <td valign="center">
+DPS310
+</td>, <td valign="center">
+Power Supply
+</td>: <td valign="center">
+4~8S Lipo
+</td>, <td valign="center">
+<span>BEC Output</span><span></span>
+</td>: <td valign="center">
+DC5V/3A; 10V/3A
+</td>, <td valign="center">
+<span>OSD</span><span></span>
+</td>: <td valign="center">
+BF OSD
+</td>, <td valign="center">
+Black Box
+</td>: <td valign="center">
+64M Flash Memory
+</td>, <td valign="center">
+UART
+</td>: <td valign="center">
+6 Set
+</td>, <td valign="center">
+Connector
+</td>: <td valign="center">
+DJI; GPS/Compass; 2 Camera Switch; VTX
+</td>, <td valign="center">
+ESC Telemetry
+</td>: <td valign="center">
+RX1
+</td>, <td valign="center">
+X8
+</td>: <td valign="center">
+Supported
+</td>, <td valign="center">
+ADC
+</td>: <td valign="center">
+X3
+</td>, <td valign="center">
+PWM
+</td>: <td valign="center">
+1CH
+</td>, <td valign="center">
+Buzzer
+</td>: <td valign="center">
+YES
+</td>, <td valign="center">
+Smart Audio
+</td>: <td valign="center">
+YES
+</td>, <td valign="center">
+LED
+</td>: <td valign="center">
+1 Set 2812 LED
+</td>, <td valign="center">
+USB
+</td>: <td valign="center">
+Type-C
+</td>, <td valign="center">
+Fireware
+</td>: <td valign="center">
+FOXEERF405V2(BetaFlight); F405V2(Ardupilot)
+</td>, <td valign="center">
+Size
+</td>: <td valign="center">
+37X37mm
+</td>, <td valign="center">
+Mounting Hole
+</td>: <td valign="center">
+30.5*30.5mm,Φ4mm
+</td>, <td valign="center">
+Weight(g)
+</td>: <td valign="center">
+8.4g
+</td>, <td valign="center">
+Working Temperature
+</td>: <td valign="center">
+-20℃ ~ +55℃
+</td>, <td valign="center">
+Working Humidity
+</td>: <td valign="center">
+20～95%
+</td>, <td valign="center">
+Storage Temperature
+</td>: <td valign="center">
+-20℃ ~ +70℃
+</td>, 'download_links': [], 'video_link': None}, 'details_table': <table class="table table-bordered" width="614">
+<tbody>
+<tr>
+<td valign="center" width="189">
+<span>Model</span><span></span>
+</td>
+<td valign="center" width="413">
+Foxeer F405 V2 Flight Controller
+</td>
+</tr>
+<tr>
+<td valign="center">
+CPU
+</td>
+<td valign="center">
+STM32F405RGT6
+</td>
+</tr>
+<tr>
+<td valign="center">
+Gyro
+</td>
+<td valign="center">
+ICM42688-P
+</td>
+</tr>
+<tr>
+<td valign="center">
+Barometer
+</td>
+<td valign="center">
+DPS310
+</td>
+</tr>
+<tr>
+<td valign="center">
+Power Supply
+</td>
+<td valign="center">
+4~8S Lipo
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>BEC Output</span><span></span>
+</td>
+<td valign="center">
+DC5V/3A; 10V/3A
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>OSD</span><span></span>
+</td>
+<td valign="center">
+BF OSD
+</td>
+</tr>
+<tr>
+<td valign="center">
+Black Box
+</td>
+<td valign="center">
+64M Flash Memory
+</td>
+</tr>
+<tr>
+<td valign="center">
+UART
+</td>
+<td valign="center">
+6 Set
+</td>
+</tr>
+<tr>
+<td valign="center">
+Connector
+</td>
+<td valign="center">
+DJI; GPS/Compass; 2 Camera Switch; VTX
+</td>
+</tr>
+<tr>
+<td valign="center">
+ESC Telemetry
+</td>
+<td valign="center">
+RX1
+</td>
+</tr>
+<tr>
+<td valign="center">
+X8
+</td>
+<td valign="center">
+Supported
+</td>
+</tr>
+<tr>
+<td valign="center">
+ADC
+</td>
+<td valign="center">
+X3
+</td>
+</tr>
+<tr>
+<td valign="center">
+PWM
+</td>
+<td valign="center">
+1CH
+</td>
+</tr>
+<tr>
+<td valign="center">
+Buzzer
+</td>
+<td valign="center">
+YES
+</td>
+</tr>
+<tr>
+<td valign="center">
+Smart Audio
+</td>
+<td valign="center">
+YES
+</td>
+</tr>
+<tr>
+<td valign="center">
+LED
+</td>
+<td valign="center">
+1 Set 2812 LED
+</td>
+</tr>
+<tr>
+<td valign="center">
+USB
+</td>
+<td valign="center">
+Type-C
+</td>
+</tr>
+<tr>
+<td valign="center">
+Fireware
+</td>
+<td valign="center">
+FOXEERF405V2(BetaFlight); F405V2(Ardupilot)
+</td>
+</tr>
+<tr>
+<td valign="center">
+Size
+</td>
+<td valign="center">
+37X37mm
+</td>
+</tr>
+<tr>
+<td valign="center">
+Mounting Hole
+</td>
+<td valign="center">
+30.5*30.5mm,Φ4mm
+</td>
+</tr>
+<tr>
+<td valign="center">
+Weight(g)
+</td>
+<td valign="center">
+8.4g
+</td>
+</tr>
+<tr>
+<td valign="center">
+Working Temperature
+</td>
+<td valign="center">
+-20℃ ~ +55℃
+</td>
+</tr>
+<tr>
+<td valign="center">
+Working Humidity
+</td>
+<td valign="center">
+20～95%
+</td>
+</tr>
+<tr>
+<td valign="center">
+Storage Temperature
+</td>
+<td valign="center">
+-20℃ ~ +70℃
+</td>
+</tr>
+<tr>
+</tr>
+</tbody>
+</table>, 'images': {'images': ['https://inew.foxeer.com//upload/s/goods/2024-03-29/13-59-11-660658afb2316.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2024-03-29/13-59-24-660658bcc3f3e.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2024-03-29/13-59-24-660658bc9371d.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2024-03-29/13-59-24-660658bc65ed5.images.400x400.jpg'], 'image_block': <div class="product-img">
+<a class="jqzoom fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2024-03-29/13-59-11-660658afb2316.images.800x800.jpg" rel="gal1"><span big="https://inew.foxeer.com//upload/s/goods/2024-03-29/13-59-11-660658afb2316.images.800x800.jpg" class="zoom"><img id="zoomimg" src="https://inew.foxeer.com//upload/s/goods/2024-03-29/13-59-11-660658afb2316.images.400x400.jpg" width="600"/></span> </a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2024-03-29/13-59-24-660658bcc3f3e.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2024-03-29/13-59-24-660658bcc3f3e.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2024-03-29/13-59-24-660658bcc3f3e.images.400x400.jpg" width="600"/></span></a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2024-03-29/13-59-24-660658bc9371d.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2024-03-29/13-59-24-660658bc9371d.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2024-03-29/13-59-24-660658bc9371d.images.400x400.jpg" width="600"/></span></a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2024-03-29/13-59-24-660658bc65ed5.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2024-03-29/13-59-24-660658bc65ed5.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2024-03-29/13-59-24-660658bc65ed5.images.400x400.jpg" width="600"/></span></a>
+</div>}}, 'tags': {'tag_combinations': ['Version: Kit', 'Version: FC', 'Version: ESC'], 'spec_info': <div id="spec_info">
+<div class="spec_goods_price_div standard clearfix">
+<ul>
+<li class="jaj"><span>Version: </span></li>
+<li class="lawir colo">
+<input hidden="" id="goods_spec_339" name="goods_spec[55]" type="radio" value="339">
+<a data-item_id="339" enable="1" id="goods_spec_a_339" onclick=" select_filter(this);">Kit</a>
+<input hidden="" id="goods_spec_381" name="goods_spec[55]" type="radio" value="381">
+<a data-item_id="381" enable="1" id="goods_spec_a_381" onclick=" select_filter(this);">FC</a>
+<input hidden="" id="goods_spec_382" name="goods_spec[55]" type="radio" value="382"/>
+<a data-item_id="382" enable="1" id="goods_spec_a_382" onclick=" select_filter(this);">ESC</a>
+</input></input></li>
+</ul>
+</div>
+</div>}}, {'name': <h3 class="product-name product_title">
+<a href="https://www.foxeer.com/foxeer-h7-mini-mpu6000-fc-8s-dual-bec-barometer-g-504">Foxeer H7 Mini MPU6000 FC 8S Dual BEC Barometer</a>
+</h3>, 'link': 'https://www.foxeer.com/foxeer-h7-mini-mpu6000-fc-8s-dual-bec-barometer-g-504', 'price': {'price': <div class="price price-detail">$104.9 </div>, 'price_div': <div class="price price-detail">$104.9 </div>}, 'type': 'FlightController', 'details': {'details': {<td valign="center" width="189">
+<span>Model</span><span></span>
+</td>: <td valign="center" width="413">
+Foxeer H7
+</td>, <td valign="center">
+CPU
+</td>: <td valign="center">
+STM32H743
+</td>, <td valign="center">
+Gyro
+</td>: <td valign="center">
+MPU6000
+</td>, <td valign="center">
+Barometer
+</td>: <td valign="center">
+DPS310
+</td>, <td valign="center">
+Power Supply
+</td>: <td valign="center">
+4~8S Lipo
+</td>, <td valign="center">
+<span>BEC Output</span><span></span>
+</td>: <td valign="center">
+DC5V/2A; DC10V/2A
+</td>, <td valign="center">
+<span>OSD</span><span></span>
+</td>: <td valign="center">
+BF OSD
+</td>, <td valign="center">
+Black Box
+</td>: <td valign="center">
+16M Flash Memory
+</td>, <td valign="center">
+UART
+</td>: <td valign="center">
+6 Sets+Rx8
+</td>, <td valign="center">
+ESC Telemetry
+</td>: <td valign="center">
+RX8
+</td>, <td valign="center">
+Buzzer
+</td>: <td valign="center">
+YES
+</td>, <td valign="center">
+Smart Audio
+</td>: <td valign="center">
+YES
+</td>, <td valign="center">
+LED
+</td>: <td valign="center">
+1 Set 2812 LED
+</td>, <td valign="center">
+USB
+</td>: <td valign="center">
+Type-C
+</td>, <td valign="center">
+Servo
+</td>: <td valign="center">
+S1,S2
+</td>, <td valign="center">
+Firmware
+</td>: <td valign="center">
+BetaFlight:FOXEERH743
+</td>, <td valign="center">
+Size
+</td>: <td valign="center">
+30*31mm
+</td>, <td valign="center">
+Mounting Hole
+</td>: <td valign="center">
+20X20mm,Φ4mm
+</td>, <td valign="center">
+Weight(g)
+</td>: <td valign="center">
+5.6g
+</td>, <td valign="center">
+Working Temperature
+</td>: <td valign="center">
+-20℃ ~ +55℃
+</td>, <td valign="center">
+Working Humidity
+</td>: <td valign="center">
+20～95%
+</td>, <td valign="center">
+Storage Temperature
+</td>: <td valign="center">
+-20℃ ~ +70℃
+</td>, <td valign="center">
+Package Includes
+</td>: <td valign="center">
+1*FC, 4*Rubbers Columns
+</td>, 'download_links': [], 'video_link': None}, 'details_table': <table class="table table-bordered" width="614">
+<tbody>
+<tr>
+<td valign="center" width="189">
+<span>Model</span><span></span>
+</td>
+<td valign="center" width="413">
+Foxeer H7
+</td>
+</tr>
+<tr>
+<td valign="center">
+CPU
+</td>
+<td valign="center">
+STM32H743
+</td>
+</tr>
+<tr>
+<td valign="center">
+Gyro
+</td>
+<td valign="center">
+MPU6000
+</td>
+</tr>
+<tr>
+<td valign="center">
+Barometer
+</td>
+<td valign="center">
+DPS310
+</td>
+</tr>
+<tr>
+<td valign="center">
+Power Supply
+</td>
+<td valign="center">
+4~8S Lipo
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>BEC Output</span><span></span>
+</td>
+<td valign="center">
+DC5V/2A; DC10V/2A
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>OSD</span><span></span>
+</td>
+<td valign="center">
+BF OSD
+</td>
+</tr>
+<tr>
+<td valign="center">
+Black Box
+</td>
+<td valign="center">
+16M Flash Memory
+</td>
+</tr>
+<tr>
+<td valign="center">
+UART
+</td>
+<td valign="center">
+6 Sets+Rx8
+</td>
+</tr>
+<tr>
+<td valign="center">
+ESC Telemetry
+</td>
+<td valign="center">
+RX8
+</td>
+</tr>
+<tr>
+<td valign="center">
+Buzzer
+</td>
+<td valign="center">
+YES
+</td>
+</tr>
+<tr>
+<td valign="center">
+Smart Audio
+</td>
+<td valign="center">
+YES
+</td>
+</tr>
+<tr>
+<td valign="center">
+LED
+</td>
+<td valign="center">
+1 Set 2812 LED
+</td>
+</tr>
+<tr>
+<td valign="center">
+USB
+</td>
+<td valign="center">
+Type-C
+</td>
+</tr>
+<tr>
+<td valign="center">
+Servo
+</td>
+<td valign="center">
+S1,S2
+</td>
+</tr>
+<tr>
+<td valign="center">
+Firmware
+</td>
+<td valign="center">
+BetaFlight:FOXEERH743
+</td>
+</tr>
+<tr>
+<td valign="center">
+Size
+</td>
+<td valign="center">
+30*31mm
+</td>
+</tr>
+<tr>
+<td valign="center">
+Mounting Hole
+</td>
+<td valign="center">
+20X20mm,Φ4mm
+</td>
+</tr>
+<tr>
+<td valign="center">
+Weight(g)
+</td>
+<td valign="center">
+5.6g
+</td>
+</tr>
+<tr>
+<td valign="center">
+Working Temperature
+</td>
+<td valign="center">
+-20℃ ~ +55℃
+</td>
+</tr>
+<tr>
+<td valign="center">
+Working Humidity
+</td>
+<td valign="center">
+20～95%
+</td>
+</tr>
+<tr>
+<td valign="center">
+Storage Temperature
+</td>
+<td valign="center">
+-20℃ ~ +70℃
+</td>
+</tr>
+<tr>
+<td valign="center">
+Package Includes
+</td>
+<td valign="center">
+1*FC, 4*Rubbers Columns
+</td>
+</tr>
+<tr>
+</tr>
+</tbody>
+</table>, 'images': {'images': ['https://inew.foxeer.com//upload/s/goods/2023-03-16/18-07-19-6412ea575532c.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2023-03-16/18-07-38-6412ea6a0daa2.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2023-03-16/18-07-38-6412ea6a5d127.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2023-03-16/18-07-37-6412ea6911a01.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2023-03-16/18-07-36-6412ea68d1233.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2023-03-16/18-07-35-6412ea678b3cc.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2023-03-16/18-07-35-6412ea673034b.images.400x400.jpg'], 'image_block': <div class="product-img">
+<a class="jqzoom fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2023-03-16/18-07-19-6412ea575532c.images.800x800.jpg" rel="gal1"><span big="https://inew.foxeer.com//upload/s/goods/2023-03-16/18-07-19-6412ea575532c.images.800x800.jpg" class="zoom"><img id="zoomimg" src="https://inew.foxeer.com//upload/s/goods/2023-03-16/18-07-19-6412ea575532c.images.400x400.jpg" width="600"/></span> </a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2023-03-16/18-07-38-6412ea6a0daa2.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2023-03-16/18-07-38-6412ea6a0daa2.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2023-03-16/18-07-38-6412ea6a0daa2.images.400x400.jpg" width="600"/></span></a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2023-03-16/18-07-38-6412ea6a5d127.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2023-03-16/18-07-38-6412ea6a5d127.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2023-03-16/18-07-38-6412ea6a5d127.images.400x400.jpg" width="600"/></span></a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2023-03-16/18-07-37-6412ea6911a01.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2023-03-16/18-07-37-6412ea6911a01.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2023-03-16/18-07-37-6412ea6911a01.images.400x400.jpg" width="600"/></span></a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2023-03-16/18-07-36-6412ea68d1233.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2023-03-16/18-07-36-6412ea68d1233.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2023-03-16/18-07-36-6412ea68d1233.images.400x400.jpg" width="600"/></span></a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2023-03-16/18-07-35-6412ea678b3cc.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2023-03-16/18-07-35-6412ea678b3cc.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2023-03-16/18-07-35-6412ea678b3cc.images.400x400.jpg" width="600"/></span></a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2023-03-16/18-07-35-6412ea673034b.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2023-03-16/18-07-35-6412ea673034b.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2023-03-16/18-07-35-6412ea673034b.images.400x400.jpg" width="600"/></span></a>
+</div>}}, 'tags': {'tag_combinations': [''], 'spec_info': <div id="spec_info">
+</div>}}, {'name': <h3 class="product-name product_title">
+<a href="https://www.foxeer.com/foxeer-h7-mpu6000-fc-8s-dual-bec-barometer-x8-g-503">Foxeer H7 MPU6000 FC 8S Dual BEC Barometer X8</a>
+</h3>, 'link': 'https://www.foxeer.com/foxeer-h7-mpu6000-fc-8s-dual-bec-barometer-x8-g-503', 'price': {'price': <div class="price price-detail">$104.9 </div>, 'price_div': <div class="price price-detail">$104.9 </div>}, 'type': 'FlightController', 'details': {'details': {<td valign="center" width="189">
+<span>Model</span><span></span>
+</td>: <td valign="center" width="413">
+Foxeer H7
+</td>, <td valign="center">
+CPU
+</td>: <td valign="center">
+FOXEERH743
+</td>, <td valign="center">
+Gyro
+</td>: <td valign="center">
+MPU6000
+</td>, <td valign="center">
+Barometer
+</td>: <td valign="center">
+DPS310
+</td>, <td valign="center">
+Power Supply
+</td>: <td valign="center">
+4~8S Lipo
+</td>, <td valign="center">
+<span>BEC Output</span><span></span>
+</td>: <td valign="center">
+3.3V/0.5A;DC5V/2A;DC10V/2A
+</td>, <td valign="center">
+<span>OSD</span><span></span>
+</td>: <td valign="center">
+BF OSD
+</td>, <td valign="center">
+Black Box
+</td>: <td valign="center">
+16M Flash Memory
+</td>, <td valign="center">
+UART
+</td>: <td valign="center">
+6 Sets+Rx8
+</td>, <td valign="center">
+ESC Telemetry
+</td>: <td valign="center">
+RX8
+</td>, <td valign="center">
+Buzzer
+</td>: <td valign="center">
+YES
+</td>, <td valign="center">
+Connector
+</td>: <td valign="center">
+DJI/HDZero
+</td>, <td valign="center">
+Smart Audio
+</td>: <td valign="center">
+YES
+</td>, <td valign="center">
+LED
+</td>: <td valign="center">
+1 Set 2812 LED
+</td>, <td valign="center">
+USB
+</td>: <td valign="center">
+Type-C
+</td>, <td valign="center">
+Servo
+</td>: <td valign="center">
+S1,S2
+</td>, <td valign="center">
+X8
+</td>: <td valign="center">
+Supported
+</td>, <td valign="center">
+Firmware
+</td>: <td valign="center">
+BetaFlight: FOXEERH743 ； Ardupilot
+</td>, <td valign="center">
+Size
+</td>: <td valign="center">
+37X37mm
+</td>, <td valign="center">
+Mounting Hole
+</td>: <td valign="center">
+30.5X30.5mm,Φ4mm
+</td>, <td valign="center">
+Weight(g)
+</td>: <td valign="center">
+7.8g
+</td>, <td valign="center">
+Working Temperature
+</td>: <td valign="center">
+-20℃ ~ +55℃
+</td>, <td valign="center">
+Working Humidity
+</td>: <td valign="center">
+20～95%
+</td>, <td valign="center">
+Storage Temperature
+</td>: <td valign="center">
+-20℃ ~ +70℃
+</td>, <td valign="center">
+Package Includes
+</td>: <td valign="center">
+1*FC, 4*Rubbers Columns, 1*Cable
+</td>, 'download_links': [], 'video_link': None}, 'details_table': <table class="table table-bordered" width="614">
+<tbody>
+<tr>
+<td valign="center" width="189">
+<span>Model</span><span></span>
+</td>
+<td valign="center" width="413">
+Foxeer H7
+</td>
+</tr>
+<tr>
+<td valign="center">
+CPU
+</td>
+<td valign="center">
+FOXEERH743
+</td>
+</tr>
+<tr>
+<td valign="center">
+Gyro
+</td>
+<td valign="center">
+MPU6000
+</td>
+</tr>
+<tr>
+<td valign="center">
+Barometer
+</td>
+<td valign="center">
+DPS310
+</td>
+</tr>
+<tr>
+<td valign="center">
+Power Supply
+</td>
+<td valign="center">
+4~8S Lipo
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>BEC Output</span><span></span>
+</td>
+<td valign="center">
+3.3V/0.5A;DC5V/2A;DC10V/2A
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>OSD</span><span></span>
+</td>
+<td valign="center">
+BF OSD
+</td>
+</tr>
+<tr>
+<td valign="center">
+Black Box
+</td>
+<td valign="center">
+16M Flash Memory
+</td>
+</tr>
+<tr>
+<td valign="center">
+UART
+</td>
+<td valign="center">
+6 Sets+Rx8
+</td>
+</tr>
+<tr>
+<td valign="center">
+ESC Telemetry
+</td>
+<td valign="center">
+RX8
+</td>
+</tr>
+<tr>
+<td valign="center">
+Buzzer
+</td>
+<td valign="center">
+YES
+</td>
+</tr>
+<tr>
+<td valign="center">
+Connector
+</td>
+<td valign="center">
+DJI/HDZero
+</td>
+</tr>
+<tr>
+<td valign="center">
+Smart Audio
+</td>
+<td valign="center">
+YES
+</td>
+</tr>
+<tr>
+<td valign="center">
+LED
+</td>
+<td valign="center">
+1 Set 2812 LED
+</td>
+</tr>
+<tr>
+<td valign="center">
+USB
+</td>
+<td valign="center">
+Type-C
+</td>
+</tr>
+<tr>
+<td valign="center">
+Servo
+</td>
+<td valign="center">
+S1,S2
+</td>
+</tr>
+<tr>
+<td valign="center">
+X8
+</td>
+<td valign="center">
+Supported
+</td>
+</tr>
+<tr>
+<td valign="center">
+Firmware
+</td>
+<td valign="center">
+BetaFlight: FOXEERH743 ； Ardupilot
+</td>
+</tr>
+<tr>
+<td valign="center">
+Size
+</td>
+<td valign="center">
+37X37mm
+</td>
+</tr>
+<tr>
+<td valign="center">
+Mounting Hole
+</td>
+<td valign="center">
+30.5X30.5mm,Φ4mm
+</td>
+</tr>
+<tr>
+<td valign="center">
+Weight(g)
+</td>
+<td valign="center">
+7.8g
+</td>
+</tr>
+<tr>
+<td valign="center">
+Working Temperature
+</td>
+<td valign="center">
+-20℃ ~ +55℃
+</td>
+</tr>
+<tr>
+<td valign="center">
+Working Humidity
+</td>
+<td valign="center">
+20～95%
+</td>
+</tr>
+<tr>
+<td valign="center">
+Storage Temperature
+</td>
+<td valign="center">
+-20℃ ~ +70℃
+</td>
+</tr>
+<tr>
+<td valign="center">
+Package Includes
+</td>
+<td valign="center">
+1*FC, 4*Rubbers Columns, 1*Cable
+</td>
+</tr>
+<tr>
+</tr>
+</tbody>
+</table>, 'images': {'images': ['https://inew.foxeer.com//upload/s/goods/2023-03-16/18-04-12-6412e99c7158f.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2023-03-16/18-04-25-6412e9a969031.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2023-03-16/18-04-25-6412e9a94e820.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2023-03-16/18-04-24-6412e9a81359d.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2023-03-16/18-04-23-6412e9a7d7fca.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2023-03-16/18-04-23-6412e9a7cbe4b.images.400x400.jpg'], 'image_block': <div class="product-img">
+<a class="jqzoom fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2023-03-16/18-04-12-6412e99c7158f.images.800x800.jpg" rel="gal1"><span big="https://inew.foxeer.com//upload/s/goods/2023-03-16/18-04-12-6412e99c7158f.images.800x800.jpg" class="zoom"><img id="zoomimg" src="https://inew.foxeer.com//upload/s/goods/2023-03-16/18-04-12-6412e99c7158f.images.400x400.jpg" width="600"/></span> </a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2023-03-16/18-04-25-6412e9a969031.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2023-03-16/18-04-25-6412e9a969031.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2023-03-16/18-04-25-6412e9a969031.images.400x400.jpg" width="600"/></span></a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2023-03-16/18-04-25-6412e9a94e820.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2023-03-16/18-04-25-6412e9a94e820.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2023-03-16/18-04-25-6412e9a94e820.images.400x400.jpg" width="600"/></span></a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2023-03-16/18-04-24-6412e9a81359d.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2023-03-16/18-04-24-6412e9a81359d.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2023-03-16/18-04-24-6412e9a81359d.images.400x400.jpg" width="600"/></span></a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2023-03-16/18-04-23-6412e9a7d7fca.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2023-03-16/18-04-23-6412e9a7d7fca.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2023-03-16/18-04-23-6412e9a7d7fca.images.400x400.jpg" width="600"/></span></a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2023-03-16/18-04-23-6412e9a7cbe4b.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2023-03-16/18-04-23-6412e9a7cbe4b.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2023-03-16/18-04-23-6412e9a7cbe4b.images.400x400.jpg" width="600"/></span></a>
+</div>}}, 'tags': {'tag_combinations': [''], 'spec_info': <div id="spec_info">
+</div>}}, {'name': <h3 class="product-name product_title">
+<a href="https://www.foxeer.com/foxeer-f722-v4-mpu6000-fc-8s-dual-bec-barometer-x8-g-502">Foxeer F722 V4 MPU6000 FC 8S Dual BEC Barometer X8</a>
+</h3>, 'link': 'https://www.foxeer.com/foxeer-f722-v4-mpu6000-fc-8s-dual-bec-barometer-x8-g-502', 'price': {'price': <div class="price price-detail">$64.9 </div>, 'price_div': <div class="price price-detail">$64.9 </div>}, 'type': 'FlightController', 'details': {'details': {<td valign="center" width="189">
+<span>Model</span><span></span>
+</td>: <td valign="center" width="413">
+F722 V4 MPU6000
+</td>, <td valign="center">
+CPU
+</td>: <td valign="center">
+STM32F722RET6
+</td>, <td valign="center">
+Gyro
+</td>: <td valign="center">
+MPU6000
+</td>, <td valign="center">
+Barometer
+</td>: <td valign="center">
+DPS310
+</td>, <td valign="center">
+Power Supply
+</td>: <td valign="center">
+4~8S Lipo
+</td>, <td valign="center">
+<span>BEC Output</span><span></span>
+</td>: <td valign="center">
+DC5V/2A; DC10V/2A
+</td>, <td valign="center">
+<span>OSD</span><span></span>
+</td>: <td valign="center">
+BF OSD
+</td>, <td valign="center">
+Black Box
+</td>: <td valign="center">
+16M Flash Memory
+</td>, <td valign="center">
+UART
+</td>: <td valign="center">
+5 Sets+Rx4
+</td>, <td valign="center">
+ESC Telemetry
+</td>: <td valign="center">
+RX4
+</td>, <td valign="center">
+Buzzer
+</td>: <td valign="center">
+YES
+</td>, <td valign="center">
+Connector
+</td>: <td valign="center">
+DJI/HDzero
+</td>, <td valign="center">
+Smart Audio
+</td>: <td valign="center">
+YES
+</td>, <td valign="center">
+LED
+</td>: <td valign="center">
+1 Set 2812 LED
+</td>, <td valign="center">
+USB
+</td>: <td valign="center">
+Type-C
+</td>, <td valign="center">
+X8 Supported
+</td>: <td valign="center">
+Need CLI
+</td>, <td valign="center">
+Firmware
+</td>: <td valign="center">
+BetaFlight:FOXEERF722V4;
+</td>, <td valign="center">
+Size
+</td>: <td valign="center">
+37X37mm
+</td>, <td valign="center">
+Mounting Hole
+</td>: <td valign="center">
+30.5X30.5mm,Φ4mm
+</td>, <td valign="center">
+Weight(g)
+</td>: <td valign="center">
+7.7g
+</td>, <td valign="center">
+Working Temperature
+</td>: <td valign="center">
+-20℃ ~ +55℃
+</td>, <td valign="center">
+Working Humidity
+</td>: <td valign="center">
+20～95%
+</td>, <td valign="center">
+Storage Temperature
+</td>: <td valign="center">
+-20℃ ~ +70℃
+</td>, <td valign="center">
+Package Includes
+</td>: <td valign="center">
+1*FC, 4*Rubbers Columns, 1*Cable
+</td>, 'download_links': [{'text': <a href="https://download.foxeer.com/Foxeer_F722_V4_MPU6000_30x30_X8_CMD.txt" target="_blank">
+X8 Setup CLI
+</a>, 'link': 'https://download.foxeer.com/Foxeer_F722_V4_MPU6000_30x30_X8_CMD.txt'}], 'video_link': None}, 'details_table': <table class="table table-bordered" width="614">
+<tbody>
+<tr>
+<td valign="center" width="189">
+<span>Model</span><span></span>
+</td>
+<td valign="center" width="413">
+F722 V4 MPU6000
+</td>
+</tr>
+<tr>
+<td valign="center">
+CPU
+</td>
+<td valign="center">
+STM32F722RET6
+</td>
+</tr>
+<tr>
+<td valign="center">
+Gyro
+</td>
+<td valign="center">
+MPU6000
+</td>
+</tr>
+<tr>
+<td valign="center">
+Barometer
+</td>
+<td valign="center">
+DPS310
+</td>
+</tr>
+<tr>
+<td valign="center">
+Power Supply
+</td>
+<td valign="center">
+4~8S Lipo
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>BEC Output</span><span></span>
+</td>
+<td valign="center">
+DC5V/2A; DC10V/2A
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>OSD</span><span></span>
+</td>
+<td valign="center">
+BF OSD
+</td>
+</tr>
+<tr>
+<td valign="center">
+Black Box
+</td>
+<td valign="center">
+16M Flash Memory
+</td>
+</tr>
+<tr>
+<td valign="center">
+UART
+</td>
+<td valign="center">
+5 Sets+Rx4
+</td>
+</tr>
+<tr>
+<td valign="center">
+ESC Telemetry
+</td>
+<td valign="center">
+RX4
+</td>
+</tr>
+<tr>
+<td valign="center">
+Buzzer
+</td>
+<td valign="center">
+YES
+</td>
+</tr>
+<tr>
+<td valign="center">
+Connector
+</td>
+<td valign="center">
+DJI/HDzero
+</td>
+</tr>
+<tr>
+<td valign="center">
+Smart Audio
+</td>
+<td valign="center">
+YES
+</td>
+</tr>
+<tr>
+<td valign="center">
+LED
+</td>
+<td valign="center">
+1 Set 2812 LED
+</td>
+</tr>
+<tr>
+<td valign="center">
+USB
+</td>
+<td valign="center">
+Type-C
+</td>
+</tr>
+<tr>
+<td valign="center">
+X8 Supported
+</td>
+<td valign="center">
+Need CLI
+</td>
+</tr>
+<tr>
+<td valign="center">
+Firmware
+</td>
+<td valign="center">
+BetaFlight:FOXEERF722V4;
+</td>
+</tr>
+<tr>
+<td valign="center">
+Size
+</td>
+<td valign="center">
+37X37mm
+</td>
+</tr>
+<tr>
+<td valign="center">
+Mounting Hole
+</td>
+<td valign="center">
+30.5X30.5mm,Φ4mm
+</td>
+</tr>
+<tr>
+<td valign="center">
+Weight(g)
+</td>
+<td valign="center">
+7.7g
+</td>
+</tr>
+<tr>
+<td valign="center">
+Working Temperature
+</td>
+<td valign="center">
+-20℃ ~ +55℃
+</td>
+</tr>
+<tr>
+<td valign="center">
+Working Humidity
+</td>
+<td valign="center">
+20～95%
+</td>
+</tr>
+<tr>
+<td valign="center">
+Storage Temperature
+</td>
+<td valign="center">
+-20℃ ~ +70℃
+</td>
+</tr>
+<tr>
+<td valign="center">
+Package Includes
+</td>
+<td valign="center">
+1*FC, 4*Rubbers Columns, 1*Cable
+</td>
+</tr>
+<tr>
+</tr>
+</tbody>
+</table>, 'images': {'images': ['https://inew.foxeer.com//upload/s/goods/2023-03-15/12-07-06-6411446a63656.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2023-03-15/12-07-18-64114476ee249.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2023-03-15/12-07-18-64114476dc8bb.images.400x400.jpg'], 'image_block': <div class="product-img">
+<a class="jqzoom fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2023-03-15/12-07-06-6411446a63656.images.800x800.jpg" rel="gal1"><span big="https://inew.foxeer.com//upload/s/goods/2023-03-15/12-07-06-6411446a63656.images.800x800.jpg" class="zoom"><img id="zoomimg" src="https://inew.foxeer.com//upload/s/goods/2023-03-15/12-07-06-6411446a63656.images.400x400.jpg" width="600"/></span> </a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2023-03-15/12-07-18-64114476ee249.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2023-03-15/12-07-18-64114476ee249.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2023-03-15/12-07-18-64114476ee249.images.400x400.jpg" width="600"/></span></a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2023-03-15/12-07-18-64114476dc8bb.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2023-03-15/12-07-18-64114476dc8bb.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2023-03-15/12-07-18-64114476dc8bb.images.400x400.jpg" width="600"/></span></a>
+</div>}}, 'tags': {'tag_combinations': [''], 'spec_info': <div id="spec_info">
+</div>}}, {'name': <h3 class="product-name product_title">
+<a href="https://www.foxeer.com/foxeer-reaper-aio-v4-f745-mpu6000-35a-bluejay-bls-2-4s-g-542">Foxeer Reaper AIO V4 F745 MPU6000 35A Bluejay BLS 2-4S</a>
+</h3>, 'link': 'https://www.foxeer.com/foxeer-reaper-aio-v4-f745-mpu6000-35a-bluejay-bls-2-4s-g-542', 'price': {'price': <div class="price price-detail">$99.9 </div>, 'price_div': <div class="price price-detail">$99.9 </div>}, 'type': 'FlightController', 'details': {'details': {<td valign="center" width="189">
+<span>Model</span><span></span>
+</td>: <td valign="center" width="413">
+FOXEER Reaper AIO V4
+</td>, <td valign="center">
+CPU
+</td>: <td valign="center">
+STM32F745
+</td>, <td valign="center">
+Power Supply
+</td>: <td valign="center">
+2~4S Lipo
+</td>, <td valign="center">
+<span>BEC Output</span><span></span>
+</td>: <td valign="center">
+DC5V/2A
+</td>, <td valign="center">
+<span>OSD</span><span></span>
+</td>: <td valign="center">
+BF OSD
+</td>, <td valign="center">
+Black Box
+</td>: <td valign="center">
+16M Flash Memory
+</td>, <td valign="center">
+UART
+</td>: <td valign="center">
+5 Set
+</td>, <td valign="center">
+USB
+</td>: <td valign="center">
+Micro USB
+</td>, <td valign="center">
+Fireware
+</td>: <td valign="center">
+BF:FOXEERF745V4_AIO
+</td>, <td valign="center">
+DJI Connector
+</td>: <td valign="center">
+Supported, 8pin
+</td>, <td valign="center">
+Size
+</td>: <td valign="center">
+32.5X32.5mm
+</td>, <td valign="center">
+Mounting Hole
+</td>: <td valign="center">
+25.5X25.5mm,Φ3mm/M2
+</td>, <td valign="center">
+Weight(g)
+</td>: <td valign="center">
+8.6g
+</td>, <td valign="center">
+Working Temperature
+</td>: <td valign="center">
+-20℃ ~ +55℃
+</td>, <td valign="center">
+Working Humidity
+</td>: <td valign="center">
+20～95%
+</td>, <td valign="center">
+Storage Temperature
+</td>: <td valign="center">
+-20℃ ~ +70℃
+</td>, <td valign="center">
+Package Includes
+</td>: <td valign="center">
+1*AIO, Rubbers Columns, XT30 Cable, DJI Cable, Capacity
+</td>, 'download_links': [{'text': <a href="https://download.foxeer.com/Foxeer_AIOV3_Add_LED.txt" target="_blank">
+LED Setup
+</a>, 'link': 'https://download.foxeer.com/Foxeer_AIOV3_Add_LED.txt'}], 'video_link': None}, 'details_table': <table class="table table-bordered" width="614">
+<tbody>
+<tr>
+<td valign="center" width="189">
+<span>Model</span><span></span>
+</td>
+<td valign="center" width="413">
+FOXEER Reaper AIO V4
+</td>
+</tr>
+<tr>
+<td valign="center">
+CPU
+</td>
+<td valign="center">
+STM32F745
+</td>
+</tr>
+<tr>
+<td valign="center">
+Power Supply
+</td>
+<td valign="center">
+2~4S Lipo
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>BEC Output</span><span></span>
+</td>
+<td valign="center">
+DC5V/2A
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>OSD</span><span></span>
+</td>
+<td valign="center">
+BF OSD
+</td>
+</tr>
+<tr>
+<td valign="center">
+Black Box
+</td>
+<td valign="center">
+16M Flash Memory
+</td>
+</tr>
+<tr>
+<td valign="center">
+UART
+</td>
+<td valign="center">
+5 Set
+</td>
+</tr>
+<tr>
+<td valign="center">
+USB
+</td>
+<td valign="center">
+Micro USB
+</td>
+</tr>
+<tr>
+<td valign="center">
+Fireware
+</td>
+<td valign="center">
+BF:FOXEERF745V4_AIO
+</td>
+</tr>
+<tr>
+<td valign="center">
+DJI Connector
+</td>
+<td valign="center">
+Supported, 8pin
+</td>
+</tr>
+<tr>
+<td valign="center">
+Size
+</td>
+<td valign="center">
+32.5X32.5mm
+</td>
+</tr>
+<tr>
+<td valign="center">
+Mounting Hole
+</td>
+<td valign="center">
+25.5X25.5mm,Φ3mm/M2
+</td>
+</tr>
+<tr>
+<td valign="center">
+Weight(g)
+</td>
+<td valign="center">
+8.6g
+</td>
+</tr>
+<tr>
+<td valign="center">
+Working Temperature
+</td>
+<td valign="center">
+-20℃ ~ +55℃
+</td>
+</tr>
+<tr>
+<td valign="center">
+Working Humidity
+</td>
+<td valign="center">
+20～95%
+</td>
+</tr>
+<tr>
+<td valign="center">
+Storage Temperature
+</td>
+<td valign="center">
+-20℃ ~ +70℃
+</td>
+</tr>
+<tr>
+<td valign="center">
+Package Includes
+</td>
+<td valign="center">
+1*AIO, Rubbers Columns, XT30 Cable, DJI Cable, Capacity
+</td>
+</tr>
+<tr>
+</tr>
+</tbody>
+</table>, 'images': {'images': ['https://inew.foxeer.com//upload/s/goods/2023-08-04/17-22-23-64ccc34f321b4.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2023-08-04/17-22-40-64ccc3606d6cf.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2023-08-04/17-22-40-64ccc3603cd64.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2023-08-04/17-22-40-64ccc36020430.images.400x400.jpg'], 'image_block': <div class="product-img">
+<a class="jqzoom fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2023-08-04/17-22-23-64ccc34f321b4.images.800x800.jpg" rel="gal1"><span big="https://inew.foxeer.com//upload/s/goods/2023-08-04/17-22-23-64ccc34f321b4.images.800x800.jpg" class="zoom"><img id="zoomimg" src="https://inew.foxeer.com//upload/s/goods/2023-08-04/17-22-23-64ccc34f321b4.images.400x400.jpg" width="600"/></span> </a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2023-08-04/17-22-40-64ccc3606d6cf.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2023-08-04/17-22-40-64ccc3606d6cf.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2023-08-04/17-22-40-64ccc3606d6cf.images.400x400.jpg" width="600"/></span></a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2023-08-04/17-22-40-64ccc3603cd64.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2023-08-04/17-22-40-64ccc3603cd64.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2023-08-04/17-22-40-64ccc3603cd64.images.400x400.jpg" width="600"/></span></a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2023-08-04/17-22-40-64ccc36020430.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2023-08-04/17-22-40-64ccc36020430.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2023-08-04/17-22-40-64ccc36020430.images.400x400.jpg" width="600"/></span></a>
+</div>}}, 'tags': {'tag_combinations': [''], 'spec_info': <div id="spec_info">
+</div>}}, {'name': <h3 class="product-name product_title">
+<a href="https://www.foxeer.com/foxeer-f722-v4-mini-flight-controller-mpu6000-g-471">Foxeer F722 V4 Mini Flight Controller MPU6000</a>
+</h3>, 'link': 'https://www.foxeer.com/foxeer-f722-v4-mini-flight-controller-mpu6000-g-471', 'price': {'price': <div class="price price-detail">$64.9 </div>, 'price_div': <div class="price price-detail">$64.9 </div>}, 'type': 'FlightController', 'details': {'details': {<td valign="center" width="189">
+<span>Model</span><span></span>
+</td>: <td valign="center" width="413">
+Foxeer F722 V4 Mini MPU6000
+</td>, <td valign="center">
+CPU
+</td>: <td valign="center">
+STM32F722RET6
+</td>, <td valign="center">
+Power Supply
+</td>: <td valign="center">
+2~6S Lipo (6.5V~30V)
+</td>, <td valign="center">
+<span>BEC Output</span><span></span>
+</td>: <td valign="center">
+DC5V/3A
+</td>, <td valign="center">
+<span>OSD</span><span></span>
+</td>: <td valign="center">
+BF OSD
+</td>, <td valign="center">
+Black Box
+</td>: <td valign="center">
+16M Flash Memory
+</td>, <td valign="center">
+UART
+</td>: <td valign="center">
+4 Set
+</td>, <td valign="center">
+ESC Telemetry
+</td>: <td valign="center">
+RX4
+</td>, <td valign="center">
+Buzzer
+</td>: <td valign="center">
+YES
+</td>, <td valign="center">
+Smart Audio
+</td>: <td valign="center">
+YES
+</td>, <td valign="center">
+LED
+</td>: <td valign="center">
+1 Set 2812 LED
+</td>, <td valign="center">
+USB
+</td>: <td valign="center">
+Micro USB
+</td>, <td valign="center">
+Fireware
+</td>: <td valign="center">
+FOXEERF722V4(BetaFlight)
+</td>, <td valign="center">
+Size
+</td>: <td valign="center">
+26X26mm
+</td>, <td valign="center">
+Mounting Hole
+</td>: <td valign="center">
+20X20mm,Φ4mm
+</td>, <td valign="center">
+Weight(g)
+</td>: <td valign="center">
+4g
+</td>, <td valign="center">
+Working Temperature
+</td>: <td valign="center">
+-20℃ ~ +55℃
+</td>, <td valign="center">
+Working Humidity
+</td>: <td valign="center">
+20～95%
+</td>, <td valign="center">
+Storage Temperature
+</td>: <td valign="center">
+-20℃ ~ +70℃
+</td>, <td valign="center">
+Package Includes
+</td>: <td valign="center">
+1*FC, 4*Rubbers Columns
+</td>, 'download_links': [], 'video_link': None}, 'details_table': <table class="table table-bordered" width="614">
+<tbody>
+<tr>
+<td valign="center" width="189">
+<span>Model</span><span></span>
+</td>
+<td valign="center" width="413">
+Foxeer F722 V4 Mini MPU6000
+</td>
+</tr>
+<tr>
+<td valign="center">
+CPU
+</td>
+<td valign="center">
+STM32F722RET6
+</td>
+</tr>
+<tr>
+<td valign="center">
+Power Supply
+</td>
+<td valign="center">
+2~6S Lipo (6.5V~30V)
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>BEC Output</span><span></span>
+</td>
+<td valign="center">
+DC5V/3A
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>OSD</span><span></span>
+</td>
+<td valign="center">
+BF OSD
+</td>
+</tr>
+<tr>
+<td valign="center">
+Black Box
+</td>
+<td valign="center">
+16M Flash Memory
+</td>
+</tr>
+<tr>
+<td valign="center">
+UART
+</td>
+<td valign="center">
+4 Set
+</td>
+</tr>
+<tr>
+<td valign="center">
+ESC Telemetry
+</td>
+<td valign="center">
+RX4
+</td>
+</tr>
+<tr>
+<td valign="center">
+Buzzer
+</td>
+<td valign="center">
+YES
+</td>
+</tr>
+<tr>
+<td valign="center">
+Smart Audio
+</td>
+<td valign="center">
+YES
+</td>
+</tr>
+<tr>
+<td valign="center">
+LED
+</td>
+<td valign="center">
+1 Set 2812 LED
+</td>
+</tr>
+<tr>
+<td valign="center">
+USB
+</td>
+<td valign="center">
+Micro USB
+</td>
+</tr>
+<tr>
+<td valign="center">
+Fireware
+</td>
+<td valign="center">
+FOXEERF722V4(BetaFlight)
+</td>
+</tr>
+<tr>
+<td valign="center">
+Size
+</td>
+<td valign="center">
+26X26mm
+</td>
+</tr>
+<tr>
+<td valign="center">
+Mounting Hole
+</td>
+<td valign="center">
+20X20mm,Φ4mm
+</td>
+</tr>
+<tr>
+<td valign="center">
+Weight(g)
+</td>
+<td valign="center">
+4g
+</td>
+</tr>
+<tr>
+<td valign="center">
+Working Temperature
+</td>
+<td valign="center">
+-20℃ ~ +55℃
+</td>
+</tr>
+<tr>
+<td valign="center">
+Working Humidity
+</td>
+<td valign="center">
+20～95%
+</td>
+</tr>
+<tr>
+<td valign="center">
+Storage Temperature
+</td>
+<td valign="center">
+-20℃ ~ +70℃
+</td>
+</tr>
+<tr>
+<td valign="center">
+Package Includes
+</td>
+<td valign="center">
+1*FC, 4*Rubbers Columns
+</td>
+</tr>
+<tr>
+</tr>
+</tbody>
+</table>, 'images': {'images': ['https://inew.foxeer.com//upload/s/goods/2022-11-03/14-25-01-63635ebd50957.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2022-11-03/14-25-16-63635eccf08f6.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2022-11-03/14-25-15-63635ecb5b351.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2022-11-03/14-25-15-63635ecb74bde.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2022-11-03/14-25-15-63635ecb5cfa7.images.400x400.jpg'], 'image_block': <div class="product-img">
+<a class="jqzoom fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2022-11-03/14-25-01-63635ebd50957.images.800x800.jpg" rel="gal1"><span big="https://inew.foxeer.com//upload/s/goods/2022-11-03/14-25-01-63635ebd50957.images.800x800.jpg" class="zoom"><img id="zoomimg" src="https://inew.foxeer.com//upload/s/goods/2022-11-03/14-25-01-63635ebd50957.images.400x400.jpg" width="600"/></span> </a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2022-11-03/14-25-16-63635eccf08f6.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2022-11-03/14-25-16-63635eccf08f6.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2022-11-03/14-25-16-63635eccf08f6.images.400x400.jpg" width="600"/></span></a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2022-11-03/14-25-15-63635ecb5b351.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2022-11-03/14-25-15-63635ecb5b351.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2022-11-03/14-25-15-63635ecb5b351.images.400x400.jpg" width="600"/></span></a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2022-11-03/14-25-15-63635ecb74bde.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2022-11-03/14-25-15-63635ecb74bde.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2022-11-03/14-25-15-63635ecb74bde.images.400x400.jpg" width="600"/></span></a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2022-11-03/14-25-15-63635ecb5cfa7.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2022-11-03/14-25-15-63635ecb5cfa7.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2022-11-03/14-25-15-63635ecb5cfa7.images.400x400.jpg" width="600"/></span></a>
+</div>}}, 'tags': {'tag_combinations': [''], 'spec_info': <div id="spec_info">
+</div>}}, {'name': <h3 class="product-name product_title">
+<a href="https://www.foxeer.com/foxeer-f722-v4-flight-controller-x8-dji-type-c-g-446">Foxeer F722 V4 Flight Controller X8 DJI Type-C</a>
+</h3>, 'link': 'https://www.foxeer.com/foxeer-f722-v4-flight-controller-x8-dji-type-c-g-446', 'price': {'price': <div class="price price-detail">$46.9 <span class="market-price">$56.9 </span> </div>, 'price_div': <div class="price price-detail">$46.9 <span class="market-price">$56.9 </span> </div>}, 'type': 'FlightController', 'details': {'details': {<td valign="center" width="189">
+<span>Model</span><span></span>
+</td>: <td valign="center" width="413">
+F722 V4
+</td>, <td valign="center">
+CPU
+</td>: <td valign="center">
+STM32F722RET6
+</td>, <td valign="center">
+Power Supply
+</td>: <td valign="center">
+3~6S Lipo (11V~30V)
+</td>, <td valign="center">
+<span>BEC Output</span><span></span>
+</td>: <td valign="center">
+DC5V/3A; DC9V/3A
+</td>, <td valign="center">
+<span>OSD</span><span></span>
+</td>: <td valign="center">
+BF OSD
+</td>, <td valign="center">
+Black Box
+</td>: <td valign="center">
+16M Flash Memory
+</td>, <td valign="center">
+UART
+</td>: <td valign="center">
+6 Set
+</td>, <td valign="center">
+ESC Telemetry
+</td>: <td valign="center">
+RX4
+</td>, <td valign="center">
+Buzzer
+</td>: <td valign="center">
+YES
+</td>, <td valign="center">
+Smart Audio
+</td>: <td valign="center">
+YES
+</td>, <td valign="center">
+LED
+</td>: <td valign="center">
+1 Set 2812 LED
+</td>, <td valign="center">
+USB
+</td>: <td valign="center">
+Type-C
+</td>, <td valign="center">
+X8 Supported
+</td>: <td valign="center">
+Need CLI
+</td>, <td valign="center">
+Firmware
+</td>: <td valign="center">
+BF:FOXEERF722V4; Inav: FOXEERF722V4 &amp; FOXEERF722V4 X8
+</td>, <td valign="center">
+Size
+</td>: <td valign="center">
+37X37mm
+</td>, <td valign="center">
+Mounting Hole
+</td>: <td valign="center">
+30.5X30.5mm,Φ4mm
+</td>, <td valign="center">
+Weight(g)
+</td>: <td valign="center">
+8g
+</td>, <td valign="center">
+Working Temperature
+</td>: <td valign="center">
+-20℃ ~ +55℃
+</td>, <td valign="center">
+Working Humidity
+</td>: <td valign="center">
+20～95%
+</td>, <td valign="center">
+Storage Temperature
+</td>: <td valign="center">
+-20℃ ~ +70℃
+</td>, <td valign="center">
+Package Includes
+</td>: <td valign="center">
+1*FC, 4*Rubbers Columns
+</td>, 'download_links': [{'text': <a href="https://download.foxeer.com/Foxeer_FC_V3_X8_CLI.txt" target="_blank">
+X8 Setup CLI
+</a>, 'link': 'https://download.foxeer.com/Foxeer_FC_V3_X8_CLI.txt'}], 'video_link': None}, 'details_table': <table class="table table-bordered" width="614">
+<tbody>
+<tr>
+<td valign="center" width="189">
+<span>Model</span><span></span>
+</td>
+<td valign="center" width="413">
+F722 V4
+</td>
+</tr>
+<tr>
+<td valign="center">
+CPU
+</td>
+<td valign="center">
+STM32F722RET6
+</td>
+</tr>
+<tr>
+<td valign="center">
+Power Supply
+</td>
+<td valign="center">
+3~6S Lipo (11V~30V)
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>BEC Output</span><span></span>
+</td>
+<td valign="center">
+DC5V/3A; DC9V/3A
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>OSD</span><span></span>
+</td>
+<td valign="center">
+BF OSD
+</td>
+</tr>
+<tr>
+<td valign="center">
+Black Box
+</td>
+<td valign="center">
+16M Flash Memory
+</td>
+</tr>
+<tr>
+<td valign="center">
+UART
+</td>
+<td valign="center">
+6 Set
+</td>
+</tr>
+<tr>
+<td valign="center">
+ESC Telemetry
+</td>
+<td valign="center">
+RX4
+</td>
+</tr>
+<tr>
+<td valign="center">
+Buzzer
+</td>
+<td valign="center">
+YES
+</td>
+</tr>
+<tr>
+<td valign="center">
+Smart Audio
+</td>
+<td valign="center">
+YES
+</td>
+</tr>
+<tr>
+<td valign="center">
+LED
+</td>
+<td valign="center">
+1 Set 2812 LED
+</td>
+</tr>
+<tr>
+<td valign="center">
+USB
+</td>
+<td valign="center">
+Type-C
+</td>
+</tr>
+<tr>
+<td valign="center">
+X8 Supported
+</td>
+<td valign="center">
+Need CLI
+</td>
+</tr>
+<tr>
+<td valign="center">
+Firmware
+</td>
+<td valign="center">
+BF:FOXEERF722V4; Inav: FOXEERF722V4 &amp; FOXEERF722V4 X8
+</td>
+</tr>
+<tr>
+<td valign="center">
+Size
+</td>
+<td valign="center">
+37X37mm
+</td>
+</tr>
+<tr>
+<td valign="center">
+Mounting Hole
+</td>
+<td valign="center">
+30.5X30.5mm,Φ4mm
+</td>
+</tr>
+<tr>
+<td valign="center">
+Weight(g)
+</td>
+<td valign="center">
+8g
+</td>
+</tr>
+<tr>
+<td valign="center">
+Working Temperature
+</td>
+<td valign="center">
+-20℃ ~ +55℃
+</td>
+</tr>
+<tr>
+<td valign="center">
+Working Humidity
+</td>
+<td valign="center">
+20～95%
+</td>
+</tr>
+<tr>
+<td valign="center">
+Storage Temperature
+</td>
+<td valign="center">
+-20℃ ~ +70℃
+</td>
+</tr>
+<tr>
+<td valign="center">
+Package Includes
+</td>
+<td valign="center">
+1*FC, 4*Rubbers Columns
+</td>
+</tr>
+<tr>
+</tr>
+</tbody>
+</table>, 'images': {'images': ['https://inew.foxeer.com//upload/s/goods/2022-08-09/16-24-42-62f219ca631fa.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2022-08-09/16-24-54-62f219d6749fa.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2022-08-09/16-24-53-62f219d50a92f.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2022-08-09/16-24-52-62f219d4ea588.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2022-08-09/16-24-52-62f219d4e30bf.images.400x400.jpg'], 'image_block': <div class="product-img">
+<a class="jqzoom fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2022-08-09/16-24-42-62f219ca631fa.images.800x800.jpg" rel="gal1"><span big="https://inew.foxeer.com//upload/s/goods/2022-08-09/16-24-42-62f219ca631fa.images.800x800.jpg" class="zoom"><img id="zoomimg" src="https://inew.foxeer.com//upload/s/goods/2022-08-09/16-24-42-62f219ca631fa.images.400x400.jpg" width="600"/></span> </a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2022-08-09/16-24-54-62f219d6749fa.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2022-08-09/16-24-54-62f219d6749fa.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2022-08-09/16-24-54-62f219d6749fa.images.400x400.jpg" width="600"/></span></a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2022-08-09/16-24-53-62f219d50a92f.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2022-08-09/16-24-53-62f219d50a92f.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2022-08-09/16-24-53-62f219d50a92f.images.400x400.jpg" width="600"/></span></a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2022-08-09/16-24-52-62f219d4ea588.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2022-08-09/16-24-52-62f219d4ea588.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2022-08-09/16-24-52-62f219d4ea588.images.400x400.jpg" width="600"/></span></a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2022-08-09/16-24-52-62f219d4e30bf.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2022-08-09/16-24-52-62f219d4e30bf.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2022-08-09/16-24-52-62f219d4e30bf.images.400x400.jpg" width="600"/></span></a>
+</div>}}, 'tags': {'tag_combinations': [''], 'spec_info': <div id="spec_info">
+</div>}}, {'name': <h3 class="product-name product_title">
+<a href="https://www.foxeer.com/foxeer-f722-v4-mini-flight-controller-20-20mm-betaflight-g-448">Foxeer F722 V4 Mini Flight Controller 20*20mm BetaFlight</a>
+</h3>, 'link': 'https://www.foxeer.com/foxeer-f722-v4-mini-flight-controller-20-20mm-betaflight-g-448', 'price': {'price': <div class="price price-detail">$39.9 <span class="market-price">$56.9 </span> </div>, 'price_div': <div class="price price-detail">$39.9 <span class="market-price">$56.9 </span> </div>}, 'type': 'FlightController', 'details': {'details': {<td valign="center" width="189">
+<span>Model</span><span></span>
+</td>: <td valign="center" width="413">
+Mini F722 V4
+</td>, <td valign="center">
+CPU
+</td>: <td valign="center">
+STM32F722RET6
+</td>, <td valign="center">
+Power Supply
+</td>: <td valign="center">
+2~6S Lipo (6.5V~30V)
+</td>, <td valign="center">
+<span>BEC Output</span><span></span>
+</td>: <td valign="center">
+DC5V/3A
+</td>, <td valign="center">
+<span>OSD</span><span></span>
+</td>: <td valign="center">
+BF OSD
+</td>, <td valign="center">
+Black Box
+</td>: <td valign="center">
+16M Flash Memory
+</td>, <td valign="center">
+UART
+</td>: <td valign="center">
+4 Set
+</td>, <td valign="center">
+ESC Telemetry
+</td>: <td valign="center">
+RX4
+</td>, <td valign="center">
+Buzzer
+</td>: <td valign="center">
+YES
+</td>, <td valign="center">
+Smart Audio
+</td>: <td valign="center">
+YES
+</td>, <td valign="center">
+LED
+</td>: <td valign="center">
+1 Set 2812 LED
+</td>, <td valign="center">
+USB
+</td>: <td valign="center">
+Micro USB
+</td>, <td valign="center">
+Fireware
+</td>: <td valign="center">
+FOXEERF722V4
+</td>, <td valign="center">
+Size
+</td>: <td valign="center">
+26X26mm
+</td>, <td valign="center">
+Mounting Hole
+</td>: <td valign="center">
+20X20mm,Φ4mm
+</td>, <td valign="center">
+Weight(g)
+</td>: <td valign="center">
+4g
+</td>, <td valign="center">
+Working Temperature
+</td>: <td valign="center">
+-20℃ ~ +55℃
+</td>, <td valign="center">
+Working Humidity
+</td>: <td valign="center">
+20～95%
+</td>, <td valign="center">
+Storage Temperature
+</td>: <td valign="center">
+-20℃ ~ +70℃
+</td>, <td valign="center">
+Package Includes
+</td>: <td valign="center">
+1*FC, 4*Rubbers Columns
+</td>, 'download_links': [], 'video_link': None}, 'details_table': <table class="table table-bordered" width="614">
+<tbody>
+<tr>
+<td valign="center" width="189">
+<span>Model</span><span></span>
+</td>
+<td valign="center" width="413">
+Mini F722 V4
+</td>
+</tr>
+<tr>
+<td valign="center">
+CPU
+</td>
+<td valign="center">
+STM32F722RET6
+</td>
+</tr>
+<tr>
+<td valign="center">
+Power Supply
+</td>
+<td valign="center">
+2~6S Lipo (6.5V~30V)
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>BEC Output</span><span></span>
+</td>
+<td valign="center">
+DC5V/3A
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>OSD</span><span></span>
+</td>
+<td valign="center">
+BF OSD
+</td>
+</tr>
+<tr>
+<td valign="center">
+Black Box
+</td>
+<td valign="center">
+16M Flash Memory
+</td>
+</tr>
+<tr>
+<td valign="center">
+UART
+</td>
+<td valign="center">
+4 Set
+</td>
+</tr>
+<tr>
+<td valign="center">
+ESC Telemetry
+</td>
+<td valign="center">
+RX4
+</td>
+</tr>
+<tr>
+<td valign="center">
+Buzzer
+</td>
+<td valign="center">
+YES
+</td>
+</tr>
+<tr>
+<td valign="center">
+Smart Audio
+</td>
+<td valign="center">
+YES
+</td>
+</tr>
+<tr>
+<td valign="center">
+LED
+</td>
+<td valign="center">
+1 Set 2812 LED
+</td>
+</tr>
+<tr>
+<td valign="center">
+USB
+</td>
+<td valign="center">
+Micro USB
+</td>
+</tr>
+<tr>
+<td valign="center">
+Fireware
+</td>
+<td valign="center">
+FOXEERF722V4
+</td>
+</tr>
+<tr>
+<td valign="center">
+Size
+</td>
+<td valign="center">
+26X26mm
+</td>
+</tr>
+<tr>
+<td valign="center">
+Mounting Hole
+</td>
+<td valign="center">
+20X20mm,Φ4mm
+</td>
+</tr>
+<tr>
+<td valign="center">
+Weight(g)
+</td>
+<td valign="center">
+4g
+</td>
+</tr>
+<tr>
+<td valign="center">
+Working Temperature
+</td>
+<td valign="center">
+-20℃ ~ +55℃
+</td>
+</tr>
+<tr>
+<td valign="center">
+Working Humidity
+</td>
+<td valign="center">
+20～95%
+</td>
+</tr>
+<tr>
+<td valign="center">
+Storage Temperature
+</td>
+<td valign="center">
+-20℃ ~ +70℃
+</td>
+</tr>
+<tr>
+<td valign="center">
+Package Includes
+</td>
+<td valign="center">
+1*FC, 4*Rubbers Columns
+</td>
+</tr>
+<tr>
+</tr>
+</tbody>
+</table>, 'images': {'images': ['https://inew.foxeer.com//upload/s/goods/2022-08-09/16-40-18-62f21d72dac1b.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2022-08-09/16-40-32-62f21d8052778.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2022-08-09/16-40-32-62f21d80ccdf6.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2022-08-09/16-40-31-62f21d7f15195.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2022-08-09/16-40-30-62f21d7ed4298.images.400x400.jpg'], 'image_block': <div class="product-img">
+<a class="jqzoom fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2022-08-09/16-40-18-62f21d72dac1b.images.800x800.jpg" rel="gal1"><span big="https://inew.foxeer.com//upload/s/goods/2022-08-09/16-40-18-62f21d72dac1b.images.800x800.jpg" class="zoom"><img id="zoomimg" src="https://inew.foxeer.com//upload/s/goods/2022-08-09/16-40-18-62f21d72dac1b.images.400x400.jpg" width="600"/></span> </a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2022-08-09/16-40-32-62f21d8052778.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2022-08-09/16-40-32-62f21d8052778.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2022-08-09/16-40-32-62f21d8052778.images.400x400.jpg" width="600"/></span></a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2022-08-09/16-40-32-62f21d80ccdf6.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2022-08-09/16-40-32-62f21d80ccdf6.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2022-08-09/16-40-32-62f21d80ccdf6.images.400x400.jpg" width="600"/></span></a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2022-08-09/16-40-31-62f21d7f15195.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2022-08-09/16-40-31-62f21d7f15195.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2022-08-09/16-40-31-62f21d7f15195.images.400x400.jpg" width="600"/></span></a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2022-08-09/16-40-30-62f21d7ed4298.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2022-08-09/16-40-30-62f21d7ed4298.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2022-08-09/16-40-30-62f21d7ed4298.images.400x400.jpg" width="600"/></span></a>
+</div>}}, 'tags': {'tag_combinations': [''], 'spec_info': <div id="spec_info">
+</div>}}, {'name': <h3 class="product-name product_title">
+<a href="https://www.foxeer.com/foxeer-mini-f722-v4-pro-fpv-flight-controller-20-20mm-build-in-pit-pass-g-447">Foxeer Mini F722 V4 Pro FPV Flight Controller 20*20mm Build-In Pit PASS</a>
+</h3>, 'link': 'https://www.foxeer.com/foxeer-mini-f722-v4-pro-fpv-flight-controller-20-20mm-build-in-pit-pass-g-447', 'price': {'price': <div class="price price-detail">$39.9 <span class="market-price">$59.9 </span> </div>, 'price_div': <div class="price price-detail">$39.9 <span class="market-price">$59.9 </span> </div>}, 'type': 'FlightController', 'details': {'details': {<td valign="center" width="189">
+<span>Model</span><span></span>
+</td>: <td valign="center" width="413">
+Mini F722 V4 Pro
+</td>, <td valign="center">
+CPU
+</td>: <td valign="center">
+STM32F722RET6
+</td>, <td valign="center">
+Power Supply
+</td>: <td valign="center">
+2~6S Lipo (6.5V~30V)
+</td>, <td valign="center">
+<span>BEC Output</span><span></span>
+</td>: <td valign="center">
+DC5V/3A
+</td>, <td valign="center">
+<span>OSD</span><span></span>
+</td>: <td valign="center">
+BF OSD
+</td>, <td valign="center">
+Black Box
+</td>: <td valign="center">
+16M Flash Memory
+</td>, <td valign="center">
+UART
+</td>: <td valign="center">
+4 Set
+</td>, <td valign="center">
+ESC Telemetry
+</td>: <td valign="center">
+RX4
+</td>, <td valign="center">
+Buzzer
+</td>: <td valign="center">
+YES
+</td>, <td valign="center">
+Smart Audio
+</td>: <td valign="center">
+YES
+</td>, <td valign="center">
+LED
+</td>: <td valign="center">
+1 Set 2812 LED
+</td>, <td valign="center">
+USB
+</td>: <td valign="center">
+Micro USB
+</td>, <td valign="center">
+Firmware
+</td>: <td valign="center">
+FOXEERF722V4
+</td>, <td valign="center">
+Size
+</td>: <td valign="center">
+28.5*28.5mm
+</td>, <td valign="center">
+Mounting Hole
+</td>: <td valign="center">
+20X20mm,Φ4mm
+</td>, <td valign="center">
+Weight(g)
+</td>: <td valign="center">
+4.4g
+</td>, <td valign="center">
+Working Temperature
+</td>: <td valign="center">
+-20℃ ~ +55℃
+</td>, <td valign="center">
+Working Humidity
+</td>: <td valign="center">
+20～95%
+</td>, <td valign="center">
+Storage Temperature
+</td>: <td valign="center">
+-20℃ ~ +70℃
+</td>, <td valign="center">
+Package Includes
+</td>: <td valign="center">
+1*FC, 4*Rubbers Columns
+</td>, 'download_links': [], 'video_link': None}, 'details_table': <table class="table table-bordered" width="614">
+<tbody>
+<tr>
+<td valign="center" width="189">
+<span>Model</span><span></span>
+</td>
+<td valign="center" width="413">
+Mini F722 V4 Pro
+</td>
+</tr>
+<tr>
+<td valign="center">
+CPU
+</td>
+<td valign="center">
+STM32F722RET6
+</td>
+</tr>
+<tr>
+<td valign="center">
+Power Supply
+</td>
+<td valign="center">
+2~6S Lipo (6.5V~30V)
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>BEC Output</span><span></span>
+</td>
+<td valign="center">
+DC5V/3A
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>OSD</span><span></span>
+</td>
+<td valign="center">
+BF OSD
+</td>
+</tr>
+<tr>
+<td valign="center">
+Black Box
+</td>
+<td valign="center">
+16M Flash Memory
+</td>
+</tr>
+<tr>
+<td valign="center">
+UART
+</td>
+<td valign="center">
+4 Set
+</td>
+</tr>
+<tr>
+<td valign="center">
+ESC Telemetry
+</td>
+<td valign="center">
+RX4
+</td>
+</tr>
+<tr>
+<td valign="center">
+Buzzer
+</td>
+<td valign="center">
+YES
+</td>
+</tr>
+<tr>
+<td valign="center">
+Smart Audio
+</td>
+<td valign="center">
+YES
+</td>
+</tr>
+<tr>
+<td valign="center">
+LED
+</td>
+<td valign="center">
+1 Set 2812 LED
+</td>
+</tr>
+<tr>
+<td valign="center">
+USB
+</td>
+<td valign="center">
+Micro USB
+</td>
+</tr>
+<tr>
+<td valign="center">
+Firmware
+</td>
+<td valign="center">
+FOXEERF722V4
+</td>
+</tr>
+<tr>
+<td valign="center">
+Size
+</td>
+<td valign="center">
+28.5*28.5mm
+</td>
+</tr>
+<tr>
+<td valign="center">
+Mounting Hole
+</td>
+<td valign="center">
+20X20mm,Φ4mm
+</td>
+</tr>
+<tr>
+<td valign="center">
+Weight(g)
+</td>
+<td valign="center">
+4.4g
+</td>
+</tr>
+<tr>
+<td valign="center">
+Working Temperature
+</td>
+<td valign="center">
+-20℃ ~ +55℃
+</td>
+</tr>
+<tr>
+<td valign="center">
+Working Humidity
+</td>
+<td valign="center">
+20～95%
+</td>
+</tr>
+<tr>
+<td valign="center">
+Storage Temperature
+</td>
+<td valign="center">
+-20℃ ~ +70℃
+</td>
+</tr>
+<tr>
+<td valign="center">
+Package Includes
+</td>
+<td valign="center">
+1*FC, 4*Rubbers Columns
+</td>
+</tr>
+<tr>
+</tr>
+</tbody>
+</table>, 'images': {'images': ['https://inew.foxeer.com//upload/s/goods/2022-08-09/16-32-01-62f21b81e0f91.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2022-08-09/16-33-58-62f21bf657326.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2022-08-09/16-33-04-62f21bc05517b.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2022-08-09/16-33-04-62f21bc0281e0.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2022-08-09/16-33-04-62f21bc020fed.images.400x400.jpg'], 'image_block': <div class="product-img">
+<a class="jqzoom fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2022-08-09/16-32-01-62f21b81e0f91.images.800x800.jpg" rel="gal1"><span big="https://inew.foxeer.com//upload/s/goods/2022-08-09/16-32-01-62f21b81e0f91.images.800x800.jpg" class="zoom"><img id="zoomimg" src="https://inew.foxeer.com//upload/s/goods/2022-08-09/16-32-01-62f21b81e0f91.images.400x400.jpg" width="600"/></span> </a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2022-08-09/16-33-58-62f21bf657326.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2022-08-09/16-33-58-62f21bf657326.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2022-08-09/16-33-58-62f21bf657326.images.400x400.jpg" width="600"/></span></a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2022-08-09/16-33-04-62f21bc05517b.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2022-08-09/16-33-04-62f21bc05517b.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2022-08-09/16-33-04-62f21bc05517b.images.400x400.jpg" width="600"/></span></a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2022-08-09/16-33-04-62f21bc0281e0.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2022-08-09/16-33-04-62f21bc0281e0.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2022-08-09/16-33-04-62f21bc0281e0.images.400x400.jpg" width="600"/></span></a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2022-08-09/16-33-04-62f21bc020fed.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2022-08-09/16-33-04-62f21bc020fed.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2022-08-09/16-33-04-62f21bc020fed.images.400x400.jpg" width="600"/></span></a>
+</div>}}, 'tags': {'tag_combinations': [''], 'spec_info': <div id="spec_info">
+</div>}}, {'name': <h3 class="product-name product_title">
+<a href="https://www.foxeer.com/foxeer-f722-v4-dual-bec-5v-10v-hv-8s-mini-flight-controller-g-455">Foxeer F722 V4 Dual BEC 5V/10V HV 8S Mini Flight Controller</a>
+</h3>, 'link': 'https://www.foxeer.com/foxeer-f722-v4-dual-bec-5v-10v-hv-8s-mini-flight-controller-g-455', 'price': {'price': <div class="price price-detail">$39.9 <span class="market-price">$62.9 </span> </div>, 'price_div': <div class="price price-detail">$39.9 <span class="market-price">$62.9 </span> </div>}, 'type': 'FlightController', 'details': {'details': {<td valign="center" width="189">
+<span>Model</span><span></span>
+</td>: <td valign="center" width="413">
+Mini F722 V4 8S Dual BEC
+</td>, <td valign="center">
+Gyro
+</td>: <td valign="center">
+ICM 42688-P
+</td>, <td valign="center">
+CPU
+</td>: <td valign="center">
+STM32F722RET6
+</td>, <td valign="center">
+Power Supply
+</td>: <td valign="center">
+4~8S Lipo
+</td>, <td valign="center">
+<span>BEC Output</span><span></span>
+</td>: <td valign="center">
+DC5V/3A; 10V/2A
+</td>, <td valign="center">
+<span>OSD</span><span></span>
+</td>: <td valign="center">
+BF OSD
+</td>, <td valign="center">
+Black Box
+</td>: <td valign="center">
+16M Flash Memory
+</td>, <td valign="center">
+UART
+</td>: <td valign="center">
+6 Sets
+</td>, <td valign="center">
+ESC Telemetry
+</td>: <td valign="center">
+RX4
+</td>, <td valign="center">
+Buzzer
+</td>: <td valign="center">
+YES
+</td>, <td valign="center">
+Smart Audio
+</td>: <td valign="center">
+YES
+</td>, <td valign="center">
+LED
+</td>: <td valign="center">
+1 Set 2812 LED
+</td>, <td valign="center">
+USB
+</td>: <td valign="center">
+Micro USB
+</td>, <td valign="center">
+Fireware
+</td>: <td valign="center">
+FOXEERF722V4
+</td>, <td valign="center">
+Size
+</td>: <td valign="center">
+30*31mm
+</td>, <td valign="center">
+Mounting Hole
+</td>: <td valign="center">
+20X20mm,Φ4mm
+</td>, <td valign="center">
+Weight(g)
+</td>: <td valign="center">
+5.6g
+</td>, <td valign="center">
+Working Temperature
+</td>: <td valign="center">
+-20℃ ~ +55℃
+</td>, <td valign="center">
+Working Humidity
+</td>: <td valign="center">
+20～95%
+</td>, <td valign="center">
+Storage Temperature
+</td>: <td valign="center">
+-20℃ ~ +70℃
+</td>, <td valign="center">
+Package Includes
+</td>: <td valign="center">
+1*FC, 4*Rubbers Columns
+</td>, 'download_links': [], 'video_link': None}, 'details_table': <table class="table table-bordered" width="614">
+<tbody>
+<tr>
+<td valign="center" width="189">
+<span>Model</span><span></span>
+</td>
+<td valign="center" width="413">
+Mini F722 V4 8S Dual BEC
+</td>
+</tr>
+<tr>
+<td valign="center">
+Gyro
+</td>
+<td valign="center">
+ICM 42688-P
+</td>
+</tr>
+<tr>
+<td valign="center">
+CPU
+</td>
+<td valign="center">
+STM32F722RET6
+</td>
+</tr>
+<tr>
+<td valign="center">
+Power Supply
+</td>
+<td valign="center">
+4~8S Lipo
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>BEC Output</span><span></span>
+</td>
+<td valign="center">
+DC5V/3A; 10V/2A
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>OSD</span><span></span>
+</td>
+<td valign="center">
+BF OSD
+</td>
+</tr>
+<tr>
+<td valign="center">
+Black Box
+</td>
+<td valign="center">
+16M Flash Memory
+</td>
+</tr>
+<tr>
+<td valign="center">
+UART
+</td>
+<td valign="center">
+6 Sets
+</td>
+</tr>
+<tr>
+<td valign="center">
+ESC Telemetry
+</td>
+<td valign="center">
+RX4
+</td>
+</tr>
+<tr>
+<td valign="center">
+Buzzer
+</td>
+<td valign="center">
+YES
+</td>
+</tr>
+<tr>
+<td valign="center">
+Smart Audio
+</td>
+<td valign="center">
+YES
+</td>
+</tr>
+<tr>
+<td valign="center">
+LED
+</td>
+<td valign="center">
+1 Set 2812 LED
+</td>
+</tr>
+<tr>
+<td valign="center">
+USB
+</td>
+<td valign="center">
+Micro USB
+</td>
+</tr>
+<tr>
+<td valign="center">
+Fireware
+</td>
+<td valign="center">
+FOXEERF722V4
+</td>
+</tr>
+<tr>
+<td valign="center">
+Size
+</td>
+<td valign="center">
+30*31mm
+</td>
+</tr>
+<tr>
+<td valign="center">
+Mounting Hole
+</td>
+<td valign="center">
+20X20mm,Φ4mm
+</td>
+</tr>
+<tr>
+<td valign="center">
+Weight(g)
+</td>
+<td valign="center">
+5.6g
+</td>
+</tr>
+<tr>
+<td valign="center">
+Working Temperature
+</td>
+<td valign="center">
+-20℃ ~ +55℃
+</td>
+</tr>
+<tr>
+<td valign="center">
+Working Humidity
+</td>
+<td valign="center">
+20～95%
+</td>
+</tr>
+<tr>
+<td valign="center">
+Storage Temperature
+</td>
+<td valign="center">
+-20℃ ~ +70℃
+</td>
+</tr>
+<tr>
+<td valign="center">
+Package Includes
+</td>
+<td valign="center">
+1*FC, 4*Rubbers Columns
+</td>
+</tr>
+<tr>
+</tr>
+</tbody>
+</table>, 'images': {'images': ['https://inew.foxeer.com//upload/s/goods/2022-09-17/15-04-17-63257171d40a2.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2022-09-17/14-56-22-63256f96e6bc2.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2022-09-17/14-56-21-63256f95bf0f6.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2022-09-17/14-56-21-63256f958ff60.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2022-09-17/14-56-20-63256f945774f.images.400x400.jpg'], 'image_block': <div class="product-img">
+<a class="jqzoom fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2022-09-17/15-04-17-63257171d40a2.images.800x800.jpg" rel="gal1"><span big="https://inew.foxeer.com//upload/s/goods/2022-09-17/15-04-17-63257171d40a2.images.800x800.jpg" class="zoom"><img id="zoomimg" src="https://inew.foxeer.com//upload/s/goods/2022-09-17/15-04-17-63257171d40a2.images.400x400.jpg" width="600"/></span> </a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2022-09-17/14-56-22-63256f96e6bc2.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2022-09-17/14-56-22-63256f96e6bc2.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2022-09-17/14-56-22-63256f96e6bc2.images.400x400.jpg" width="600"/></span></a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2022-09-17/14-56-21-63256f95bf0f6.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2022-09-17/14-56-21-63256f95bf0f6.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2022-09-17/14-56-21-63256f95bf0f6.images.400x400.jpg" width="600"/></span></a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2022-09-17/14-56-21-63256f958ff60.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2022-09-17/14-56-21-63256f958ff60.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2022-09-17/14-56-21-63256f958ff60.images.400x400.jpg" width="600"/></span></a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2022-09-17/14-56-20-63256f945774f.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2022-09-17/14-56-20-63256f945774f.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2022-09-17/14-56-20-63256f945774f.images.400x400.jpg" width="600"/></span></a>
+</div>}}, 'tags': {'tag_combinations': [''], 'spec_info': <div id="spec_info">
+</div>}}, {'name': <h3 class="product-name product_title">
+<a href="https://www.foxeer.com/foxeer-mini-f722-v3-pro-fpv-flight-controller-20-20mm-build-in-pit-pass-g-426">Foxeer Mini F722 V3 Pro FPV Flight Controller 20*20mm Build-In Pit PASS</a>
+</h3>, 'link': 'https://www.foxeer.com/foxeer-mini-f722-v3-pro-fpv-flight-controller-20-20mm-build-in-pit-pass-g-426', 'price': {'price': <div class="price price-detail">$59.9 </div>, 'price_div': <div class="price price-detail">$59.9 </div>}, 'type': 'FlightController', 'details': {'details': {<td valign="center" width="189">
+<span>Model</span><span></span>
+</td>: <td valign="center" width="413">
+Mini F722 V3 Pro
+</td>, <td valign="center">
+CPU
+</td>: <td valign="center">
+STM32F722RET6
+</td>, <td valign="center">
+Power Supply
+</td>: <td valign="center">
+2~6S Lipo (6.5V~30V)
+</td>, <td valign="center">
+<span>BEC Output</span><span></span>
+</td>: <td valign="center">
+DC5V/3A
+</td>, <td valign="center">
+<span>OSD</span><span></span>
+</td>: <td valign="center">
+BF OSD
+</td>, <td valign="center">
+Black Box
+</td>: <td valign="center">
+16M Flash Memory
+</td>, <td valign="center">
+UART
+</td>: <td valign="center">
+4 Set
+</td>, <td valign="center">
+ESC Telemetry
+</td>: <td valign="center">
+RX4
+</td>, <td valign="center">
+Buzzer
+</td>: <td valign="center">
+YES
+</td>, <td valign="center">
+Smart Audio
+</td>: <td valign="center">
+YES
+</td>, <td valign="center">
+LED
+</td>: <td valign="center">
+1 Set 2812 LED
+</td>, <td valign="center">
+USB
+</td>: <td valign="center">
+Micro USB
+</td>, <td valign="center">
+Firmware
+</td>: <td valign="center">
+FOXEERF722V3
+</td>, <td valign="center">
+Size
+</td>: <td valign="center">
+28.5*28.5mm
+</td>, <td valign="center">
+Mounting Hole
+</td>: <td valign="center">
+20X20mm,Φ4mm
+</td>, <td valign="center">
+Weight(g)
+</td>: <td valign="center">
+4.4g
+</td>, <td valign="center">
+Working Temperature
+</td>: <td valign="center">
+-20℃ ~ +55℃
+</td>, <td valign="center">
+Working Humidity
+</td>: <td valign="center">
+20～95%
+</td>, <td valign="center">
+Storage Temperature
+</td>: <td valign="center">
+-20℃ ~ +70℃
+</td>, <td valign="center">
+Package Includes
+</td>: <td valign="center">
+1*FC, 4*Rubbers Columns
+</td>, 'download_links': [], 'video_link': None}, 'details_table': <table class="table table-bordered" width="614">
+<tbody>
+<tr>
+<td valign="center" width="189">
+<span>Model</span><span></span>
+</td>
+<td valign="center" width="413">
+Mini F722 V3 Pro
+</td>
+</tr>
+<tr>
+<td valign="center">
+CPU
+</td>
+<td valign="center">
+STM32F722RET6
+</td>
+</tr>
+<tr>
+<td valign="center">
+Power Supply
+</td>
+<td valign="center">
+2~6S Lipo (6.5V~30V)
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>BEC Output</span><span></span>
+</td>
+<td valign="center">
+DC5V/3A
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>OSD</span><span></span>
+</td>
+<td valign="center">
+BF OSD
+</td>
+</tr>
+<tr>
+<td valign="center">
+Black Box
+</td>
+<td valign="center">
+16M Flash Memory
+</td>
+</tr>
+<tr>
+<td valign="center">
+UART
+</td>
+<td valign="center">
+4 Set
+</td>
+</tr>
+<tr>
+<td valign="center">
+ESC Telemetry
+</td>
+<td valign="center">
+RX4
+</td>
+</tr>
+<tr>
+<td valign="center">
+Buzzer
+</td>
+<td valign="center">
+YES
+</td>
+</tr>
+<tr>
+<td valign="center">
+Smart Audio
+</td>
+<td valign="center">
+YES
+</td>
+</tr>
+<tr>
+<td valign="center">
+LED
+</td>
+<td valign="center">
+1 Set 2812 LED
+</td>
+</tr>
+<tr>
+<td valign="center">
+USB
+</td>
+<td valign="center">
+Micro USB
+</td>
+</tr>
+<tr>
+<td valign="center">
+Firmware
+</td>
+<td valign="center">
+FOXEERF722V3
+</td>
+</tr>
+<tr>
+<td valign="center">
+Size
+</td>
+<td valign="center">
+28.5*28.5mm
+</td>
+</tr>
+<tr>
+<td valign="center">
+Mounting Hole
+</td>
+<td valign="center">
+20X20mm,Φ4mm
+</td>
+</tr>
+<tr>
+<td valign="center">
+Weight(g)
+</td>
+<td valign="center">
+4.4g
+</td>
+</tr>
+<tr>
+<td valign="center">
+Working Temperature
+</td>
+<td valign="center">
+-20℃ ~ +55℃
+</td>
+</tr>
+<tr>
+<td valign="center">
+Working Humidity
+</td>
+<td valign="center">
+20～95%
+</td>
+</tr>
+<tr>
+<td valign="center">
+Storage Temperature
+</td>
+<td valign="center">
+-20℃ ~ +70℃
+</td>
+</tr>
+<tr>
+<td valign="center">
+Package Includes
+</td>
+<td valign="center">
+1*FC, 4*Rubbers Columns
+</td>
+</tr>
+<tr>
+</tr>
+</tbody>
+</table>, 'images': {'images': ['https://inew.foxeer.com//upload/s/goods/2022-04-15/16-22-28-62592b4458fd0.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2022-04-15/16-22-43-62592b534f230.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2022-04-15/16-22-43-62592b532c6e8.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2022-04-15/16-22-41-62592b51e821b.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2022-04-15/16-22-41-62592b51c3752.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2022-04-15/16-22-41-62592b51bee7c.images.400x400.jpg'], 'image_block': <div class="product-img">
+<a class="jqzoom fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2022-04-15/16-22-28-62592b4458fd0.images.800x800.jpg" rel="gal1"><span big="https://inew.foxeer.com//upload/s/goods/2022-04-15/16-22-28-62592b4458fd0.images.800x800.jpg" class="zoom"><img id="zoomimg" src="https://inew.foxeer.com//upload/s/goods/2022-04-15/16-22-28-62592b4458fd0.images.400x400.jpg" width="600"/></span> </a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2022-04-15/16-22-43-62592b534f230.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2022-04-15/16-22-43-62592b534f230.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2022-04-15/16-22-43-62592b534f230.images.400x400.jpg" width="600"/></span></a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2022-04-15/16-22-43-62592b532c6e8.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2022-04-15/16-22-43-62592b532c6e8.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2022-04-15/16-22-43-62592b532c6e8.images.400x400.jpg" width="600"/></span></a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2022-04-15/16-22-41-62592b51e821b.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2022-04-15/16-22-41-62592b51e821b.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2022-04-15/16-22-41-62592b51e821b.images.400x400.jpg" width="600"/></span></a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2022-04-15/16-22-41-62592b51c3752.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2022-04-15/16-22-41-62592b51c3752.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2022-04-15/16-22-41-62592b51c3752.images.400x400.jpg" width="600"/></span></a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2022-04-15/16-22-41-62592b51bee7c.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2022-04-15/16-22-41-62592b51bee7c.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2022-04-15/16-22-41-62592b51bee7c.images.400x400.jpg" width="600"/></span></a>
+</div>}}, 'tags': {'tag_combinations': [''], 'spec_info': <div id="spec_info">
+</div>}}, {'name': <h3 class="product-name product_title">
+<a href="https://www.foxeer.com/foxeer-reaper-aio-v3-f745-45a-bls-bluejay-2-6s-g-454">Foxeer Reaper AIO V3 F745 45A BLS Bluejay 2-6S</a>
+</h3>, 'link': 'https://www.foxeer.com/foxeer-reaper-aio-v3-f745-45a-bls-bluejay-2-6s-g-454', 'price': {'price': <div class="price price-detail">$99.9 </div>, 'price_div': <div class="price price-detail">$99.9 </div>}, 'type': 'FlightController', 'details': {'details': {<td valign="center" width="189">
+<span>Model</span><span></span>
+</td>: <td valign="center" width="413">
+FOXEER Reaper AIO V3
+</td>, <td valign="center">
+CPU
+</td>: <td valign="center">
+STM32F745
+</td>, <td valign="center">
+Power Supply
+</td>: <td valign="center">
+2~6S Lipo(8.4~25.2V)
+</td>, <td valign="center">
+<span>BEC Output</span><span></span>
+</td>: <td valign="center">
+DC5V/2.5A
+</td>, <td valign="center">
+<span>OSD</span><span></span>
+</td>: <td valign="center">
+BF OSD
+</td>, <td valign="center">
+Black Box
+</td>: <td valign="center">
+16M Flash Memory
+</td>, <td valign="center">
+UART
+</td>: <td valign="center">
+5 Set
+</td>, <td valign="center">
+USB
+</td>: <td valign="center">
+Micro USB
+</td>, <td valign="center">
+Fireware
+</td>: <td valign="center">
+BF:FOXE-FOXEERF745V3_AIO; Inav: FOXEERF745AIO V3
+</td>, <td valign="center">
+DJI/Vista Connector
+</td>: <td valign="center">
+Supported, 7pin
+</td>, <td valign="center">
+Size
+</td>: <td valign="center">
+32.5X32.5mm
+</td>, <td valign="center">
+Mounting Hole
+</td>: <td valign="center">
+25.5X25.5mm,Φ3mm/M2
+</td>, <td valign="center">
+Weight(g)
+</td>: <td valign="center">
+8.9g
+</td>, <td valign="center">
+Working Temperature
+</td>: <td valign="center">
+-20℃ ~ +55℃
+</td>, <td valign="center">
+Working Humidity
+</td>: <td valign="center">
+20～95%
+</td>, <td valign="center">
+Storage Temperature
+</td>: <td valign="center">
+-20℃ ~ +70℃
+</td>, <td valign="center">
+Package Includes
+</td>: <td valign="center">
+1*AIO, Rubbers Columns, XT30 Cable, Vista Cable, Capacity
+</td>, 'download_links': [{'text': <a href="https://download.foxeer.com/Foxeer_AIOV3_Add_LED.txt" target="_blank">
+LED Setup
+</a>, 'link': 'https://download.foxeer.com/Foxeer_AIOV3_Add_LED.txt'}], 'video_link': None}, 'details_table': <table class="table table-bordered" width="614">
+<tbody>
+<tr>
+<td valign="center" width="189">
+<span>Model</span><span></span>
+</td>
+<td valign="center" width="413">
+FOXEER Reaper AIO V3
+</td>
+</tr>
+<tr>
+<td valign="center">
+CPU
+</td>
+<td valign="center">
+STM32F745
+</td>
+</tr>
+<tr>
+<td valign="center">
+Power Supply
+</td>
+<td valign="center">
+2~6S Lipo(8.4~25.2V)
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>BEC Output</span><span></span>
+</td>
+<td valign="center">
+DC5V/2.5A
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>OSD</span><span></span>
+</td>
+<td valign="center">
+BF OSD
+</td>
+</tr>
+<tr>
+<td valign="center">
+Black Box
+</td>
+<td valign="center">
+16M Flash Memory
+</td>
+</tr>
+<tr>
+<td valign="center">
+UART
+</td>
+<td valign="center">
+5 Set
+</td>
+</tr>
+<tr>
+<td valign="center">
+USB
+</td>
+<td valign="center">
+Micro USB
+</td>
+</tr>
+<tr>
+<td valign="center">
+Fireware
+</td>
+<td valign="center">
+BF:FOXE-FOXEERF745V3_AIO; Inav: FOXEERF745AIO V3
+</td>
+</tr>
+<tr>
+<td valign="center">
+DJI/Vista Connector
+</td>
+<td valign="center">
+Supported, 7pin
+</td>
+</tr>
+<tr>
+<td valign="center">
+Size
+</td>
+<td valign="center">
+32.5X32.5mm
+</td>
+</tr>
+<tr>
+<td valign="center">
+Mounting Hole
+</td>
+<td valign="center">
+25.5X25.5mm,Φ3mm/M2
+</td>
+</tr>
+<tr>
+<td valign="center">
+Weight(g)
+</td>
+<td valign="center">
+8.9g
+</td>
+</tr>
+<tr>
+<td valign="center">
+Working Temperature
+</td>
+<td valign="center">
+-20℃ ~ +55℃
+</td>
+</tr>
+<tr>
+<td valign="center">
+Working Humidity
+</td>
+<td valign="center">
+20～95%
+</td>
+</tr>
+<tr>
+<td valign="center">
+Storage Temperature
+</td>
+<td valign="center">
+-20℃ ~ +70℃
+</td>
+</tr>
+<tr>
+<td valign="center">
+Package Includes
+</td>
+<td valign="center">
+1*AIO, Rubbers Columns, XT30 Cable, Vista Cable, Capacity
+</td>
+</tr>
+<tr>
+</tr>
+</tbody>
+</table>, 'images': {'images': ['https://inew.foxeer.com//upload/s/goods/2022-09-13/11-57-30-631fffaa98a23.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2022-09-13/11-57-46-631fffbaba04a.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2022-09-13/11-57-46-631fffba812ae.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2022-09-13/11-57-44-631fffb8f12f8.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2022-09-13/11-57-44-631fffb8de79a.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2022-09-13/11-57-44-631fffb8d4a49.images.400x400.jpg'], 'image_block': <div class="product-img">
+<a class="jqzoom fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2022-09-13/11-57-30-631fffaa98a23.images.800x800.jpg" rel="gal1"><span big="https://inew.foxeer.com//upload/s/goods/2022-09-13/11-57-30-631fffaa98a23.images.800x800.jpg" class="zoom"><img id="zoomimg" src="https://inew.foxeer.com//upload/s/goods/2022-09-13/11-57-30-631fffaa98a23.images.400x400.jpg" width="600"/></span> </a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2022-09-13/11-57-46-631fffbaba04a.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2022-09-13/11-57-46-631fffbaba04a.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2022-09-13/11-57-46-631fffbaba04a.images.400x400.jpg" width="600"/></span></a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2022-09-13/11-57-46-631fffba812ae.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2022-09-13/11-57-46-631fffba812ae.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2022-09-13/11-57-46-631fffba812ae.images.400x400.jpg" width="600"/></span></a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2022-09-13/11-57-44-631fffb8f12f8.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2022-09-13/11-57-44-631fffb8f12f8.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2022-09-13/11-57-44-631fffb8f12f8.images.400x400.jpg" width="600"/></span></a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2022-09-13/11-57-44-631fffb8de79a.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2022-09-13/11-57-44-631fffb8de79a.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2022-09-13/11-57-44-631fffb8de79a.images.400x400.jpg" width="600"/></span></a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2022-09-13/11-57-44-631fffb8d4a49.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2022-09-13/11-57-44-631fffb8d4a49.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2022-09-13/11-57-44-631fffb8d4a49.images.400x400.jpg" width="600"/></span></a>
+</div>}}, 'tags': {'tag_combinations': [''], 'spec_info': <div id="spec_info">
+</div>}}, {'name': <h3 class="product-name product_title">
+<a href="https://www.foxeer.com/foxeer-f722-v3-flight-controller-x8-dji-type-c-g-430">Foxeer F722 V3 Flight Controller X8 DJI Type-C</a>
+</h3>, 'link': 'https://www.foxeer.com/foxeer-f722-v3-flight-controller-x8-dji-type-c-g-430', 'price': {'price': <div class="price price-detail">$39.9 <span class="market-price">$56.9 </span> </div>, 'price_div': <div class="price price-detail">$39.9 <span class="market-price">$56.9 </span> </div>}, 'type': 'FlightController', 'details': {'details': {<td valign="center" width="189">
+<span>Model</span><span></span>
+</td>: <td valign="center" width="413">
+F722 V3
+</td>, <td valign="center">
+CPU
+</td>: <td valign="center">
+STM32F722RET6
+</td>, <td valign="center">
+Power Supply
+</td>: <td valign="center">
+3~6S Lipo (11V~30V)
+</td>, <td valign="center">
+<span>BEC Output</span><span></span>
+</td>: <td valign="center">
+DC5V/3A; DC9V/3A
+</td>, <td valign="center">
+<span>OSD</span><span></span>
+</td>: <td valign="center">
+BF OSD
+</td>, <td valign="center">
+Black Box
+</td>: <td valign="center">
+16M Flash Memory
+</td>, <td valign="center">
+UART
+</td>: <td valign="center">
+6 Set
+</td>, <td valign="center">
+ESC Telemetry
+</td>: <td valign="center">
+RX4
+</td>, <td valign="center">
+Buzzer
+</td>: <td valign="center">
+YES
+</td>, <td valign="center">
+Smart Audio
+</td>: <td valign="center">
+YES
+</td>, <td valign="center">
+LED
+</td>: <td valign="center">
+1 Set 2812 LED
+</td>, <td valign="center">
+USB
+</td>: <td valign="center">
+Type-C
+</td>, <td valign="center">
+X8 Supported
+</td>: <td valign="center">
+Need CLI
+</td>, <td valign="center">
+Firmware
+</td>: <td valign="center">
+FOXEERF722V3
+</td>, <td valign="center">
+Size
+</td>: <td valign="center">
+37X37mm
+</td>, <td valign="center">
+Mounting Hole
+</td>: <td valign="center">
+30.5X30.5mm,Φ4mm
+</td>, <td valign="center">
+Weight(g)
+</td>: <td valign="center">
+8g
+</td>, <td valign="center">
+Working Temperature
+</td>: <td valign="center">
+-20℃ ~ +55℃
+</td>, <td valign="center">
+Working Humidity
+</td>: <td valign="center">
+20～95%
+</td>, <td valign="center">
+Storage Temperature
+</td>: <td valign="center">
+-20℃ ~ +70℃
+</td>, <td valign="center">
+Package Includes
+</td>: <td valign="center">
+1*FC, 4*Rubbers Columns
+</td>, 'download_links': [{'text': <a href="https://download.foxeer.com/Foxeer_F722_V3_Diagram.pdf" target="_blank">
+Manual
+</a>, 'link': 'https://download.foxeer.com/Foxeer_F722_V3_Diagram.pdf'}, {'text': <a href="https://download.foxeer.com/Foxeer_FC_V3_X8_CLI.txt" target="_blank">
+X8 Setup CLI
+</a>, 'link': 'https://download.foxeer.com/Foxeer_FC_V3_X8_CLI.txt'}], 'video_link': None}, 'details_table': <table class="table table-bordered" width="614">
+<tbody>
+<tr>
+<td valign="center" width="189">
+<span>Model</span><span></span>
+</td>
+<td valign="center" width="413">
+F722 V3
+</td>
+</tr>
+<tr>
+<td valign="center">
+CPU
+</td>
+<td valign="center">
+STM32F722RET6
+</td>
+</tr>
+<tr>
+<td valign="center">
+Power Supply
+</td>
+<td valign="center">
+3~6S Lipo (11V~30V)
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>BEC Output</span><span></span>
+</td>
+<td valign="center">
+DC5V/3A; DC9V/3A
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>OSD</span><span></span>
+</td>
+<td valign="center">
+BF OSD
+</td>
+</tr>
+<tr>
+<td valign="center">
+Black Box
+</td>
+<td valign="center">
+16M Flash Memory
+</td>
+</tr>
+<tr>
+<td valign="center">
+UART
+</td>
+<td valign="center">
+6 Set
+</td>
+</tr>
+<tr>
+<td valign="center">
+ESC Telemetry
+</td>
+<td valign="center">
+RX4
+</td>
+</tr>
+<tr>
+<td valign="center">
+Buzzer
+</td>
+<td valign="center">
+YES
+</td>
+</tr>
+<tr>
+<td valign="center">
+Smart Audio
+</td>
+<td valign="center">
+YES
+</td>
+</tr>
+<tr>
+<td valign="center">
+LED
+</td>
+<td valign="center">
+1 Set 2812 LED
+</td>
+</tr>
+<tr>
+<td valign="center">
+USB
+</td>
+<td valign="center">
+Type-C
+</td>
+</tr>
+<tr>
+<td valign="center">
+X8 Supported
+</td>
+<td valign="center">
+Need CLI
+</td>
+</tr>
+<tr>
+<td valign="center">
+Firmware
+</td>
+<td valign="center">
+FOXEERF722V3
+</td>
+</tr>
+<tr>
+<td valign="center">
+Size
+</td>
+<td valign="center">
+37X37mm
+</td>
+</tr>
+<tr>
+<td valign="center">
+Mounting Hole
+</td>
+<td valign="center">
+30.5X30.5mm,Φ4mm
+</td>
+</tr>
+<tr>
+<td valign="center">
+Weight(g)
+</td>
+<td valign="center">
+8g
+</td>
+</tr>
+<tr>
+<td valign="center">
+Working Temperature
+</td>
+<td valign="center">
+-20℃ ~ +55℃
+</td>
+</tr>
+<tr>
+<td valign="center">
+Working Humidity
+</td>
+<td valign="center">
+20～95%
+</td>
+</tr>
+<tr>
+<td valign="center">
+Storage Temperature
+</td>
+<td valign="center">
+-20℃ ~ +70℃
+</td>
+</tr>
+<tr>
+<td valign="center">
+Package Includes
+</td>
+<td valign="center">
+1*FC, 4*Rubbers Columns
+</td>
+</tr>
+<tr>
+</tr>
+</tbody>
+</table>, 'images': {'images': ['https://inew.foxeer.com//upload/s/goods/2022-04-29/16-42-47-626ba507d85ed.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2022-04-29/16-43-00-626ba5140e7f9.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2022-04-29/16-43-01-626ba5153b0eb.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2022-04-29/16-43-00-626ba51414b57.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2022-04-29/16-42-58-626ba5129d5e0.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2022-04-29/16-42-58-626ba5127cc8e.images.400x400.jpg'], 'image_block': <div class="product-img">
+<a class="jqzoom fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2022-04-29/16-42-47-626ba507d85ed.images.800x800.jpg" rel="gal1"><span big="https://inew.foxeer.com//upload/s/goods/2022-04-29/16-42-47-626ba507d85ed.images.800x800.jpg" class="zoom"><img id="zoomimg" src="https://inew.foxeer.com//upload/s/goods/2022-04-29/16-42-47-626ba507d85ed.images.400x400.jpg" width="600"/></span> </a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2022-04-29/16-43-00-626ba5140e7f9.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2022-04-29/16-43-00-626ba5140e7f9.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2022-04-29/16-43-00-626ba5140e7f9.images.400x400.jpg" width="600"/></span></a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2022-04-29/16-43-01-626ba5153b0eb.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2022-04-29/16-43-01-626ba5153b0eb.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2022-04-29/16-43-01-626ba5153b0eb.images.400x400.jpg" width="600"/></span></a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2022-04-29/16-43-00-626ba51414b57.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2022-04-29/16-43-00-626ba51414b57.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2022-04-29/16-43-00-626ba51414b57.images.400x400.jpg" width="600"/></span></a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2022-04-29/16-42-58-626ba5129d5e0.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2022-04-29/16-42-58-626ba5129d5e0.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2022-04-29/16-42-58-626ba5129d5e0.images.400x400.jpg" width="600"/></span></a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2022-04-29/16-42-58-626ba5127cc8e.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2022-04-29/16-42-58-626ba5127cc8e.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2022-04-29/16-42-58-626ba5127cc8e.images.400x400.jpg" width="600"/></span></a>
+</div>}}, 'tags': {'tag_combinations': [''], 'spec_info': <div id="spec_info">
+</div>}}, {'name': <h3 class="product-name product_title">
+<a href="https://www.foxeer.com/foxeer-mini-f722-v2-flight-controller-20-20mm-mounting-hole-betaflight-g-422">Foxeer Mini F722 V2 Flight Controller 20*20mm Mounting Hole BetaFlight</a>
+</h3>, 'link': 'https://www.foxeer.com/foxeer-mini-f722-v2-flight-controller-20-20mm-mounting-hole-betaflight-g-422', 'price': {'price': <div class="price price-detail">$56.9 </div>, 'price_div': <div class="price price-detail">$56.9 </div>}, 'type': 'FlightController', 'details': {'details': {<td valign="center" width="189">
+<span>Model</span><span></span>
+</td>: <td valign="center" width="413">
+Mini F722 V2
+</td>, <td valign="center">
+CPU
+</td>: <td valign="center">
+STM32F722RET6
+</td>, <td valign="center">
+Power Supply
+</td>: <td valign="center">
+2~6S Lipo (6.5V~30V)
+</td>, <td valign="center">
+<span>BEC Output</span><span></span>
+</td>: <td valign="center">
+DC5V/2A
+</td>, <td valign="center">
+<span>OSD</span><span></span>
+</td>: <td valign="center">
+BF OSD
+</td>, <td valign="center">
+Black Box
+</td>: <td valign="center">
+16M Flash Memory
+</td>, <td valign="center">
+UART
+</td>: <td valign="center">
+4 Set
+</td>, <td valign="center">
+ESC Telemetry
+</td>: <td valign="center">
+RX4
+</td>, <td valign="center">
+Buzzer
+</td>: <td valign="center">
+YES
+</td>, <td valign="center">
+Smart Audio
+</td>: <td valign="center">
+YES
+</td>, <td valign="center">
+LED
+</td>: <td valign="center">
+1 Set 2812 LED
+</td>, <td valign="center">
+USB
+</td>: <td valign="center">
+Micro USB
+</td>, <td valign="center">
+Fireware
+</td>: <td valign="center">
+FOXEERF722V2(BF&amp;Inav)
+</td>, <td valign="center">
+Size
+</td>: <td valign="center">
+26X26mm
+</td>, <td valign="center">
+Mounting Hole
+</td>: <td valign="center">
+20X20mm,Φ4mm
+</td>, <td valign="center">
+Weight(g)
+</td>: <td valign="center">
+4g
+</td>, <td valign="center">
+Working Temperature
+</td>: <td valign="center">
+-20℃ ~ +55℃
+</td>, <td valign="center">
+Working Humidity
+</td>: <td valign="center">
+20～95%
+</td>, <td valign="center">
+Storage Temperature
+</td>: <td valign="center">
+-20℃ ~ +70℃
+</td>, <td valign="center">
+Package Includes
+</td>: <td valign="center">
+1*FC, 4*Rubbers Columns
+</td>, 'download_links': [], 'video_link': None}, 'details_table': <table class="table table-bordered" width="614">
+<tbody>
+<tr>
+<td valign="center" width="189">
+<span>Model</span><span></span>
+</td>
+<td valign="center" width="413">
+Mini F722 V2
+</td>
+</tr>
+<tr>
+<td valign="center">
+CPU
+</td>
+<td valign="center">
+STM32F722RET6
+</td>
+</tr>
+<tr>
+<td valign="center">
+Power Supply
+</td>
+<td valign="center">
+2~6S Lipo (6.5V~30V)
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>BEC Output</span><span></span>
+</td>
+<td valign="center">
+DC5V/2A
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>OSD</span><span></span>
+</td>
+<td valign="center">
+BF OSD
+</td>
+</tr>
+<tr>
+<td valign="center">
+Black Box
+</td>
+<td valign="center">
+16M Flash Memory
+</td>
+</tr>
+<tr>
+<td valign="center">
+UART
+</td>
+<td valign="center">
+4 Set
+</td>
+</tr>
+<tr>
+<td valign="center">
+ESC Telemetry
+</td>
+<td valign="center">
+RX4
+</td>
+</tr>
+<tr>
+<td valign="center">
+Buzzer
+</td>
+<td valign="center">
+YES
+</td>
+</tr>
+<tr>
+<td valign="center">
+Smart Audio
+</td>
+<td valign="center">
+YES
+</td>
+</tr>
+<tr>
+<td valign="center">
+LED
+</td>
+<td valign="center">
+1 Set 2812 LED
+</td>
+</tr>
+<tr>
+<td valign="center">
+USB
+</td>
+<td valign="center">
+Micro USB
+</td>
+</tr>
+<tr>
+<td valign="center">
+Fireware
+</td>
+<td valign="center">
+FOXEERF722V2(BF&amp;Inav)
+</td>
+</tr>
+<tr>
+<td valign="center">
+Size
+</td>
+<td valign="center">
+26X26mm
+</td>
+</tr>
+<tr>
+<td valign="center">
+Mounting Hole
+</td>
+<td valign="center">
+20X20mm,Φ4mm
+</td>
+</tr>
+<tr>
+<td valign="center">
+Weight(g)
+</td>
+<td valign="center">
+4g
+</td>
+</tr>
+<tr>
+<td valign="center">
+Working Temperature
+</td>
+<td valign="center">
+-20℃ ~ +55℃
+</td>
+</tr>
+<tr>
+<td valign="center">
+Working Humidity
+</td>
+<td valign="center">
+20～95%
+</td>
+</tr>
+<tr>
+<td valign="center">
+Storage Temperature
+</td>
+<td valign="center">
+-20℃ ~ +70℃
+</td>
+</tr>
+<tr>
+<td valign="center">
+Package Includes
+</td>
+<td valign="center">
+1*FC, 4*Rubbers Columns
+</td>
+</tr>
+<tr>
+</tr>
+</tbody>
+</table>, 'images': {'images': ['https://inew.foxeer.com//upload/s/goods/2020-06-17/09-27-31-5ee97183ed080.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2020-06-17/09-27-58-5ee9719eb64b5.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2020-06-17/09-27-58-5ee9719eda7ed.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2020-06-17/09-28-00-5ee971a037c41.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2020-06-17/09-28-01-5ee971a1d5990.images.400x400.jpg'], 'image_block': <div class="product-img">
+<a class="jqzoom fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2020-06-17/09-27-31-5ee97183ed080.images.800x800.jpg" rel="gal1"><span big="https://inew.foxeer.com//upload/s/goods/2020-06-17/09-27-31-5ee97183ed080.images.800x800.jpg" class="zoom"><img id="zoomimg" src="https://inew.foxeer.com//upload/s/goods/2020-06-17/09-27-31-5ee97183ed080.images.400x400.jpg" width="600"/></span> </a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2020-06-17/09-27-58-5ee9719eb64b5.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2020-06-17/09-27-58-5ee9719eb64b5.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2020-06-17/09-27-58-5ee9719eb64b5.images.400x400.jpg" width="600"/></span></a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2020-06-17/09-27-58-5ee9719eda7ed.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2020-06-17/09-27-58-5ee9719eda7ed.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2020-06-17/09-27-58-5ee9719eda7ed.images.400x400.jpg" width="600"/></span></a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2020-06-17/09-28-00-5ee971a037c41.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2020-06-17/09-28-00-5ee971a037c41.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2020-06-17/09-28-00-5ee971a037c41.images.400x400.jpg" width="600"/></span></a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2020-06-17/09-28-01-5ee971a1d5990.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2020-06-17/09-28-01-5ee971a1d5990.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2020-06-17/09-28-01-5ee971a1d5990.images.400x400.jpg" width="600"/></span></a>
+</div>}}, 'tags': {'tag_combinations': [''], 'spec_info': <div id="spec_info">
+</div>}}, {'name': <h3 class="product-name product_title">
+<a href="https://www.foxeer.com/foxeer-reaper-aio-v2-f745-45a-bls-bluejay-2-6s-g-439">Foxeer Reaper AIO V2 F745 45A BLS Bluejay 2-6S</a>
+</h3>, 'link': 'https://www.foxeer.com/foxeer-reaper-aio-v2-f745-45a-bls-bluejay-2-6s-g-439', 'price': {'price': <div class="price price-detail">$99.9 </div>, 'price_div': <div class="price price-detail">$99.9 </div>}, 'type': 'FlightController', 'details': {'details': {<td valign="center" width="189">
+<span>Model</span><span></span>
+</td>: <td valign="center" width="413">
+FOXEER Reaper AIO V2
+</td>, <td valign="center">
+CPU
+</td>: <td valign="center">
+STM32F745
+</td>, <td valign="center">
+Power Supply
+</td>: <td valign="center">
+2~6S Lipo(8.4~25.2V)
+</td>, <td valign="center">
+<span>BEC Output</span><span></span>
+</td>: <td valign="center">
+DC5V/2.5A
+</td>, <td valign="center">
+<span>OSD</span><span></span>
+</td>: <td valign="center">
+BF OSD
+</td>, <td valign="center">
+Black Box
+</td>: <td valign="center">
+16M Flash Memory
+</td>, <td valign="center">
+UART
+</td>: <td valign="center">
+5 Set
+</td>, <td valign="center">
+USB
+</td>: <td valign="center">
+Micro USB
+</td>, <td valign="center">
+Fireware
+</td>: <td valign="center">
+BF:FOXE-FOXEERF745V2_AIO
+</td>, <td valign="center">
+DJI/Vista Connector
+</td>: <td valign="center">
+Supported, 7pin
+</td>, <td valign="center">
+Size
+</td>: <td valign="center">
+32.5X32.5mm
+</td>, <td valign="center">
+Mounting Hole
+</td>: <td valign="center">
+25.5X25.5mm,Φ3mm/M2
+</td>, <td valign="center">
+Weight(g)
+</td>: <td valign="center">
+8.6g
+</td>, <td valign="center">
+Working Temperature
+</td>: <td valign="center">
+-20℃ ~ +55℃
+</td>, <td valign="center">
+Working Humidity
+</td>: <td valign="center">
+20～95%
+</td>, <td valign="center">
+Storage Temperature
+</td>: <td valign="center">
+-20℃ ~ +70℃
+</td>, <td valign="center">
+Package Includes
+</td>: <td valign="center">
+1*AIO, Rubbers Columns, XT30 Cable, Vista Cable, Capacity
+</td>, 'download_links': [{'text': <a href="https://download.foxeer.com/Foxeer_AIO_V2_Wiring_Diagram" target="_blank">
+Wiring
+</a>, 'link': 'https://download.foxeer.com/Foxeer_AIO_V2_Wiring_Diagram'}], 'video_link': None}, 'details_table': <table class="table table-bordered" width="614">
+<tbody>
+<tr>
+<td valign="center" width="189">
+<span>Model</span><span></span>
+</td>
+<td valign="center" width="413">
+FOXEER Reaper AIO V2
+</td>
+</tr>
+<tr>
+<td valign="center">
+CPU
+</td>
+<td valign="center">
+STM32F745
+</td>
+</tr>
+<tr>
+<td valign="center">
+Power Supply
+</td>
+<td valign="center">
+2~6S Lipo(8.4~25.2V)
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>BEC Output</span><span></span>
+</td>
+<td valign="center">
+DC5V/2.5A
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>OSD</span><span></span>
+</td>
+<td valign="center">
+BF OSD
+</td>
+</tr>
+<tr>
+<td valign="center">
+Black Box
+</td>
+<td valign="center">
+16M Flash Memory
+</td>
+</tr>
+<tr>
+<td valign="center">
+UART
+</td>
+<td valign="center">
+5 Set
+</td>
+</tr>
+<tr>
+<td valign="center">
+USB
+</td>
+<td valign="center">
+Micro USB
+</td>
+</tr>
+<tr>
+<td valign="center">
+Fireware
+</td>
+<td valign="center">
+BF:FOXE-FOXEERF745V2_AIO
+</td>
+</tr>
+<tr>
+<td valign="center">
+DJI/Vista Connector
+</td>
+<td valign="center">
+Supported, 7pin
+</td>
+</tr>
+<tr>
+<td valign="center">
+Size
+</td>
+<td valign="center">
+32.5X32.5mm
+</td>
+</tr>
+<tr>
+<td valign="center">
+Mounting Hole
+</td>
+<td valign="center">
+25.5X25.5mm,Φ3mm/M2
+</td>
+</tr>
+<tr>
+<td valign="center">
+Weight(g)
+</td>
+<td valign="center">
+8.6g
+</td>
+</tr>
+<tr>
+<td valign="center">
+Working Temperature
+</td>
+<td valign="center">
+-20℃ ~ +55℃
+</td>
+</tr>
+<tr>
+<td valign="center">
+Working Humidity
+</td>
+<td valign="center">
+20～95%
+</td>
+</tr>
+<tr>
+<td valign="center">
+Storage Temperature
+</td>
+<td valign="center">
+-20℃ ~ +70℃
+</td>
+</tr>
+<tr>
+<td valign="center">
+Package Includes
+</td>
+<td valign="center">
+1*AIO, Rubbers Columns, XT30 Cable, Vista Cable, Capacity
+</td>
+</tr>
+<tr>
+</tr>
+</tbody>
+</table>, 'images': {'images': ['https://inew.foxeer.com//upload/s/goods/2022-05-26/17-28-34-628f48427fe6a.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2022-05-26/17-29-30-628f487a65b21.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2022-05-26/17-29-30-628f487a44891.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2022-05-26/17-29-28-628f4878ea3f2.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2022-05-26/17-29-28-628f4878e6320.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2022-05-26/17-29-28-628f4878c9ce3.images.400x400.jpg'], 'image_block': <div class="product-img">
+<a class="jqzoom fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2022-05-26/17-28-34-628f48427fe6a.images.800x800.jpg" rel="gal1"><span big="https://inew.foxeer.com//upload/s/goods/2022-05-26/17-28-34-628f48427fe6a.images.800x800.jpg" class="zoom"><img id="zoomimg" src="https://inew.foxeer.com//upload/s/goods/2022-05-26/17-28-34-628f48427fe6a.images.400x400.jpg" width="600"/></span> </a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2022-05-26/17-29-30-628f487a65b21.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2022-05-26/17-29-30-628f487a65b21.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2022-05-26/17-29-30-628f487a65b21.images.400x400.jpg" width="600"/></span></a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2022-05-26/17-29-30-628f487a44891.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2022-05-26/17-29-30-628f487a44891.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2022-05-26/17-29-30-628f487a44891.images.400x400.jpg" width="600"/></span></a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2022-05-26/17-29-28-628f4878ea3f2.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2022-05-26/17-29-28-628f4878ea3f2.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2022-05-26/17-29-28-628f4878ea3f2.images.400x400.jpg" width="600"/></span></a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2022-05-26/17-29-28-628f4878e6320.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2022-05-26/17-29-28-628f4878e6320.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2022-05-26/17-29-28-628f4878e6320.images.400x400.jpg" width="600"/></span></a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2022-05-26/17-29-28-628f4878c9ce3.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2022-05-26/17-29-28-628f4878c9ce3.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2022-05-26/17-29-28-628f4878c9ce3.images.400x400.jpg" width="600"/></span></a>
+</div>}}, 'tags': {'tag_combinations': [''], 'spec_info': <div id="spec_info">
+</div>}}, {'name': <h3 class="product-name product_title">
+<a href="https://www.foxeer.com/foxeer-f722-v3-mini-flight-controller-20-20mm-betaflight-g-425">Foxeer F722 V3 Mini Flight Controller 20*20mm BetaFlight</a>
+</h3>, 'link': 'https://www.foxeer.com/foxeer-f722-v3-mini-flight-controller-20-20mm-betaflight-g-425', 'price': {'price': <div class="price price-detail">$56.9 </div>, 'price_div': <div class="price price-detail">$56.9 </div>}, 'type': 'FlightController', 'details': {'details': {<td valign="center" width="189">
+<span>Model</span><span></span>
+</td>: <td valign="center" width="413">
+Mini F722 V3
+</td>, <td valign="center">
+CPU
+</td>: <td valign="center">
+STM32F722RET6
+</td>, <td valign="center">
+Power Supply
+</td>: <td valign="center">
+2~6S Lipo (6.5V~30V)
+</td>, <td valign="center">
+<span>BEC Output</span><span></span>
+</td>: <td valign="center">
+DC5V/3A
+</td>, <td valign="center">
+<span>OSD</span><span></span>
+</td>: <td valign="center">
+BF OSD
+</td>, <td valign="center">
+Black Box
+</td>: <td valign="center">
+16M Flash Memory
+</td>, <td valign="center">
+UART
+</td>: <td valign="center">
+4 Set
+</td>, <td valign="center">
+ESC Telemetry
+</td>: <td valign="center">
+RX4
+</td>, <td valign="center">
+Buzzer
+</td>: <td valign="center">
+YES
+</td>, <td valign="center">
+Smart Audio
+</td>: <td valign="center">
+YES
+</td>, <td valign="center">
+LED
+</td>: <td valign="center">
+1 Set 2812 LED
+</td>, <td valign="center">
+USB
+</td>: <td valign="center">
+Micro USB
+</td>, <td valign="center">
+Fireware
+</td>: <td valign="center">
+FOXEERF722V3
+</td>, <td valign="center">
+Size
+</td>: <td valign="center">
+26X26mm
+</td>, <td valign="center">
+Mounting Hole
+</td>: <td valign="center">
+20X20mm,Φ4mm
+</td>, <td valign="center">
+Weight(g)
+</td>: <td valign="center">
+4g
+</td>, <td valign="center">
+Working Temperature
+</td>: <td valign="center">
+-20℃ ~ +55℃
+</td>, <td valign="center">
+Working Humidity
+</td>: <td valign="center">
+20～95%
+</td>, <td valign="center">
+Storage Temperature
+</td>: <td valign="center">
+-20℃ ~ +70℃
+</td>, <td valign="center">
+Package Includes
+</td>: <td valign="center">
+1*FC, 4*Rubbers Columns
+</td>, 'download_links': [], 'video_link': None}, 'details_table': <table class="table table-bordered" width="614">
+<tbody>
+<tr>
+<td valign="center" width="189">
+<span>Model</span><span></span>
+</td>
+<td valign="center" width="413">
+Mini F722 V3
+</td>
+</tr>
+<tr>
+<td valign="center">
+CPU
+</td>
+<td valign="center">
+STM32F722RET6
+</td>
+</tr>
+<tr>
+<td valign="center">
+Power Supply
+</td>
+<td valign="center">
+2~6S Lipo (6.5V~30V)
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>BEC Output</span><span></span>
+</td>
+<td valign="center">
+DC5V/3A
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>OSD</span><span></span>
+</td>
+<td valign="center">
+BF OSD
+</td>
+</tr>
+<tr>
+<td valign="center">
+Black Box
+</td>
+<td valign="center">
+16M Flash Memory
+</td>
+</tr>
+<tr>
+<td valign="center">
+UART
+</td>
+<td valign="center">
+4 Set
+</td>
+</tr>
+<tr>
+<td valign="center">
+ESC Telemetry
+</td>
+<td valign="center">
+RX4
+</td>
+</tr>
+<tr>
+<td valign="center">
+Buzzer
+</td>
+<td valign="center">
+YES
+</td>
+</tr>
+<tr>
+<td valign="center">
+Smart Audio
+</td>
+<td valign="center">
+YES
+</td>
+</tr>
+<tr>
+<td valign="center">
+LED
+</td>
+<td valign="center">
+1 Set 2812 LED
+</td>
+</tr>
+<tr>
+<td valign="center">
+USB
+</td>
+<td valign="center">
+Micro USB
+</td>
+</tr>
+<tr>
+<td valign="center">
+Fireware
+</td>
+<td valign="center">
+FOXEERF722V3
+</td>
+</tr>
+<tr>
+<td valign="center">
+Size
+</td>
+<td valign="center">
+26X26mm
+</td>
+</tr>
+<tr>
+<td valign="center">
+Mounting Hole
+</td>
+<td valign="center">
+20X20mm,Φ4mm
+</td>
+</tr>
+<tr>
+<td valign="center">
+Weight(g)
+</td>
+<td valign="center">
+4g
+</td>
+</tr>
+<tr>
+<td valign="center">
+Working Temperature
+</td>
+<td valign="center">
+-20℃ ~ +55℃
+</td>
+</tr>
+<tr>
+<td valign="center">
+Working Humidity
+</td>
+<td valign="center">
+20～95%
+</td>
+</tr>
+<tr>
+<td valign="center">
+Storage Temperature
+</td>
+<td valign="center">
+-20℃ ~ +70℃
+</td>
+</tr>
+<tr>
+<td valign="center">
+Package Includes
+</td>
+<td valign="center">
+1*FC, 4*Rubbers Columns
+</td>
+</tr>
+<tr>
+</tr>
+</tbody>
+</table>, 'images': {'images': ['https://inew.foxeer.com//upload/s/goods/2022-04-15/16-18-28-62592a542634d.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2022-04-15/16-18-53-62592a6d610bc.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2022-04-15/16-18-50-62592a6ae379d.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2022-04-15/16-18-50-62592a6adf7b6.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2022-04-15/16-18-50-62592a6ac8361.images.400x400.jpg'], 'image_block': <div class="product-img">
+<a class="jqzoom fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2022-04-15/16-18-28-62592a542634d.images.800x800.jpg" rel="gal1"><span big="https://inew.foxeer.com//upload/s/goods/2022-04-15/16-18-28-62592a542634d.images.800x800.jpg" class="zoom"><img id="zoomimg" src="https://inew.foxeer.com//upload/s/goods/2022-04-15/16-18-28-62592a542634d.images.400x400.jpg" width="600"/></span> </a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2022-04-15/16-18-53-62592a6d610bc.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2022-04-15/16-18-53-62592a6d610bc.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2022-04-15/16-18-53-62592a6d610bc.images.400x400.jpg" width="600"/></span></a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2022-04-15/16-18-50-62592a6ae379d.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2022-04-15/16-18-50-62592a6ae379d.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2022-04-15/16-18-50-62592a6ae379d.images.400x400.jpg" width="600"/></span></a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2022-04-15/16-18-50-62592a6adf7b6.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2022-04-15/16-18-50-62592a6adf7b6.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2022-04-15/16-18-50-62592a6adf7b6.images.400x400.jpg" width="600"/></span></a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2022-04-15/16-18-50-62592a6ac8361.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2022-04-15/16-18-50-62592a6ac8361.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2022-04-15/16-18-50-62592a6ac8361.images.400x400.jpg" width="600"/></span></a>
+</div>}}, 'tags': {'tag_combinations': [''], 'spec_info': <div id="spec_info">
+</div>}}]

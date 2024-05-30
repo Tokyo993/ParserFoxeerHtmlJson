@@ -1,0 +1,126 @@
+[
+    {
+        "name": "Foxeer FT256 Analog CVBS Thermal Camera",
+        "link": "https://www.foxeer.com/foxeer-ft256-analog-cvbs-thermal-camera-g-567",
+        "price": "$499",
+        "type": "Camera",
+        "details": {
+            "Resolution": "256*192",
+            "Frame Rate": "50fps",
+            "Lens": "Fixed Focus Atherma 7mm",
+            "FOV(H*V)": "25°*19°",
+            "Refresh Rate": "25Hz",
+            "Detector Type": "12μm",
+            "Spectral Range": "8～14μm",
+            "Thermal Sensitivity": "<50mk",
+            "Image Display": "White Hot",
+            "Image Algorithm": "Non-uniformity Correction (NUC); 3D Noise Reduction (3DNR); Digital Detail Enhancement",
+            "Power Input": "4.5-18V",
+            "Video Output": "CVBS",
+            "Weight": "28g",
+            "TV System": "PAL",
+            "Size": "25.8*25.8*31.8mm",
+            "Consumption": "<1W",
+            "Working Temperature": "-40℃～+80℃",
+            "Storage Temperature": "-50℃～+85℃",
+            "Humidity": "5%~95%, Non-condensin",
+            "Vibration": "6.06grms, 3-axis",
+            "Shock": "Half-sine Wave, 80g/4ms, 3-axis 6-directi",
+            "Package Includes": "1 x Camera, 1 x Cable, 1 x Bracket",
+            "download_links": [],
+            "video_link": "https://www.youtube.com/embed/4c-HhbnD7Rk?si=QNPIrXiU9kECwgle",
+            "images": [
+                "https://inew.foxeer.com//upload/s/goods/2023-12-06/10-11-47-656fd8632a187.images.400x400.jpg",
+                "https://inew.foxeer.com//upload/s/goods/2023-12-06/10-11-54-656fd86a58a98.images.400x400.jpg",
+                "https://inew.foxeer.com//upload/s/goods/2023-12-06/10-11-54-656fd86a51db6.images.400x400.jpg",
+                "https://inew.foxeer.com//upload/s/goods/2023-12-06/10-11-54-656fd86a31881.images.400x400.jpg"
+            ]
+        },
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "name": "Foxeer FT640 V2 Analog CVBS Thermal Camera",
+        "link": "https://www.foxeer.com/foxeer-ft640-v2-analog-cvbs-thermal-camera-g-563",
+        "price": "$3499",
+        "type": "Camera",
+        "details": {
+            "Resolution": "640x512",
+            "Frame Rate": "60fps",
+            "Lens": "Fixed Focus Atherma 9.1mm",
+            "FOV(H*V)": "48.7°*38.6°",
+            "Refresh Rate": "25Hz",
+            "Detector Type": "12μm",
+            "Spectral Range": "8～14μm",
+            "Thermal Sensitivity": "<50mk",
+            "Image Display": "White Hot",
+            "Image Algorithm": "Non-uniformity Correction (NUC); 3D Noise Reduction (3DNR); Digital Detail Enhancement",
+            "Power Input": "4.5-18V",
+            "Video Output": "CVBS",
+            "Weight": "38g",
+            "TV System": "PAL",
+            "Size": "25.8*25.8*31.7mm",
+            "Consumption": "<1.2W",
+            "Working Temperature": "-40℃～+80℃",
+            "Storage Temperature": "-50℃～+85℃",
+            "Humidity": "5%~95%, Non-condensin",
+            "Vibration": "6.06grms, 3-axis",
+            "Shock": "Half-sine Wave, 80g/4ms, 3-axis 6-directi",
+            "Package Includes": "1 x Camera, 1 x Cable",
+            "download_links": [],
+            "video_link": null,
+            "images": [
+                "https://inew.foxeer.com//upload/s/goods/2023-11-10/11-50-54-654da89e13246.images.400x400.jpg",
+                "https://inew.foxeer.com//upload/s/goods/2023-11-10/11-51-13-654da8b1e0b2b.images.400x400.jpg",
+                "https://inew.foxeer.com//upload/s/goods/2023-11-10/11-51-13-654da8b1d7d6c.images.400x400.jpg",
+                "https://inew.foxeer.com//upload/s/goods/2023-11-10/11-51-13-654da8b1c4778.images.400x400.jpg"
+            ]
+        },
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "name": "Foxeer FT384 V2 Thermal camera",
+        "link": "https://www.foxeer.com/foxeer-ft384-v2-thermal-camera-g-562",
+        "price": "$1999",
+        "type": "Camera",
+        "details": {
+            "Resolution": "384x288",
+            "Frame Rate": "50fps",
+            "Lens": "9.1mm/29.2°*21.7°(H*V); 5.3mm/50°*37.5°(H*V)",
+            "Refresh Rate": "25Hz",
+            "Detector Type": "12μm",
+            "Spectral Range": "8～14μm",
+            "Thermal Sensitivity": "<50mk",
+            "Image Display": "White Hot",
+            "Image Algorithm": "Non-uniformity Correction (NUC); 3D Noise Reduction (3DNR); Digital Detail Enhancement",
+            "Power Input": "4.5-18V",
+            "Video Output": "CVBS",
+            "Weight": "38g",
+            "TV System": "PAL",
+            "Size": "23*23*29mm",
+            "Consumption": "<1W",
+            "Working Temperature": "-40℃～+80℃",
+            "Storage Temperature": "-50℃～+85℃",
+            "Humidity": "5%~95%, Non-condensin",
+            "Vibration": "6.06grms, 3-axis",
+            "Shock": "Half-sine Wave, 80g/4ms, 3-axis 6-directi",
+            "Package Includes": "1 x Camera, 1 x Cable",
+            "download_links": [],
+            "video_link": "https://www.youtube.com/embed/LRIvuZ_1G3U?si=k7HPlVW8-YuqFa0e",
+            "images": [
+                "https://inew.foxeer.com//upload/s/goods/2023-11-10/11-47-15-654da7c33cba6.images.400x400.jpg",
+                "https://inew.foxeer.com//upload/s/goods/2023-11-10/11-47-28-654da7d0367ae.images.400x400.jpg",
+                "https://inew.foxeer.com//upload/s/goods/2023-11-10/11-47-26-654da7cee1440.images.400x400.jpg",
+                "https://inew.foxeer.com//upload/s/goods/2023-11-10/11-47-27-654da7cf072d8.images.400x400.jpg",
+                "https://inew.foxeer.com//upload/s/goods/2023-11-10/11-47-26-654da7cedbaa0.images.400x400.jpg"
+            ]
+        },
+        "tags": [
+            "lens: 9.1mm",
+            "lens: 5.3mm"
+        ]
+    }
+]

@@ -1,0 +1,901 @@
+[{'name': <h3 class="product-name product_title">
+<a href="https://www.foxeer.com/5-ips-monitor-dvr-5-8g-40ch-built-in-receiver-battery-g-510">5" IPS Monitor DVR 5.8G 40CH Built In Receiver Battery</a>
+</h3>, 'link': 'https://www.foxeer.com/5-ips-monitor-dvr-5-8g-40ch-built-in-receiver-battery-g-510', 'price': {'price': <div class="price price-detail">$84.9 </div>, 'price_div': <div class="price price-detail">$84.9 </div>}, 'type': 'Monitor', 'details': {'details': {<td valign="center" width="189">
+<span>Model</span><span></span>
+</td>: <td valign="center" width="413">
+5" IPS Monitor
+</td>, <td valign="center">
+Resolution
+</td>: <td valign="center">
+800*480
+</td>, <td valign="center">
+Brightness
+</td>: <td valign="center">
+1000Lux
+</td>, <td valign="center">
+DVR Mode
+</td>: <td valign="center">
+VGA/D1/HD
+</td>, <td valign="center">
+Channel
+</td>: <td valign="center">
+40CH
+</td>, <td valign="center">
+Frequency
+</td>: <td valign="center">
+5.8G
+</td>, <td valign="center">
+<span>Battery</span><span></span>
+</td>: <td valign="center">
+2000mAH/7.4V
+</td>, <td valign="center">
+<span>Replay</span><span></span>
+</td>: <td valign="center">
+Supported
+</td>, <td valign="center">
+Battery Capacity
+</td>: <td valign="center">
+4000mAh
+</td>, <td valign="center">
+Input Voltage
+</td>: <td valign="center">
+DC 5-23V
+</td>, <td valign="center">
+Charging
+</td>: <td valign="center">
+USB
+</td>, <td valign="center">
+SD Card
+</td>: <td valign="center">
+C10, Maximum supporting 64G
+</td>, <td valign="center">
+Glass Material
+</td>: <td valign="center">
+IPS High luminance, all viewing angle
+</td>, <td valign="center">
+Material of Battery
+</td>: <td valign="center">
+3.8V Polymer battery
+</td>, <td valign="center">
+Continuous Working Hours
+</td>: <td valign="center">
+&gt;3 hours
+</td>, <td valign="center">
+Size
+</td>: <td valign="center">
+145x86x16mm (without antenna)
+</td>, <td valign="center">
+Weight
+</td>: <td valign="center">
+170g
+</td>, 'download_links': [], 'video_link': None}, 'details_table': <table class="table table-bordered" width="614">
+<tbody>
+<tr>
+<td valign="center" width="189">
+<span>Model</span><span></span>
+</td>
+<td valign="center" width="413">
+5" IPS Monitor
+</td>
+</tr>
+<tr>
+<td valign="center">
+Resolution
+</td>
+<td valign="center">
+800*480
+</td>
+</tr>
+<tr>
+<td valign="center">
+Brightness
+</td>
+<td valign="center">
+1000Lux
+</td>
+</tr>
+<tr>
+<td valign="center">
+DVR Mode
+</td>
+<td valign="center">
+VGA/D1/HD
+</td>
+</tr>
+<tr>
+<td valign="center">
+Channel
+</td>
+<td valign="center">
+40CH
+</td>
+</tr>
+<tr>
+<td valign="center">
+Frequency
+</td>
+<td valign="center">
+5.8G
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>Battery</span><span></span>
+</td>
+<td valign="center">
+2000mAH/7.4V
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>Replay</span><span></span>
+</td>
+<td valign="center">
+Supported
+</td>
+</tr>
+<tr>
+<td valign="center">
+Battery Capacity
+</td>
+<td valign="center">
+4000mAh
+</td>
+</tr>
+<tr>
+<td valign="center">
+Input Voltage
+</td>
+<td valign="center">
+DC 5-23V
+</td>
+</tr>
+<tr>
+<td valign="center">
+Charging
+</td>
+<td valign="center">
+USB
+</td>
+</tr>
+<tr>
+<td valign="center">
+SD Card
+</td>
+<td valign="center">
+C10, Maximum supporting 64G
+</td>
+</tr>
+<tr>
+<td valign="center">
+Glass Material
+</td>
+<td valign="center">
+IPS High luminance, all viewing angle
+</td>
+</tr>
+<tr>
+<td valign="center">
+Material of Battery
+</td>
+<td valign="center">
+3.8V Polymer battery
+</td>
+</tr>
+<tr>
+<td valign="center">
+Continuous Working Hours
+</td>
+<td valign="center">
+&gt;3 hours
+</td>
+</tr>
+<tr>
+<td valign="center">
+Size
+</td>
+<td valign="center">
+145x86x16mm (without antenna)
+</td>
+</tr>
+<tr>
+<td valign="center">
+Weight
+</td>
+<td valign="center">
+170g
+</td>
+</tr>
+<tr>
+</tr>
+</tbody>
+</table>, 'images': {'images': ['https://inew.foxeer.com//upload/s/goods/2023-03-31/17-24-03-6426a6b30b1e9.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2023-03-31/17-24-17-6426a6c1e7d36.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2023-03-31/17-24-17-6426a6c1c7ec9.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2023-03-31/17-24-17-6426a6c1b259c.images.400x400.jpg'], 'image_block': <div class="product-img">
+<a class="jqzoom fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2023-03-31/17-24-03-6426a6b30b1e9.images.800x800.jpg" rel="gal1"><span big="https://inew.foxeer.com//upload/s/goods/2023-03-31/17-24-03-6426a6b30b1e9.images.800x800.jpg" class="zoom"><img id="zoomimg" src="https://inew.foxeer.com//upload/s/goods/2023-03-31/17-24-03-6426a6b30b1e9.images.400x400.jpg" width="600"/></span> </a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2023-03-31/17-24-17-6426a6c1e7d36.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2023-03-31/17-24-17-6426a6c1e7d36.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2023-03-31/17-24-17-6426a6c1e7d36.images.400x400.jpg" width="600"/></span></a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2023-03-31/17-24-17-6426a6c1c7ec9.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2023-03-31/17-24-17-6426a6c1c7ec9.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2023-03-31/17-24-17-6426a6c1c7ec9.images.400x400.jpg" width="600"/></span></a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2023-03-31/17-24-17-6426a6c1b259c.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2023-03-31/17-24-17-6426a6c1b259c.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2023-03-31/17-24-17-6426a6c1b259c.images.400x400.jpg" width="600"/></span></a>
+</div>}}, 'tags': {'tag_combinations': [''], 'spec_info': <div id="spec_info">
+</div>}}, {'name': <h3 class="product-name product_title">
+<a href="https://www.foxeer.com/5-8g-fpv-goggles-40ch-dual-receiver-battery-dvr-g-490">5.8G FPV Goggles 40CH Dual Receiver Battery DVR</a>
+</h3>, 'link': 'https://www.foxeer.com/5-8g-fpv-goggles-40ch-dual-receiver-battery-dvr-g-490', 'price': {'price': <div class="price price-detail">$99.9 </div>, 'price_div': <div class="price price-detail">$99.9 </div>}, 'type': 'Monitor', 'details': {'details': {<td valign="center" width="189">
+<span>Model</span><span></span>
+</td>: <td valign="center" width="413">
+Foxeer 5.8G 40CH Dual Receiver FPV Goggles
+</td>, <td valign="center">
+Frequency
+</td>: <td valign="center">
+5.8G
+</td>, <td valign="center">
+Channel
+</td>: <td valign="center">
+40CH
+</td>, <td valign="center">
+<span>Aspect Ratio</span><span></span>
+</td>: <td valign="center">
+16:9
+</td>, <td valign="center">
+Resolution
+</td>: <td valign="center">
+800*480
+</td>, <td valign="center">
+DVR format
+</td>: <td valign="center">
+AVI
+</td>, <td valign="center">
+Screen Brightness
+</td>: <td valign="center">
+300cd/m2
+</td>, <td valign="center">
+Video Reply
+</td>: <td valign="center">
+Yes
+</td>, <td valign="center">
+Power Adapter
+</td>: <td valign="center">
+DC12V/2A
+</td>, <td valign="center">
+<span>Battery</span><span></span>
+</td>: <td valign="center">
+7.4V 1430mAh, 2hrs with DVR, 3.5hrs without DVR
+</td>, <td valign="center">
+<span>TF Card</span><span></span>
+</td>: <td valign="center">
+Up to 32G
+</td>, <td valign="center">
+Antenna Type
+</td>: <td valign="center">
+2*SMA
+</td>, <td valign="center">
+Weight
+</td>: <td valign="center">
+421g without antenna
+</td>, <td valign="center">
+Language
+</td>: <td valign="center">
+8 Languages
+</td>, <td valign="center">
+Size:
+</td>: <td valign="center">
+180x140x84mm
+</td>, <td valign="center">
+Package Includes
+</td>: <td valign="center">
+1*Goggles, 2*5.8G Antenna, 1*Power Supply
+</td>, 'download_links': [], 'video_link': None}, 'details_table': <table class="table table-bordered" width="614">
+<tbody>
+<tr>
+<td valign="center" width="189">
+<span>Model</span><span></span>
+</td>
+<td valign="center" width="413">
+Foxeer 5.8G 40CH Dual Receiver FPV Goggles
+</td>
+</tr>
+<tr>
+<td valign="center">
+Frequency
+</td>
+<td valign="center">
+5.8G
+</td>
+</tr>
+<tr>
+<td valign="center">
+Channel
+</td>
+<td valign="center">
+40CH
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>Aspect Ratio</span><span></span>
+</td>
+<td valign="center">
+16:9
+</td>
+</tr>
+<tr>
+<td valign="center">
+Resolution
+</td>
+<td valign="center">
+800*480
+</td>
+</tr>
+<tr>
+<td valign="center">
+DVR format
+</td>
+<td valign="center">
+AVI
+</td>
+</tr>
+<tr>
+<td valign="center">
+Screen Brightness
+</td>
+<td valign="center">
+300cd/m2
+</td>
+</tr>
+<tr>
+<td valign="center">
+Video Reply
+</td>
+<td valign="center">
+Yes
+</td>
+</tr>
+<tr>
+<td valign="center">
+Power Adapter
+</td>
+<td valign="center">
+DC12V/2A
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>Battery</span><span></span>
+</td>
+<td valign="center">
+7.4V 1430mAh, 2hrs with DVR, 3.5hrs without DVR
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>TF Card</span><span></span>
+</td>
+<td valign="center">
+Up to 32G
+</td>
+</tr>
+<tr>
+<td valign="center">
+Antenna Type
+</td>
+<td valign="center">
+2*SMA
+</td>
+</tr>
+<tr>
+<td valign="center">
+Weight
+</td>
+<td valign="center">
+421g without antenna
+</td>
+</tr>
+<tr>
+<td valign="center">
+Language
+</td>
+<td valign="center">
+8 Languages
+</td>
+</tr>
+<tr>
+<td valign="center">
+Size:
+</td>
+<td valign="center">
+180x140x84mm
+</td>
+</tr>
+<tr>
+<td valign="center">
+Package Includes
+</td>
+<td valign="center">
+1*Goggles, 2*5.8G Antenna, 1*Power Supply
+</td>
+</tr>
+<tr>
+</tr>
+</tbody>
+</table>, 'images': {'images': ['https://inew.foxeer.com//upload/s/goods/2022-12-28/17-10-23-63ac07ff2111b.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2022-12-28/17-10-39-63ac080f9458e.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2022-12-28/17-10-39-63ac080f95928.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2022-12-28/17-10-39-63ac080f2b045.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2022-12-28/17-10-37-63ac080de025e.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2022-12-28/17-10-37-63ac080dcf9c6.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2022-12-28/17-10-37-63ac080d98e36.images.400x400.jpg'], 'image_block': <div class="product-img">
+<a class="jqzoom fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2022-12-28/17-10-23-63ac07ff2111b.images.800x800.jpg" rel="gal1"><span big="https://inew.foxeer.com//upload/s/goods/2022-12-28/17-10-23-63ac07ff2111b.images.800x800.jpg" class="zoom"><img id="zoomimg" src="https://inew.foxeer.com//upload/s/goods/2022-12-28/17-10-23-63ac07ff2111b.images.400x400.jpg" width="600"/></span> </a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2022-12-28/17-10-39-63ac080f9458e.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2022-12-28/17-10-39-63ac080f9458e.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2022-12-28/17-10-39-63ac080f9458e.images.400x400.jpg" width="600"/></span></a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2022-12-28/17-10-39-63ac080f95928.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2022-12-28/17-10-39-63ac080f95928.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2022-12-28/17-10-39-63ac080f95928.images.400x400.jpg" width="600"/></span></a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2022-12-28/17-10-39-63ac080f2b045.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2022-12-28/17-10-39-63ac080f2b045.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2022-12-28/17-10-39-63ac080f2b045.images.400x400.jpg" width="600"/></span></a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2022-12-28/17-10-37-63ac080de025e.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2022-12-28/17-10-37-63ac080de025e.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2022-12-28/17-10-37-63ac080de025e.images.400x400.jpg" width="600"/></span></a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2022-12-28/17-10-37-63ac080dcf9c6.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2022-12-28/17-10-37-63ac080dcf9c6.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2022-12-28/17-10-37-63ac080dcf9c6.images.400x400.jpg" width="600"/></span></a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2022-12-28/17-10-37-63ac080d98e36.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2022-12-28/17-10-37-63ac080d98e36.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2022-12-28/17-10-37-63ac080d98e36.images.400x400.jpg" width="600"/></span></a>
+</div>}}, 'tags': {'tag_combinations': [''], 'spec_info': <div id="spec_info">
+</div>}}, {'name': <h3 class="product-name product_title">
+<a href="https://www.foxeer.com/4-3-fpv-monitor-5-8g-40ch-build-in-dvr-receiver-battery-g-489">4.3" FPV Monitor 5.8G 40CH Build in DVR Receiver Battery</a>
+</h3>, 'link': 'https://www.foxeer.com/4-3-fpv-monitor-5-8g-40ch-build-in-dvr-receiver-battery-g-489', 'price': {'price': <div class="price price-detail">$54.9 </div>, 'price_div': <div class="price price-detail">$54.9 </div>}, 'type': 'Monitor', 'details': {'details': {<td valign="center" width="189">
+<span>Model</span><span></span>
+</td>: <td valign="center" width="413">
+Foxeer 4.3" Monitor
+</td>, <td valign="center">
+Frequency
+</td>: <td valign="center">
+5.8G
+</td>, <td valign="center">
+Channel
+</td>: <td valign="center">
+40CH
+</td>, <td valign="center">
+<span>Aspect Ratio</span><span></span>
+</td>: <td valign="center">
+16:9
+</td>, <td valign="center">
+Resolution
+</td>: <td valign="center">
+800*480
+</td>, <td valign="center">
+Brightness
+</td>: <td valign="center">
+500cd/m2
+</td>, <td valign="center">
+Video Recording Modes
+</td>: <td valign="center">
+DVR(VGA/D1/HD)
+</td>, <td valign="center">
+Format
+</td>: <td valign="center">
+MJPEG AVI
+</td>, <td valign="center">
+Time
+</td>: <td valign="center">
+Off/3/5/10 min
+</td>, <td valign="center">
+Sound
+</td>: <td valign="center">
+On/Off
+</td>, <td valign="center">
+<span>Battery</span><span></span>
+</td>: <td valign="center">
+3.7V 1200mAh
+</td>, <td valign="center">
+<span>TF Card</span><span></span>
+</td>: <td valign="center">
+Up to 32G
+</td>, <td valign="center">
+<span>Connector</span><span></span>
+</td>: <td valign="center">
+3.5mm jack: Audio-Out / AV-in
+</td>, <td valign="center">
+Antenna Type
+</td>: <td valign="center">
+RPSMA male
+</td>, <td valign="center">
+Working Voltage
+</td>: <td valign="center">
+DC 5V/2A(USB) DC 5-23V
+</td>, <td valign="center">
+Languages
+</td>: <td valign="center">
+English/Chinese
+</td>, <td valign="center">
+Frame rate
+</td>: <td valign="center">
+30fps
+</td>, <td valign="center">
+Weight
+</td>: <td valign="center">
+159g
+</td>, <td valign="center">
+Working temperature:
+</td>: <td valign="center">
+-10℃ ~ +65 ℃
+</td>, <td valign="center">
+Size:
+</td>: <td valign="center">
+146x80x13mm
+</td>, <td valign="center">
+Package Includes
+</td>: <td valign="center">
+1*Monitor, 2*5.8G Antenna, 1*XT60 Expanded Cable, 1*USB Cable
+</td>, 'download_links': [], 'video_link': None}, 'details_table': <table class="table table-bordered" width="614">
+<tbody>
+<tr>
+<td valign="center" width="189">
+<span>Model</span><span></span>
+</td>
+<td valign="center" width="413">
+Foxeer 4.3" Monitor
+</td>
+</tr>
+<tr>
+<td valign="center">
+Frequency
+</td>
+<td valign="center">
+5.8G
+</td>
+</tr>
+<tr>
+<td valign="center">
+Channel
+</td>
+<td valign="center">
+40CH
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>Aspect Ratio</span><span></span>
+</td>
+<td valign="center">
+16:9
+</td>
+</tr>
+<tr>
+<td valign="center">
+Resolution
+</td>
+<td valign="center">
+800*480
+</td>
+</tr>
+<tr>
+<td valign="center">
+Brightness
+</td>
+<td valign="center">
+500cd/m2
+</td>
+</tr>
+<tr>
+<td valign="center">
+Video Recording Modes
+</td>
+<td valign="center">
+DVR(VGA/D1/HD)
+</td>
+</tr>
+<tr>
+<td valign="center">
+Format
+</td>
+<td valign="center">
+MJPEG AVI
+</td>
+</tr>
+<tr>
+<td valign="center">
+Time
+</td>
+<td valign="center">
+Off/3/5/10 min
+</td>
+</tr>
+<tr>
+<td valign="center">
+Sound
+</td>
+<td valign="center">
+On/Off
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>Battery</span><span></span>
+</td>
+<td valign="center">
+3.7V 1200mAh
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>TF Card</span><span></span>
+</td>
+<td valign="center">
+Up to 32G
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>Connector</span><span></span>
+</td>
+<td valign="center">
+3.5mm jack: Audio-Out / AV-in
+</td>
+</tr>
+<tr>
+<td valign="center">
+Antenna Type
+</td>
+<td valign="center">
+RPSMA male
+</td>
+</tr>
+<tr>
+<td valign="center">
+Working Voltage
+</td>
+<td valign="center">
+DC 5V/2A(USB) DC 5-23V
+</td>
+</tr>
+<tr>
+<td valign="center">
+Languages
+</td>
+<td valign="center">
+English/Chinese
+</td>
+</tr>
+<tr>
+<td valign="center">
+Frame rate
+</td>
+<td valign="center">
+30fps
+</td>
+</tr>
+<tr>
+<td valign="center">
+Weight
+</td>
+<td valign="center">
+159g
+</td>
+</tr>
+<tr>
+<td valign="center">
+Working temperature:
+</td>
+<td valign="center">
+-10℃ ~ +65 ℃
+</td>
+</tr>
+<tr>
+<td valign="center">
+Size:
+</td>
+<td valign="center">
+146x80x13mm
+</td>
+</tr>
+<tr>
+<td valign="center">
+Package Includes
+</td>
+<td valign="center">
+1*Monitor, 2*5.8G Antenna, 1*XT60 Expanded Cable, 1*USB Cable
+</td>
+</tr>
+<tr>
+</tr>
+</tbody>
+</table>, 'images': {'images': ['https://inew.foxeer.com//upload/s/goods/2022-12-21/14-47-02-63a2abe65374a.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2022-12-21/14-47-19-63a2abf7d983f.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2022-12-21/14-47-19-63a2abf7de6e3.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2022-12-21/14-47-19-63a2abf78ad93.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2022-12-21/14-47-18-63a2abf614861.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2022-12-21/14-47-18-63a2abf60c47b.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2022-12-21/14-47-18-63a2abf601cdd.images.400x400.jpg'], 'image_block': <div class="product-img">
+<a class="jqzoom fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2022-12-21/14-47-02-63a2abe65374a.images.800x800.jpg" rel="gal1"><span big="https://inew.foxeer.com//upload/s/goods/2022-12-21/14-47-02-63a2abe65374a.images.800x800.jpg" class="zoom"><img id="zoomimg" src="https://inew.foxeer.com//upload/s/goods/2022-12-21/14-47-02-63a2abe65374a.images.400x400.jpg" width="600"/></span> </a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2022-12-21/14-47-19-63a2abf7d983f.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2022-12-21/14-47-19-63a2abf7d983f.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2022-12-21/14-47-19-63a2abf7d983f.images.400x400.jpg" width="600"/></span></a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2022-12-21/14-47-19-63a2abf7de6e3.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2022-12-21/14-47-19-63a2abf7de6e3.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2022-12-21/14-47-19-63a2abf7de6e3.images.400x400.jpg" width="600"/></span></a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2022-12-21/14-47-19-63a2abf78ad93.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2022-12-21/14-47-19-63a2abf78ad93.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2022-12-21/14-47-19-63a2abf78ad93.images.400x400.jpg" width="600"/></span></a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2022-12-21/14-47-18-63a2abf614861.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2022-12-21/14-47-18-63a2abf614861.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2022-12-21/14-47-18-63a2abf614861.images.400x400.jpg" width="600"/></span></a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2022-12-21/14-47-18-63a2abf60c47b.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2022-12-21/14-47-18-63a2abf60c47b.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2022-12-21/14-47-18-63a2abf60c47b.images.400x400.jpg" width="600"/></span></a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2022-12-21/14-47-18-63a2abf601cdd.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2022-12-21/14-47-18-63a2abf601cdd.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2022-12-21/14-47-18-63a2abf601cdd.images.400x400.jpg" width="600"/></span></a>
+</div>}}, 'tags': {'tag_combinations': [''], 'spec_info': <div id="spec_info">
+</div>}}, {'name': <h3 class="product-name product_title">
+<a href="https://www.foxeer.com/7-lcd5802d-monitor-dvr-5-8g-40ch-built-in-receiver-g-481">7" LCD5802D Monitor DVR 5.8G 40CH Built in Receiver</a>
+</h3>, 'link': 'https://www.foxeer.com/7-lcd5802d-monitor-dvr-5-8g-40ch-built-in-receiver-g-481', 'price': {'price': <div class="price price-detail">$89.9 </div>, 'price_div': <div class="price price-detail">$89.9 </div>}, 'type': 'Monitor', 'details': {'details': {<td valign="center" width="189">
+<span>Model</span><span></span>
+</td>: <td valign="center" width="413">
+Foxeer LCD5802D 7" Monitor
+</td>, <td valign="center">
+Resolution
+</td>: <td valign="center">
+800*480
+</td>, <td valign="center">
+Brightness
+</td>: <td valign="center">
+600cd/m2
+</td>, <td valign="center">
+View Angle
+</td>: <td valign="center">
+140/120 degree (Horizontal/Vertical)
+</td>, <td valign="center">
+Channel
+</td>: <td valign="center">
+40CH
+</td>, <td valign="center">
+Frequency
+</td>: <td valign="center">
+5.8G
+</td>, <td valign="center">
+<span>Battery</span><span></span>
+</td>: <td valign="center">
+2000mAH/7.4V
+</td>, <td valign="center">
+<span>Sensitivity</span><span></span>
+</td>: <td valign="center">
+-90dBm
+</td>, <td valign="center">
+Antenna Type
+</td>: <td valign="center">
+RPSMA male
+</td>, <td valign="center">
+Working Voltage
+</td>: <td valign="center">
+DC 7~16V
+</td>, <td valign="center">
+Power Consumption
+</td>: <td valign="center">
+Max 650mA @ 12V
+</td>, <td valign="center">
+Battery charging current
+</td>: <td valign="center">
+850mA @12V Max
+</td>, <td valign="center">
+Working temperature:?
+</td>: <td valign="center">
+-10℃ ~ +65 ℃
+</td>, <td valign="center">
+Size:
+</td>: <td valign="center">
+180mm x 120mm x 50mm(Note:Sunshield height:28mm)
+</td>, <td valign="center">
+Package Includes
+</td>: <td valign="center">
+1*Monitor, 2*5.8G Antenna, 2*AV cable, 1*Charger
+</td>, 'download_links': [], 'video_link': None}, 'details_table': <table class="table table-bordered" width="614">
+<tbody>
+<tr>
+<td valign="center" width="189">
+<span>Model</span><span></span>
+</td>
+<td valign="center" width="413">
+Foxeer LCD5802D 7" Monitor
+</td>
+</tr>
+<tr>
+<td valign="center">
+Resolution
+</td>
+<td valign="center">
+800*480
+</td>
+</tr>
+<tr>
+<td valign="center">
+Brightness
+</td>
+<td valign="center">
+600cd/m2
+</td>
+</tr>
+<tr>
+<td valign="center">
+View Angle
+</td>
+<td valign="center">
+140/120 degree (Horizontal/Vertical)
+</td>
+</tr>
+<tr>
+<td valign="center">
+Channel
+</td>
+<td valign="center">
+40CH
+</td>
+</tr>
+<tr>
+<td valign="center">
+Frequency
+</td>
+<td valign="center">
+5.8G
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>Battery</span><span></span>
+</td>
+<td valign="center">
+2000mAH/7.4V
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>Sensitivity</span><span></span>
+</td>
+<td valign="center">
+-90dBm
+</td>
+</tr>
+<tr>
+<td valign="center">
+Antenna Type
+</td>
+<td valign="center">
+RPSMA male
+</td>
+</tr>
+<tr>
+<td valign="center">
+Working Voltage
+</td>
+<td valign="center">
+DC 7~16V
+</td>
+</tr>
+<tr>
+<td valign="center">
+Power Consumption
+</td>
+<td valign="center">
+Max 650mA @ 12V
+</td>
+</tr>
+<tr>
+<td valign="center">
+Battery charging current
+</td>
+<td valign="center">
+850mA @12V Max
+</td>
+</tr>
+<tr>
+<td valign="center">
+Working temperature:?
+</td>
+<td valign="center">
+-10℃ ~ +65 ℃
+</td>
+</tr>
+<tr>
+<td valign="center">
+Size:
+</td>
+<td valign="center">
+180mm x 120mm x 50mm(Note:Sunshield height:28mm)
+</td>
+</tr>
+<tr>
+<td valign="center">
+Package Includes
+</td>
+<td valign="center">
+1*Monitor, 2*5.8G Antenna, 2*AV cable, 1*Charger
+</td>
+</tr>
+<tr>
+</tr>
+</tbody>
+</table>, 'images': {'images': ['https://inew.foxeer.com//upload/s/goods/2022-11-30/17-22-45-638720e5f2a6f.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2022-11-30/17-22-59-638720f3e4632.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2022-11-30/17-22-59-638720f3c0ff9.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2022-11-30/17-22-59-638720f35eac9.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2022-11-30/17-22-58-638720f21bb54.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2022-11-30/17-22-58-638720f236557.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2022-11-30/17-22-57-638720f1f1bec.images.400x400.jpg'], 'image_block': <div class="product-img">
+<a class="jqzoom fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2022-11-30/17-22-45-638720e5f2a6f.images.800x800.jpg" rel="gal1"><span big="https://inew.foxeer.com//upload/s/goods/2022-11-30/17-22-45-638720e5f2a6f.images.800x800.jpg" class="zoom"><img id="zoomimg" src="https://inew.foxeer.com//upload/s/goods/2022-11-30/17-22-45-638720e5f2a6f.images.400x400.jpg" width="600"/></span> </a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2022-11-30/17-22-59-638720f3e4632.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2022-11-30/17-22-59-638720f3e4632.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2022-11-30/17-22-59-638720f3e4632.images.400x400.jpg" width="600"/></span></a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2022-11-30/17-22-59-638720f3c0ff9.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2022-11-30/17-22-59-638720f3c0ff9.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2022-11-30/17-22-59-638720f3c0ff9.images.400x400.jpg" width="600"/></span></a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2022-11-30/17-22-59-638720f35eac9.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2022-11-30/17-22-59-638720f35eac9.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2022-11-30/17-22-59-638720f35eac9.images.400x400.jpg" width="600"/></span></a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2022-11-30/17-22-58-638720f21bb54.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2022-11-30/17-22-58-638720f21bb54.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2022-11-30/17-22-58-638720f21bb54.images.400x400.jpg" width="600"/></span></a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2022-11-30/17-22-58-638720f236557.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2022-11-30/17-22-58-638720f236557.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2022-11-30/17-22-58-638720f236557.images.400x400.jpg" width="600"/></span></a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2022-11-30/17-22-57-638720f1f1bec.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2022-11-30/17-22-57-638720f1f1bec.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2022-11-30/17-22-57-638720f1f1bec.images.400x400.jpg" width="600"/></span></a>
+</div>}}, 'tags': {'tag_combinations': ['Model: US', 'Model: EU'], 'spec_info': <div id="spec_info">
+<div class="spec_goods_price_div standard clearfix">
+<ul>
+<li class="jaj"><span>Model: </span></li>
+<li class="lawir colo">
+<input hidden="" id="goods_spec_318" name="goods_spec[53]" type="radio" value="318">
+<a data-item_id="318" enable="1" id="goods_spec_a_318" onclick=" select_filter(this);">US</a>
+<input hidden="" id="goods_spec_319" name="goods_spec[53]" type="radio" value="319">
+<a data-item_id="319" enable="1" id="goods_spec_a_319" onclick=" select_filter(this);">EU</a>
+</input></input></li>
+</ul>
+</div>
+</div>}}]

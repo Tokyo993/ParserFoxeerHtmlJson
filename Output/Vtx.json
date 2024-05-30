@@ -1,0 +1,368 @@
+[
+    {
+        "name": "Foxeer 5.8G Reaper Extreme 3W 72CH VTx",
+        "link": "https://www.foxeer.com/foxeer-5-8g-reaper-extreme-3w-72ch-vtx-g-576",
+        "price": "$64.9",
+        "type": "TX",
+        "details": {
+            "Name": "Reaper Extreme 3W",
+            "Input Voltage": "9~36V",
+            "Output Voltage": "5V",
+            "Channels": "72CH",
+            "Power": "25mW/200mW/500mW/1.5W/3W, red light flash 1/2/3/4/5 times correspondingly",
+            "Pit": "Double click to enter",
+            "Fan": "Yes",
+            "Weight": "15.2g",
+            "Size": "38*29.2*11.5mm",
+            "Consumption": "1.4A/10V",
+            "Package Includes": "1 x VTx; 1 x silicon cable;",
+            "download_links": [
+                {
+                    "text": "Manual",
+                    "link": "https://download.foxeer.comFoxeer_Reaper_Extreme_VTX_Manual_3W.pdf"
+                },
+                {
+                    "text": "Frequency Table",
+                    "link": "https://download.foxeer.com/FOXEER_Reaper_Extreme_3W_VTx_Frequency_Table.json"
+                }
+            ],
+            "video_link": null,
+            "images": [
+                "https://inew.foxeer.com//upload/s/goods/2024-03-13/11-50-54-65f1229ee4341.images.400x400.jpg",
+                "https://inew.foxeer.com//upload/s/goods/2024-03-13/11-51-11-65f122af8d28b.images.400x400.jpg",
+                "https://inew.foxeer.com//upload/s/goods/2024-03-13/11-51-10-65f122ae90c9a.images.400x400.jpg",
+                "https://inew.foxeer.com//upload/s/goods/2024-03-13/11-51-10-65f122ae66bca.images.400x400.jpg"
+            ]
+        },
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "name": "Foxeer 5.8G Reaper Extreme V2 2.5W 72CH VTx",
+        "link": "https://www.foxeer.com/foxeer-5-8g-reaper-extreme-v2-2-5w-72ch-vtx-g-566",
+        "price": "$59.9",
+        "type": "TX",
+        "details": {
+            "Name": "Reaper Extreme V2",
+            "Input Voltage": "9~36V",
+            "Output Voltage": "5V",
+            "Channels": "72CH",
+            "Power": "25mW/200mW/500mW/1.5W/2.5W, red light flash 1/2/3/4/5 times correspondingly",
+            "Pit": "Double click to enter",
+            "Weight": "13g",
+            "Mounting Hole": "20*20mm M2 2.8mm depth",
+            "Size": "36*27.5*8mm",
+            "Consumption": "1.2A/9V",
+            "Package Includes": "1 x VTx; 1 x silicon cable;",
+            "download_links": [
+                {
+                    "text": "Frequency Table",
+                    "link": "https://download.foxeer.com/FOXEER_Reaper_Extreme_V2_2.5W_VTx_Frequency_Table.zip"
+                },
+                {
+                    "text": "Manual",
+                    "link": "https://download.foxeer.com/Foxeer_Reaper_Extreme_V2_VTX_Manual.pdf"
+                }
+            ],
+            "video_link": null,
+            "images": [
+                "https://inew.foxeer.com//upload/s/goods/2024-03-08/13-52-13-65eaa78d51bce.images.400x400.jpg",
+                "https://inew.foxeer.com//upload/s/goods/2024-03-08/13-52-25-65eaa799db5a9.images.400x400.jpg",
+                "https://inew.foxeer.com//upload/s/goods/2024-03-08/13-52-24-65eaa7986a62d.images.400x400.jpg",
+                "https://inew.foxeer.com//upload/s/goods/2024-03-08/13-52-24-65eaa7986054c.images.400x400.jpg",
+                "https://inew.foxeer.com//upload/s/goods/2024-03-08/13-52-24-65eaa798534b9.images.400x400.jpg"
+            ]
+        },
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "name": "Foxeer 4.9G Low band Goggles Module Set",
+        "link": "https://www.foxeer.com/foxeer-4-9g-low-band-goggles-module-set-g-558",
+        "price": "$80-$210",
+        "type": "TX",
+        "details": {
+            "Model": "Foxeer 4.9G 40CH Low Band Goggles Module Set",
+            "Frequency": "4.9G~6G",
+            "VTx": "Foxeer Reaper 2.5W Extreme VTx with 72CH",
+            "Protocol": "Tramp",
+            "Antenna": "Foxeer 4.9G Lollipop Antenna / Foxeer 4.9G Echo 2 Patch antenna",
+            "Goggles Module": "Foxeer 4.9G Wildfire Dual Receiver",
+            "Package Includes": "1*Goggles Module, 1* 2.5W 4.9G Reaper Extreme VTx, 2*4.9G Lollipop 4+ Antenna, 1*4.9G Echo 2 Patch Antenna, 1*MMCX to SMA Cable",
+            "download_links": [
+                {
+                    "text": "VTx Frequency Table",
+                    "link": "https://download.foxeer.com/FOXEER_Reaper_Extreme_V2_2.5W_VTx_Frequency_Table.zip"
+                }
+            ],
+            "video_link": null,
+            "images": [
+                "https://inew.foxeer.com//upload/s/goods/2023-12-09/10-58-21-6573d7cda2ce6.images.400x400.jpg"
+            ]
+        },
+        "tags": [
+            "Version: VTx",
+            "Version: VRx",
+            "Version: Kit"
+        ]
+    },
+    {
+        "name": "Foxeer 4.9G Low Band Goggles Set",
+        "link": "https://www.foxeer.com/foxeer-4-9g-low-band-goggles-set-g-557",
+        "price": "$239",
+        "type": "TX",
+        "details": {
+            "Model": "Foxeer 4.9G 40CH Low Band Set",
+            "Frequency": "4.9G~6G",
+            "VTx": "Foxeer Reaper 2.5W Extreme VTx with 40CH",
+            "Protocol": "Tramp",
+            "Antenna": "Foxeer 4.9G Lollipop Antenna / Foxeer 4.9G Echo 2 Patch antenna",
+            "Goggles": "4.9G 40CH Goggles Dual Receiver",
+            "Package Includes": "1*Goggles, 1* 2.5W 4.9G Reaper Extreme VTx, 2*4.9G Lollipop 4+ Antenna, 1*4.9G Echo 2 Patch Antenna, 1*MMCX to SMA Cable",
+            "download_links": [
+                {
+                    "text": "VTx Frequency Table",
+                    "link": "https://download.foxeer.com/FOXEER_Reaper_Extreme_2.5W_VTx_Frequency_Table.zip"
+                }
+            ],
+            "video_link": null,
+            "images": [
+                "https://inew.foxeer.com//upload/s/goods/2023-10-10/13-42-35-6524e44b40893.images.400x400.jpg"
+            ]
+        },
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "name": "Foxeer 5.8G Reaper Infinity 5W 40CH VTx",
+        "link": "https://www.foxeer.com/foxeer-5-8g-reaper-infinity-5w-40ch-vtx-g-531",
+        "price": "$135",
+        "type": "TX",
+        "details": {
+            "Name": "Reaper Infinity",
+            "Input Voltage": "9~36V",
+            "Output Voltage": "5V",
+            "Channels": "40CH",
+            "Power": "50mW/500mW/1000mW/2500mW/5000mW, red light flash 1/2/3/4/5 times correspondingly",
+            "Pit": "Double click to enter",
+            "Weight": "58g",
+            "Mounting Hole": "20*20mm M2",
+            "Size": "72*41*17mm",
+            "Connector": "SMA",
+            "Consumption": "9V/3A; 36V/0.8A",
+            "download_links": [
+                {
+                    "text": "Frequency Table",
+                    "link": "https://download.foxeer.com/Foxeer_5W_Infinity_Reaper_VTx_Table.zip"
+                },
+                {
+                    "text": "Manual",
+                    "link": "https://download.foxeer.com/Foxeer_Reaper_Infinity_5W_VTx_Manual.pdf"
+                }
+            ],
+            "video_link": "https://www.youtube.com/embed/1EOS_PaETg4",
+            "images": [
+                "https://inew.foxeer.com//upload/s/goods/2023-06-27/17-07-59-649aa6efe4b21.images.400x400.jpg",
+                "https://inew.foxeer.com//upload/s/goods/2023-06-27/17-08-22-649aa7060469f.images.400x400.jpg",
+                "https://inew.foxeer.com//upload/s/goods/2023-06-27/17-08-21-649aa705def14.images.400x400.jpg",
+                "https://inew.foxeer.com//upload/s/goods/2023-06-27/17-08-21-649aa705beda3.images.400x400.jpg"
+            ]
+        },
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "name": "Foxeer HDZero HD 720P Digital VTx Race Edition",
+        "link": "https://www.foxeer.com/foxeer-hdzero-hd-720p-digital-vtx-race-edition-g-509",
+        "price": "$69.9",
+        "type": "TX",
+        "details": {
+            "Model": "Foxeer HDZero VTx Race",
+            "Frequency": "5.8G",
+            "Resolution": "1280*720@60fps",
+            "RF power": "25mw/200mw",
+            "RF Connector": "Secured UFL",
+            "Interface": "4 lane MIPI CSI YUV422",
+            "Video Connector": "20 Position 0.30mm Pitch",
+            "Size": "32mm x 34mm x 6mm",
+            "Weight": "6.3g",
+            "Power": "410mA@12V",
+            "Input Voltage": "8~26V(3~6S)",
+            "Mounting": "20mm x 20mm Φ4 M3",
+            "Includes": "1*VTX; 6*Cables; 4*Gummy; 4*Pad; 1* Zip ties; 1*Plate/2*Nut/2*Screw",
+            "download_links": [
+                {
+                    "text": "Firmware",
+                    "link": "https://download.foxeer.com/HDZERO_Foxeer_VTX.bin"
+                },
+                {
+                    "text": "Upgrade Method",
+                    "link": "https://download.foxeer.com/Foxeer_HDZero_VTx_Upgrade_Process_via_VRx.pdf"
+                }
+            ],
+            "video_link": null,
+            "images": [
+                "https://inew.foxeer.com//upload/s/goods/2023-03-31/18-00-41-6426af49897e6.images.400x400.jpg",
+                "https://inew.foxeer.com//upload/s/goods/2023-03-31/18-00-50-6426af5290473.images.400x400.jpg",
+                "https://inew.foxeer.com//upload/s/goods/2023-03-31/18-00-49-6426af5117abf.images.400x400.jpg",
+                "https://inew.foxeer.com//upload/s/goods/2023-03-31/18-00-49-6426af512be8f.images.400x400.jpg",
+                "https://inew.foxeer.com//upload/s/goods/2023-03-31/18-00-49-6426af51231ab.images.400x400.jpg"
+            ]
+        },
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "name": "Foxeer 5.8G Reaper Extreme 1.8W 72CH VTx",
+        "link": "https://www.foxeer.com/foxeer-5-8g-reaper-extreme-1-8w-72ch-vtx-g-574",
+        "price": "$49.9",
+        "type": "TX",
+        "details": {
+            "Name": "Reaper Extreme 1.8W",
+            "Input Voltage": "9~36V",
+            "Output Voltage": "5V",
+            "Channels": "72CH",
+            "Power": "25mW/200mW/500mW/1W/1.8W, red light flash 1/2/3/4/5 times correspondingly",
+            "Pit": "Double click to enter",
+            "Weight": "13g",
+            "Mounting Hole": "20*20mm M2 2.8mm depth",
+            "Size": "36*27.5*8mm",
+            "Consumption": "850ma;10V/1.8W",
+            "Package Includes": "1 x VTx; 1 x silicon cable;",
+            "download_links": [
+                {
+                    "text": "Frequency Table",
+                    "link": "https://download.foxeer.com/FOXEER_Reaper_Extreme_1.8W_VTx_Frequency_Table.zip"
+                },
+                {
+                    "text": "Manual",
+                    "link": "https://download.foxeer.com/Foxeer_Reaper_Extreme_VTX_Manual_1.8W.pdf"
+                }
+            ],
+            "video_link": null,
+            "images": [
+                "https://inew.foxeer.com//upload/s/goods/2024-03-08/13-51-24-65eaa75c6a058.images.400x400.jpg",
+                "https://inew.foxeer.com//upload/s/goods/2024-03-08/13-51-38-65eaa76a90ccf.images.400x400.jpg",
+                "https://inew.foxeer.com//upload/s/goods/2024-03-08/13-51-37-65eaa7694417e.images.400x400.jpg",
+                "https://inew.foxeer.com//upload/s/goods/2024-03-08/13-51-37-65eaa7690eb09.images.400x400.jpg",
+                "https://inew.foxeer.com//upload/s/goods/2024-03-08/13-51-37-65eaa7690d3cd.images.400x400.jpg"
+            ]
+        },
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "name": "Foxeer Reaper Nano VTx Extension Board LED 20*20mm M3",
+        "link": "https://www.foxeer.com/foxeer-reaper-nano-vtx-extension-board-led-20-20mm-m3-g-404",
+        "price": "$3.99",
+        "type": "TX",
+        "details": {
+            "download_links": [],
+            "video_link": null,
+            "images": [
+                "https://inew.foxeer.com//upload/s/goods/2022-02-15/16-02-17-620b5e095e518.images.400x400.jpg",
+                "https://inew.foxeer.com//upload/s/goods/2022-02-15/16-02-36-620b5e1c378a1.images.400x400.jpg",
+                "https://inew.foxeer.com//upload/s/goods/2022-02-15/16-02-36-620b5e1c18c67.images.400x400.jpg",
+                "https://inew.foxeer.com//upload/s/goods/2022-02-15/16-02-35-620b5e1bf0803.images.400x400.jpg",
+                "https://inew.foxeer.com//upload/s/goods/2022-02-15/16-02-34-620b5e1ab3c08.images.400x400.jpg",
+                "https://inew.foxeer.com//upload/s/goods/2022-02-15/16-02-34-620b5e1aa5626.images.400x400.jpg",
+                "https://inew.foxeer.com//upload/s/goods/2022-02-15/16-02-34-620b5e1a844f6.images.400x400.jpg"
+            ]
+        },
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "name": "Foxeer Wildfire 5.8GHz 72CH Dual Receiver Support OSD Firmware Update for Fatshark FPV Goggles",
+        "link": "https://www.foxeer.com/foxeer-wildfire-5-8ghz-72ch-dual-receiver-support-osd-firmware-update-for-fatshark-fpv-goggles-g-274",
+        "price": "$89.9",
+        "type": "TX",
+        "details": {
+            "Compatibility": "Fit FatShark HD Series directly, 3D STL case file (download part) is provided for attitude series",
+            "Appearance": "OLED Screen",
+            "Menu": "Channel",
+            "Frequency": "72CH",
+            "RF Sensitivity": "-98dBm",
+            "Update": "Firmware Update Via USB",
+            "Consumption": "400mA±10%@5V",
+            "Input Voltage": "5~16V",
+            "Language": "ENGLISH",
+            "Working Humidity": "20~80%",
+            "Storage Temperature": "-20°~70°C",
+            "Weight": "30g",
+            "download_links": [
+                {
+                    "text": "Firmware",
+                    "link": "https://download.foxeer.com/Foxeer_WildFire_V1.15_Firmware_F80101_010F.zip"
+                },
+                {
+                    "text": "WildFire Manual",
+                    "link": "https://download.foxeer.com/WildFire_Goggle_Receiver_User_Manual_FU_F80101_010F.pdf"
+                },
+                {
+                    "text": "3D Case for FatShark Attitude Goggles",
+                    "link": "https://download.foxeer.com/Foxeer_WildFire_3D_Attitude_Case.zip"
+                },
+                {
+                    "text": "3D Case for ORQA Goggles",
+                    "link": "https://download.foxeer.com/Wildfire_Cover_Orqa.zip"
+                }
+            ],
+            "video_link": "https://www.youtube.com/embed/vSr47fSrukQ",
+            "images": [
+                "https://inew.foxeer.com//upload/s/goods/201912/1577771746964731889.images.400x400.jpg",
+                "https://inew.foxeer.com//upload/s/goods/201912/1577771746916451445.images.400x400.jpg"
+            ]
+        },
+        "tags": [
+            "Color: Red",
+            "Color: Black",
+            "Color: Fluorescent Green"
+        ]
+    },
+    {
+        "name": "Foxeer Reaper Nano 5.8G 40CH 350mW 1g Tramp VTx",
+        "link": "https://www.foxeer.com/foxeer-reaper-nano-5-8g-40ch-350mw-1g-tramp-vtx-g-364",
+        "price": "$24.9",
+        "type": "TX",
+        "details": {
+            "Name": "Reaper Nano",
+            "Input Voltage": "5V",
+            "Output Voltage": "5V",
+            "Channels": "40CH",
+            "Power": "25mW/100mW/200mW/350mW",
+            "Weight": "<1g",
+            "Size": "12*16mm",
+            "Consumption": "340mA @ 350mW",
+            "download_links": [
+                {
+                    "text": "Manual",
+                    "link": "https://download.foxeer.com/Foxeer_Reaper_Nano_VTX_Manual.pdf"
+                },
+                {
+                    "text": "Frequency Table",
+                    "link": "https://download.foxeer.com/Foxeer_Reaper_vtx_table_irc_tramp.zip"
+                }
+            ],
+            "video_link": "https://www.youtube.com/embed/0G6X_-UrL0o",
+            "images": [
+                "https://inew.foxeer.com//upload/s/goods/2021-08-11/13-56-48-611366a006f4f.images.400x400.jpg",
+                "https://inew.foxeer.com//upload/s/goods/2022-02-17/16-43-53-620e0ac986bff.images.400x400.jpg",
+                "https://inew.foxeer.com//upload/s/goods/2021-08-11/13-57-15-611366bb95735.images.400x400.jpg",
+                "https://inew.foxeer.com//upload/s/goods/2021-08-11/13-57-05-611366b189557.images.400x400.jpg",
+                "https://inew.foxeer.com//upload/s/goods/2021-08-11/13-57-04-611366b06aa3a.images.400x400.jpg",
+                "https://inew.foxeer.com//upload/s/goods/2021-08-11/13-57-04-611366b0490f4.images.400x400.jpg"
+            ]
+        },
+        "tags": [
+            ""
+        ]
+    }
+]

@@ -1,0 +1,2537 @@
+[{'name': <h3 class="product-name product_title">
+<a href="https://www.foxeer.com/foxeer-f405-v2-fc-reaper-55a-esc-8s-stack-video-switcher-servo-borameter-g-578">Foxeer F405 V2 FC Reaper 55A ESC 8S Stack Video Switcher Servo Borameter</a>
+</h3>, 'link': 'https://www.foxeer.com/foxeer-f405-v2-fc-reaper-55a-esc-8s-stack-video-switcher-servo-borameter-g-578', 'price': {'price': <div class="price price-detail">$32.9-$66.9 </div>, 'price_div': <div class="price price-detail">$32.9-$66.9 </div>}, 'type': 'Esc', 'details': {'details': {<td valign="center" width="189">
+<span>Model</span><span></span>
+</td>: <td valign="center" width="413">
+Foxeer F405 V2 Flight Controller
+</td>, <td valign="center">
+CPU
+</td>: <td valign="center">
+STM32F405RGT6
+</td>, <td valign="center">
+Gyro
+</td>: <td valign="center">
+ICM42688-P
+</td>, <td valign="center">
+Barometer
+</td>: <td valign="center">
+DPS310
+</td>, <td valign="center">
+Power Supply
+</td>: <td valign="center">
+4~8S Lipo
+</td>, <td valign="center">
+<span>BEC Output</span><span></span>
+</td>: <td valign="center">
+DC5V/3A; 10V/3A
+</td>, <td valign="center">
+<span>OSD</span><span></span>
+</td>: <td valign="center">
+BF OSD
+</td>, <td valign="center">
+Black Box
+</td>: <td valign="center">
+64M Flash Memory
+</td>, <td valign="center">
+UART
+</td>: <td valign="center">
+6 Set
+</td>, <td valign="center">
+Connector
+</td>: <td valign="center">
+DJI; GPS/Compass; 2 Camera Switch; VTX
+</td>, <td valign="center">
+ESC Telemetry
+</td>: <td valign="center">
+RX1
+</td>, <td valign="center">
+X8
+</td>: <td valign="center">
+Supported
+</td>, <td valign="center">
+ADC
+</td>: <td valign="center">
+X3
+</td>, <td valign="center">
+PWM
+</td>: <td valign="center">
+1CH
+</td>, <td valign="center">
+Buzzer
+</td>: <td valign="center">
+YES
+</td>, <td valign="center">
+Smart Audio
+</td>: <td valign="center">
+YES
+</td>, <td valign="center">
+LED
+</td>: <td valign="center">
+1 Set 2812 LED
+</td>, <td valign="center">
+USB
+</td>: <td valign="center">
+Type-C
+</td>, <td valign="center">
+Fireware
+</td>: <td valign="center">
+FOXEERF405V2(BetaFlight); F405V2(Ardupilot)
+</td>, <td valign="center">
+Size
+</td>: <td valign="center">
+37X37mm
+</td>, <td valign="center">
+Mounting Hole
+</td>: <td valign="center">
+30.5*30.5mm,Φ4mm
+</td>, <td valign="center">
+Weight(g)
+</td>: <td valign="center">
+8.4g
+</td>, <td valign="center">
+Working Temperature
+</td>: <td valign="center">
+-20℃ ~ +55℃
+</td>, <td valign="center">
+Working Humidity
+</td>: <td valign="center">
+20～95%
+</td>, <td valign="center">
+Storage Temperature
+</td>: <td valign="center">
+-20℃ ~ +70℃
+</td>, 'download_links': [], 'video_link': None}, 'details_table': <table class="table table-bordered" width="614">
+<tbody>
+<tr>
+<td valign="center" width="189">
+<span>Model</span><span></span>
+</td>
+<td valign="center" width="413">
+Foxeer F405 V2 Flight Controller
+</td>
+</tr>
+<tr>
+<td valign="center">
+CPU
+</td>
+<td valign="center">
+STM32F405RGT6
+</td>
+</tr>
+<tr>
+<td valign="center">
+Gyro
+</td>
+<td valign="center">
+ICM42688-P
+</td>
+</tr>
+<tr>
+<td valign="center">
+Barometer
+</td>
+<td valign="center">
+DPS310
+</td>
+</tr>
+<tr>
+<td valign="center">
+Power Supply
+</td>
+<td valign="center">
+4~8S Lipo
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>BEC Output</span><span></span>
+</td>
+<td valign="center">
+DC5V/3A; 10V/3A
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>OSD</span><span></span>
+</td>
+<td valign="center">
+BF OSD
+</td>
+</tr>
+<tr>
+<td valign="center">
+Black Box
+</td>
+<td valign="center">
+64M Flash Memory
+</td>
+</tr>
+<tr>
+<td valign="center">
+UART
+</td>
+<td valign="center">
+6 Set
+</td>
+</tr>
+<tr>
+<td valign="center">
+Connector
+</td>
+<td valign="center">
+DJI; GPS/Compass; 2 Camera Switch; VTX
+</td>
+</tr>
+<tr>
+<td valign="center">
+ESC Telemetry
+</td>
+<td valign="center">
+RX1
+</td>
+</tr>
+<tr>
+<td valign="center">
+X8
+</td>
+<td valign="center">
+Supported
+</td>
+</tr>
+<tr>
+<td valign="center">
+ADC
+</td>
+<td valign="center">
+X3
+</td>
+</tr>
+<tr>
+<td valign="center">
+PWM
+</td>
+<td valign="center">
+1CH
+</td>
+</tr>
+<tr>
+<td valign="center">
+Buzzer
+</td>
+<td valign="center">
+YES
+</td>
+</tr>
+<tr>
+<td valign="center">
+Smart Audio
+</td>
+<td valign="center">
+YES
+</td>
+</tr>
+<tr>
+<td valign="center">
+LED
+</td>
+<td valign="center">
+1 Set 2812 LED
+</td>
+</tr>
+<tr>
+<td valign="center">
+USB
+</td>
+<td valign="center">
+Type-C
+</td>
+</tr>
+<tr>
+<td valign="center">
+Fireware
+</td>
+<td valign="center">
+FOXEERF405V2(BetaFlight); F405V2(Ardupilot)
+</td>
+</tr>
+<tr>
+<td valign="center">
+Size
+</td>
+<td valign="center">
+37X37mm
+</td>
+</tr>
+<tr>
+<td valign="center">
+Mounting Hole
+</td>
+<td valign="center">
+30.5*30.5mm,Φ4mm
+</td>
+</tr>
+<tr>
+<td valign="center">
+Weight(g)
+</td>
+<td valign="center">
+8.4g
+</td>
+</tr>
+<tr>
+<td valign="center">
+Working Temperature
+</td>
+<td valign="center">
+-20℃ ~ +55℃
+</td>
+</tr>
+<tr>
+<td valign="center">
+Working Humidity
+</td>
+<td valign="center">
+20～95%
+</td>
+</tr>
+<tr>
+<td valign="center">
+Storage Temperature
+</td>
+<td valign="center">
+-20℃ ~ +70℃
+</td>
+</tr>
+<tr>
+</tr>
+</tbody>
+</table>, 'images': {'images': ['https://inew.foxeer.com//upload/s/goods/2024-03-29/13-59-11-660658afb2316.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2024-03-29/13-59-24-660658bcc3f3e.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2024-03-29/13-59-24-660658bc9371d.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2024-03-29/13-59-24-660658bc65ed5.images.400x400.jpg'], 'image_block': <div class="product-img">
+<a class="jqzoom fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2024-03-29/13-59-11-660658afb2316.images.800x800.jpg" rel="gal1"><span big="https://inew.foxeer.com//upload/s/goods/2024-03-29/13-59-11-660658afb2316.images.800x800.jpg" class="zoom"><img id="zoomimg" src="https://inew.foxeer.com//upload/s/goods/2024-03-29/13-59-11-660658afb2316.images.400x400.jpg" width="600"/></span> </a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2024-03-29/13-59-24-660658bcc3f3e.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2024-03-29/13-59-24-660658bcc3f3e.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2024-03-29/13-59-24-660658bcc3f3e.images.400x400.jpg" width="600"/></span></a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2024-03-29/13-59-24-660658bc9371d.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2024-03-29/13-59-24-660658bc9371d.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2024-03-29/13-59-24-660658bc9371d.images.400x400.jpg" width="600"/></span></a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2024-03-29/13-59-24-660658bc65ed5.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2024-03-29/13-59-24-660658bc65ed5.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2024-03-29/13-59-24-660658bc65ed5.images.400x400.jpg" width="600"/></span></a>
+</div>}}, 'tags': {'tag_combinations': ['Version: Kit', 'Version: FC', 'Version: ESC'], 'spec_info': <div id="spec_info">
+<div class="spec_goods_price_div standard clearfix">
+<ul>
+<li class="jaj"><span>Version: </span></li>
+<li class="lawir colo">
+<input hidden="" id="goods_spec_339" name="goods_spec[55]" type="radio" value="339">
+<a data-item_id="339" enable="1" id="goods_spec_a_339" onclick=" select_filter(this);">Kit</a>
+<input hidden="" id="goods_spec_381" name="goods_spec[55]" type="radio" value="381">
+<a data-item_id="381" enable="1" id="goods_spec_a_381" onclick=" select_filter(this);">FC</a>
+<input hidden="" id="goods_spec_382" name="goods_spec[55]" type="radio" value="382"/>
+<a data-item_id="382" enable="1" id="goods_spec_a_382" onclick=" select_filter(this);">ESC</a>
+</input></input></li>
+</ul>
+</div>
+</div>}}, {'name': <h3 class="product-name product_title">
+<a href="https://www.foxeer.com/foxeer-reaper-v2-82a-f4-128k-bl32-4in1-4-8s-esc-g-575">Foxeer Reaper V2 82A F4 128K BL32 4in1 4-8S ESC</a>
+</h3>, 'link': 'https://www.foxeer.com/foxeer-reaper-v2-82a-f4-128k-bl32-4in1-4-8s-esc-g-575', 'price': {'price': <div class="price price-detail">$249.9 </div>, 'price_div': <div class="price price-detail">$249.9 </div>}, 'type': 'Esc', 'details': {'details': {<td valign="center" width="189">
+<span>Firmware</span><span></span>
+</td>: <td valign="center" width="413">
+FOXEER_Reaper_F4_80A_128_Multi_32_9
+</td>, <td valign="center">
+Continuous /Burst Current
+</td>: <td valign="center">
+82A/ 145A
+</td>, <td valign="center">
+Peak Power Rating (kW)
+</td>: <td valign="center">
+4
+</td>, <td valign="center">
+Continuous Rating Duration (s)
+</td>: <td valign="center">
+65
+</td>, <td valign="center">
+Burst Rating Time (s)
+</td>: <td valign="center">
+6
+</td>, <td valign="center">
+Input Voltage
+</td>: <td valign="center">
+4-8S Lipo
+</td>, <td valign="center">
+<span>BEC</span><span></span>
+</td>: <td valign="center">
+No
+</td>, <td valign="center">
+<span>Temperature</span><span></span>
+</td>: <td valign="center">
+No
+</td>, <td valign="center">
+<span>Telemetry</span><span></span>
+</td>: <td valign="center">
+Supported
+</td>, <td valign="center">
+<span>Current Scaling</span><span></span>
+</td>: <td valign="center">
+70
+</td>, <td valign="center">
+<span>ESC Programming</span><span></span>
+</td>: <td valign="center">
+BLHeli32
+</td>, <td valign="center">
+<span>Input Signal</span><span></span>
+</td>: <td valign="center">
+DShot 150/ 300/ 600/ 1200 /MultiShot/ OneShot etc.
+</td>, <td valign="center">
+Working Temperature
+</td>: <td valign="center">
+-20℃ ~ +65℃
+</td>, <td valign="center">
+Working Humidity
+</td>: <td valign="center">
+20～95%
+</td>, <td valign="center">
+Storage Temperature
+</td>: <td valign="center">
+-20℃ ~ +70℃
+</td>, <td valign="center">
+<span>Mounting Hole</span><span></span>
+</td>: <td valign="center">
+30.5*30.5mm M3
+</td>, <td valign="center">
+Dimension
+</td>: <td valign="center">
+54x57mm
+</td>, <td valign="center">
+Weight
+</td>: <td valign="center">
+28g
+</td>, 'download_links': [], 'video_link': None}, 'details_table': <table class="table table-bordered" width="614">
+<tbody>
+<tr>
+<td valign="center" width="189">
+<span>Firmware</span><span></span>
+</td>
+<td valign="center" width="413">
+FOXEER_Reaper_F4_80A_128_Multi_32_9
+</td>
+</tr>
+<tr>
+<td valign="center">
+Continuous /Burst Current
+</td>
+<td valign="center">
+82A/ 145A
+</td>
+</tr>
+<tr>
+<td valign="center">
+Peak Power Rating (kW)
+</td>
+<td valign="center">
+4
+</td>
+</tr>
+<tr>
+<td valign="center">
+Continuous Rating Duration (s)
+</td>
+<td valign="center">
+65
+</td>
+</tr>
+<tr>
+<td valign="center">
+Burst Rating Time (s)
+</td>
+<td valign="center">
+6
+</td>
+</tr>
+<tr>
+<td valign="center">
+Input Voltage
+</td>
+<td valign="center">
+4-8S Lipo
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>BEC</span><span></span>
+</td>
+<td valign="center">
+No
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>Temperature</span><span></span>
+</td>
+<td valign="center">
+No
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>Telemetry</span><span></span>
+</td>
+<td valign="center">
+Supported
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>Current Scaling</span><span></span>
+</td>
+<td valign="center">
+70
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>ESC Programming</span><span></span>
+</td>
+<td valign="center">
+BLHeli32
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>Input Signal</span><span></span>
+</td>
+<td valign="center">
+DShot 150/ 300/ 600/ 1200 /MultiShot/ OneShot etc.
+</td>
+</tr>
+<tr>
+<td valign="center">
+Working Temperature
+</td>
+<td valign="center">
+-20℃ ~ +65℃
+</td>
+</tr>
+<tr>
+<td valign="center">
+Working Humidity
+</td>
+<td valign="center">
+20～95%
+</td>
+</tr>
+<tr>
+<td valign="center">
+Storage Temperature
+</td>
+<td valign="center">
+-20℃ ~ +70℃
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>Mounting Hole</span><span></span>
+</td>
+<td valign="center">
+30.5*30.5mm M3
+</td>
+</tr>
+<tr>
+<td valign="center">
+Dimension
+</td>
+<td valign="center">
+54x57mm
+</td>
+</tr>
+<tr>
+<td valign="center">
+Weight
+</td>
+<td valign="center">
+28g
+</td>
+</tr>
+</tbody>
+</table>, 'images': {'images': ['https://inew.foxeer.com//upload/s/goods/2024-03-12/10-38-59-65efc043bcb9d.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2024-03-12/10-39-09-65efc04d728ec.images.400x400.jpg'], 'image_block': <div class="product-img">
+<a class="jqzoom fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2024-03-12/10-38-59-65efc043bcb9d.images.800x800.jpg" rel="gal1"><span big="https://inew.foxeer.com//upload/s/goods/2024-03-12/10-38-59-65efc043bcb9d.images.800x800.jpg" class="zoom"><img id="zoomimg" src="https://inew.foxeer.com//upload/s/goods/2024-03-12/10-38-59-65efc043bcb9d.images.400x400.jpg" width="600"/></span> </a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2024-03-12/10-39-09-65efc04d728ec.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2024-03-12/10-39-09-65efc04d728ec.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2024-03-12/10-39-09-65efc04d728ec.images.400x400.jpg" width="600"/></span></a>
+</div>}}, 'tags': {'tag_combinations': [''], 'spec_info': <div id="spec_info">
+</div>}}, {'name': <h3 class="product-name product_title">
+<a href="https://www.foxeer.com/foxeer-pdb400-8s-400a-pdb-g-556">Foxeer PDB400 8S 400A PDB</a>
+</h3>, 'link': 'https://www.foxeer.com/foxeer-pdb400-8s-400a-pdb-g-556', 'price': {'price': <div class="price price-detail">$39.9 </div>, 'price_div': <div class="price price-detail">$39.9 </div>}, 'type': 'Esc', 'details': {'details': {'download_links': [], 'video_link': None}, 'details_table': None, 'images': {'images': ['https://inew.foxeer.com//upload/s/goods/2023-09-25/14-10-33-6511245965197.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2023-09-25/14-12-46-651124dec818d.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2023-09-25/14-10-42-65112462a586b.images.400x400.jpg'], 'image_block': <div class="product-img">
+<a class="jqzoom fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2023-09-25/14-10-33-6511245965197.images.800x800.jpg" rel="gal1"><span big="https://inew.foxeer.com//upload/s/goods/2023-09-25/14-10-33-6511245965197.images.800x800.jpg" class="zoom"><img id="zoomimg" src="https://inew.foxeer.com//upload/s/goods/2023-09-25/14-10-33-6511245965197.images.400x400.jpg" width="600"/></span> </a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2023-09-25/14-12-46-651124dec818d.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2023-09-25/14-12-46-651124dec818d.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2023-09-25/14-12-46-651124dec818d.images.400x400.jpg" width="600"/></span></a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2023-09-25/14-10-42-65112462a586b.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2023-09-25/14-10-42-65112462a586b.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2023-09-25/14-10-42-65112462a586b.images.400x400.jpg" width="600"/></span></a>
+</div>}}, 'tags': {'tag_combinations': [''], 'spec_info': <div id="spec_info">
+</div>}}, {'name': <h3 class="product-name product_title">
+<a href="https://www.foxeer.com/foxeer-reaper-80a-f4-128k-bl32-4-8s-single-esc-g-530">Foxeer Reaper 80A F4 128K BL32 4-8S Single ESC</a>
+</h3>, 'link': 'https://www.foxeer.com/foxeer-reaper-80a-f4-128k-bl32-4-8s-single-esc-g-530', 'price': {'price': <div class="price price-detail">$59.9 </div>, 'price_div': <div class="price price-detail">$59.9 </div>}, 'type': 'Esc', 'details': {'details': {<td valign="center" width="189">
+<span>Firmware</span><span></span>
+</td>: <td valign="center" width="413">
+FOXEER_Reaper_F4_80A_128_Multi_32_9
+</td>, <td valign="center">
+Continuous /Burst Current
+</td>: <td valign="center">
+80A/ 145A
+</td>, <td valign="center">
+Peak Power Rating (kW)
+</td>: <td valign="center">
+4
+</td>, <td valign="center">
+Continuous Rating Duration (s)
+</td>: <td valign="center">
+65
+</td>, <td valign="center">
+Burst Rating Time (s)
+</td>: <td valign="center">
+6
+</td>, <td valign="center">
+Input Voltage
+</td>: <td valign="center">
+DC 14V~36V (4-8S Lipo)
+</td>, <td valign="center">
+<span>BEC</span><span></span>
+</td>: <td valign="center">
+No
+</td>, <td valign="center">
+<span>Current</span><span></span>
+</td>: <td valign="center">
+No
+</td>, <td valign="center">
+<span>Telemetry</span><span></span>
+</td>: <td valign="center">
+Supported
+</td>, <td valign="center">
+<span>ESC Programming</span><span></span>
+</td>: <td valign="center">
+BLHeli32
+</td>, <td valign="center">
+<span>Input Signal</span><span></span>
+</td>: <td valign="center">
+DShot 150/ 300/ 600/ 1200 /MultiShot/ OneShot etc.
+</td>, <td valign="center">
+Working Temperature
+</td>: <td valign="center">
+-20℃ ~ +65℃
+</td>, <td valign="center">
+Working Humidity
+</td>: <td valign="center">
+20～95%
+</td>, <td valign="center">
+Storage Temperature
+</td>: <td valign="center">
+-20℃ ~ +70℃
+</td>, <td valign="center">
+Dimension
+</td>: <td valign="center">
+48x22x5.5mm
+</td>, <td valign="center">
+Weight
+</td>: <td valign="center">
+11g
+</td>, 'download_links': [], 'video_link': None}, 'details_table': <table class="table table-bordered" width="614">
+<tbody>
+<tr>
+<td valign="center" width="189">
+<span>Firmware</span><span></span>
+</td>
+<td valign="center" width="413">
+FOXEER_Reaper_F4_80A_128_Multi_32_9
+</td>
+</tr>
+<tr>
+<td valign="center">
+Continuous /Burst Current
+</td>
+<td valign="center">
+80A/ 145A
+</td>
+</tr>
+<tr>
+<td valign="center">
+Peak Power Rating (kW)
+</td>
+<td valign="center">
+4
+</td>
+</tr>
+<tr>
+<td valign="center">
+Continuous Rating Duration (s)
+</td>
+<td valign="center">
+65
+</td>
+</tr>
+<tr>
+<td valign="center">
+Burst Rating Time (s)
+</td>
+<td valign="center">
+6
+</td>
+</tr>
+<tr>
+<td valign="center">
+Input Voltage
+</td>
+<td valign="center">
+DC 14V~36V (4-8S Lipo)
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>BEC</span><span></span>
+</td>
+<td valign="center">
+No
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>Current</span><span></span>
+</td>
+<td valign="center">
+No
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>Telemetry</span><span></span>
+</td>
+<td valign="center">
+Supported
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>ESC Programming</span><span></span>
+</td>
+<td valign="center">
+BLHeli32
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>Input Signal</span><span></span>
+</td>
+<td valign="center">
+DShot 150/ 300/ 600/ 1200 /MultiShot/ OneShot etc.
+</td>
+</tr>
+<tr>
+<td valign="center">
+Working Temperature
+</td>
+<td valign="center">
+-20℃ ~ +65℃
+</td>
+</tr>
+<tr>
+<td valign="center">
+Working Humidity
+</td>
+<td valign="center">
+20～95%
+</td>
+</tr>
+<tr>
+<td valign="center">
+Storage Temperature
+</td>
+<td valign="center">
+-20℃ ~ +70℃
+</td>
+</tr>
+<tr>
+<td valign="center">
+Dimension
+</td>
+<td valign="center">
+48x22x5.5mm
+</td>
+</tr>
+<tr>
+<td valign="center">
+Weight
+</td>
+<td valign="center">
+11g
+</td>
+</tr>
+</tbody>
+</table>, 'images': {'images': ['https://inew.foxeer.com//upload/s/goods/2023-06-27/17-00-31-649aa52f60442.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2023-06-27/17-00-47-649aa53f20008.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2023-06-27/17-00-47-649aa53f2024f.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2023-06-27/17-00-47-649aa53f03c16.images.400x400.jpg'], 'image_block': <div class="product-img">
+<a class="jqzoom fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2023-06-27/17-00-31-649aa52f60442.images.800x800.jpg" rel="gal1"><span big="https://inew.foxeer.com//upload/s/goods/2023-06-27/17-00-31-649aa52f60442.images.800x800.jpg" class="zoom"><img id="zoomimg" src="https://inew.foxeer.com//upload/s/goods/2023-06-27/17-00-31-649aa52f60442.images.400x400.jpg" width="600"/></span> </a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2023-06-27/17-00-47-649aa53f20008.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2023-06-27/17-00-47-649aa53f20008.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2023-06-27/17-00-47-649aa53f20008.images.400x400.jpg" width="600"/></span></a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2023-06-27/17-00-47-649aa53f2024f.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2023-06-27/17-00-47-649aa53f2024f.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2023-06-27/17-00-47-649aa53f2024f.images.400x400.jpg" width="600"/></span></a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2023-06-27/17-00-47-649aa53f03c16.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2023-06-27/17-00-47-649aa53f03c16.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2023-06-27/17-00-47-649aa53f03c16.images.400x400.jpg" width="600"/></span></a>
+</div>}}, 'tags': {'tag_combinations': [''], 'spec_info': <div id="spec_info">
+</div>}}, {'name': <h3 class="product-name product_title">
+<a href="https://www.foxeer.com/foxeer-reaper-aio-v4-f745-mpu6000-35a-bluejay-bls-2-4s-g-542">Foxeer Reaper AIO V4 F745 MPU6000 35A Bluejay BLS 2-4S</a>
+</h3>, 'link': 'https://www.foxeer.com/foxeer-reaper-aio-v4-f745-mpu6000-35a-bluejay-bls-2-4s-g-542', 'price': {'price': <div class="price price-detail">$99.9 </div>, 'price_div': <div class="price price-detail">$99.9 </div>}, 'type': 'Esc', 'details': {'details': {<td valign="center" width="189">
+<span>Model</span><span></span>
+</td>: <td valign="center" width="413">
+FOXEER Reaper AIO V4
+</td>, <td valign="center">
+CPU
+</td>: <td valign="center">
+STM32F745
+</td>, <td valign="center">
+Power Supply
+</td>: <td valign="center">
+2~4S Lipo
+</td>, <td valign="center">
+<span>BEC Output</span><span></span>
+</td>: <td valign="center">
+DC5V/2A
+</td>, <td valign="center">
+<span>OSD</span><span></span>
+</td>: <td valign="center">
+BF OSD
+</td>, <td valign="center">
+Black Box
+</td>: <td valign="center">
+16M Flash Memory
+</td>, <td valign="center">
+UART
+</td>: <td valign="center">
+5 Set
+</td>, <td valign="center">
+USB
+</td>: <td valign="center">
+Micro USB
+</td>, <td valign="center">
+Fireware
+</td>: <td valign="center">
+BF:FOXEERF745V4_AIO
+</td>, <td valign="center">
+DJI Connector
+</td>: <td valign="center">
+Supported, 8pin
+</td>, <td valign="center">
+Size
+</td>: <td valign="center">
+32.5X32.5mm
+</td>, <td valign="center">
+Mounting Hole
+</td>: <td valign="center">
+25.5X25.5mm,Φ3mm/M2
+</td>, <td valign="center">
+Weight(g)
+</td>: <td valign="center">
+8.6g
+</td>, <td valign="center">
+Working Temperature
+</td>: <td valign="center">
+-20℃ ~ +55℃
+</td>, <td valign="center">
+Working Humidity
+</td>: <td valign="center">
+20～95%
+</td>, <td valign="center">
+Storage Temperature
+</td>: <td valign="center">
+-20℃ ~ +70℃
+</td>, <td valign="center">
+Package Includes
+</td>: <td valign="center">
+1*AIO, Rubbers Columns, XT30 Cable, DJI Cable, Capacity
+</td>, 'download_links': [{'text': <a href="https://download.foxeer.com/Foxeer_AIOV3_Add_LED.txt" target="_blank">
+LED Setup
+</a>, 'link': 'https://download.foxeer.com/Foxeer_AIOV3_Add_LED.txt'}], 'video_link': None}, 'details_table': <table class="table table-bordered" width="614">
+<tbody>
+<tr>
+<td valign="center" width="189">
+<span>Model</span><span></span>
+</td>
+<td valign="center" width="413">
+FOXEER Reaper AIO V4
+</td>
+</tr>
+<tr>
+<td valign="center">
+CPU
+</td>
+<td valign="center">
+STM32F745
+</td>
+</tr>
+<tr>
+<td valign="center">
+Power Supply
+</td>
+<td valign="center">
+2~4S Lipo
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>BEC Output</span><span></span>
+</td>
+<td valign="center">
+DC5V/2A
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>OSD</span><span></span>
+</td>
+<td valign="center">
+BF OSD
+</td>
+</tr>
+<tr>
+<td valign="center">
+Black Box
+</td>
+<td valign="center">
+16M Flash Memory
+</td>
+</tr>
+<tr>
+<td valign="center">
+UART
+</td>
+<td valign="center">
+5 Set
+</td>
+</tr>
+<tr>
+<td valign="center">
+USB
+</td>
+<td valign="center">
+Micro USB
+</td>
+</tr>
+<tr>
+<td valign="center">
+Fireware
+</td>
+<td valign="center">
+BF:FOXEERF745V4_AIO
+</td>
+</tr>
+<tr>
+<td valign="center">
+DJI Connector
+</td>
+<td valign="center">
+Supported, 8pin
+</td>
+</tr>
+<tr>
+<td valign="center">
+Size
+</td>
+<td valign="center">
+32.5X32.5mm
+</td>
+</tr>
+<tr>
+<td valign="center">
+Mounting Hole
+</td>
+<td valign="center">
+25.5X25.5mm,Φ3mm/M2
+</td>
+</tr>
+<tr>
+<td valign="center">
+Weight(g)
+</td>
+<td valign="center">
+8.6g
+</td>
+</tr>
+<tr>
+<td valign="center">
+Working Temperature
+</td>
+<td valign="center">
+-20℃ ~ +55℃
+</td>
+</tr>
+<tr>
+<td valign="center">
+Working Humidity
+</td>
+<td valign="center">
+20～95%
+</td>
+</tr>
+<tr>
+<td valign="center">
+Storage Temperature
+</td>
+<td valign="center">
+-20℃ ~ +70℃
+</td>
+</tr>
+<tr>
+<td valign="center">
+Package Includes
+</td>
+<td valign="center">
+1*AIO, Rubbers Columns, XT30 Cable, DJI Cable, Capacity
+</td>
+</tr>
+<tr>
+</tr>
+</tbody>
+</table>, 'images': {'images': ['https://inew.foxeer.com//upload/s/goods/2023-08-04/17-22-23-64ccc34f321b4.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2023-08-04/17-22-40-64ccc3606d6cf.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2023-08-04/17-22-40-64ccc3603cd64.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2023-08-04/17-22-40-64ccc36020430.images.400x400.jpg'], 'image_block': <div class="product-img">
+<a class="jqzoom fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2023-08-04/17-22-23-64ccc34f321b4.images.800x800.jpg" rel="gal1"><span big="https://inew.foxeer.com//upload/s/goods/2023-08-04/17-22-23-64ccc34f321b4.images.800x800.jpg" class="zoom"><img id="zoomimg" src="https://inew.foxeer.com//upload/s/goods/2023-08-04/17-22-23-64ccc34f321b4.images.400x400.jpg" width="600"/></span> </a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2023-08-04/17-22-40-64ccc3606d6cf.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2023-08-04/17-22-40-64ccc3606d6cf.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2023-08-04/17-22-40-64ccc3606d6cf.images.400x400.jpg" width="600"/></span></a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2023-08-04/17-22-40-64ccc3603cd64.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2023-08-04/17-22-40-64ccc3603cd64.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2023-08-04/17-22-40-64ccc3603cd64.images.400x400.jpg" width="600"/></span></a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2023-08-04/17-22-40-64ccc36020430.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2023-08-04/17-22-40-64ccc36020430.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2023-08-04/17-22-40-64ccc36020430.images.400x400.jpg" width="600"/></span></a>
+</div>}}, 'tags': {'tag_combinations': [''], 'spec_info': <div id="spec_info">
+</div>}}, {'name': <h3 class="product-name product_title">
+<a href="https://www.foxeer.com/foxeer-reaper-f4-slim-mini-esc-128k-60a-bl32-4in1-9-40v-20mm-m3-g-443">Foxeer Reaper F4 Slim Mini ESC 128K 60A BL32 4in1 9~40V 20mm M3</a>
+</h3>, 'link': 'https://www.foxeer.com/foxeer-reaper-f4-slim-mini-esc-128k-60a-bl32-4in1-9-40v-20mm-m3-g-443', 'price': {'price': <div class="price price-detail">$79.9 </div>, 'price_div': <div class="price price-detail">$79.9 </div>}, 'type': 'Esc', 'details': {'details': {<td valign="center" width="189">
+<span>Firmware</span><span></span>
+</td>: <td valign="center" width="413">
+FOXEER_ReaperM4IN1_F4_60A_128_Multi_32_9
+</td>, <td valign="center">
+Continuous /Burst Current
+</td>: <td valign="center">
+60A*4 / 100A*4
+</td>, <td valign="center">
+Input Voltage
+</td>: <td valign="center">
+DC 9V~40V (3-8S Lipo)
+</td>, <td valign="center">
+<span>BEC</span><span></span>
+</td>: <td valign="center">
+No
+</td>, <td valign="center">
+<span>Telemetry</span><span></span>
+</td>: <td valign="center">
+Supported
+</td>, <td valign="center">
+<span>ESC Programming</span><span></span>
+</td>: <td valign="center">
+BLHeli32
+</td>, <td valign="center">
+<span>Current Scaling</span><span></span>
+</td>: <td valign="center">
+70
+</td>, <td valign="center">
+<span>Input Signal</span><span></span>
+</td>: <td valign="center">
+DShot 150/ 300/ 600/ 1200 /MultiShot/ OneShot etc.
+</td>, <td valign="center">
+Working Temperature
+</td>: <td valign="center">
+-20℃ ~ +55℃
+</td>, <td valign="center">
+Working Humidity
+</td>: <td valign="center">
+20～95%
+</td>, <td valign="center">
+Storage Temperature
+</td>: <td valign="center">
+-20℃ ~ +70℃
+</td>, <td valign="center">
+Mounting Hole
+</td>: <td valign="center">
+20×20mm, Φ4mm/ M3
+</td>, <td valign="center">
+Dimension
+</td>: <td valign="center">
+36*41mm
+</td>, <td valign="center">
+Weight
+</td>: <td valign="center">
+13g
+</td>, 'download_links': [], 'video_link': None}, 'details_table': <table class="table table-bordered" width="614">
+<tbody>
+<tr>
+<td valign="center" width="189">
+<span>Firmware</span><span></span>
+</td>
+<td valign="center" width="413">
+FOXEER_ReaperM4IN1_F4_60A_128_Multi_32_9
+</td>
+</tr>
+<tr>
+<td valign="center">
+Continuous /Burst Current
+</td>
+<td valign="center">
+60A*4 / 100A*4
+</td>
+</tr>
+<tr>
+<td valign="center">
+Input Voltage
+</td>
+<td valign="center">
+DC 9V~40V (3-8S Lipo)
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>BEC</span><span></span>
+</td>
+<td valign="center">
+No
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>Telemetry</span><span></span>
+</td>
+<td valign="center">
+Supported
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>ESC Programming</span><span></span>
+</td>
+<td valign="center">
+BLHeli32
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>Current Scaling</span><span></span>
+</td>
+<td valign="center">
+70
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>Input Signal</span><span></span>
+</td>
+<td valign="center">
+DShot 150/ 300/ 600/ 1200 /MultiShot/ OneShot etc.
+</td>
+</tr>
+<tr>
+<td valign="center">
+Working Temperature
+</td>
+<td valign="center">
+-20℃ ~ +55℃
+</td>
+</tr>
+<tr>
+<td valign="center">
+Working Humidity
+</td>
+<td valign="center">
+20～95%
+</td>
+</tr>
+<tr>
+<td valign="center">
+Storage Temperature
+</td>
+<td valign="center">
+-20℃ ~ +70℃
+</td>
+</tr>
+<tr>
+<td valign="center">
+Mounting Hole
+</td>
+<td valign="center">
+20×20mm, Φ4mm/ M3
+</td>
+</tr>
+<tr>
+<td valign="center">
+Dimension
+</td>
+<td valign="center">
+36*41mm
+</td>
+</tr>
+<tr>
+<td valign="center">
+Weight
+</td>
+<td valign="center">
+13g
+</td>
+</tr>
+</tbody>
+</table>, 'images': {'images': ['https://inew.foxeer.com//upload/s/goods/2022-07-21/16-04-21-62d9088516e02.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2022-07-21/16-04-36-62d908945b73d.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2022-07-21/16-04-35-62d9089327844.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2022-07-21/16-04-35-62d9089334f98.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2022-07-21/16-04-35-62d9089310436.images.400x400.jpg'], 'image_block': <div class="product-img">
+<a class="jqzoom fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2022-07-21/16-04-21-62d9088516e02.images.800x800.jpg" rel="gal1"><span big="https://inew.foxeer.com//upload/s/goods/2022-07-21/16-04-21-62d9088516e02.images.800x800.jpg" class="zoom"><img id="zoomimg" src="https://inew.foxeer.com//upload/s/goods/2022-07-21/16-04-21-62d9088516e02.images.400x400.jpg" width="600"/></span> </a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2022-07-21/16-04-36-62d908945b73d.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2022-07-21/16-04-36-62d908945b73d.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2022-07-21/16-04-36-62d908945b73d.images.400x400.jpg" width="600"/></span></a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2022-07-21/16-04-35-62d9089327844.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2022-07-21/16-04-35-62d9089327844.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2022-07-21/16-04-35-62d9089327844.images.400x400.jpg" width="600"/></span></a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2022-07-21/16-04-35-62d9089334f98.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2022-07-21/16-04-35-62d9089334f98.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2022-07-21/16-04-35-62d9089334f98.images.400x400.jpg" width="600"/></span></a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2022-07-21/16-04-35-62d9089310436.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2022-07-21/16-04-35-62d9089310436.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2022-07-21/16-04-35-62d9089310436.images.400x400.jpg" width="600"/></span></a>
+</div>}}, 'tags': {'tag_combinations': [''], 'spec_info': <div id="spec_info">
+</div>}}, {'name': <h3 class="product-name product_title">
+<a href="https://www.foxeer.com/foxeer-reaper-f4-128k-65a-bl32-4in1-9-40v-esc-30-5-30-5mm-m3-g-420">Foxeer Reaper F4 128K 65A BL32 4in1 9~40V ESC 30.5*30.5mm M3</a>
+</h3>, 'link': 'https://www.foxeer.com/foxeer-reaper-f4-128k-65a-bl32-4in1-9-40v-esc-30-5-30-5mm-m3-g-420', 'price': {'price': <div class="price price-detail">$84.9 </div>, 'price_div': <div class="price price-detail">$84.9 </div>}, 'type': 'Esc', 'details': {'details': {<td valign="center" width="189">
+<span>Firmware</span><span></span>
+</td>: <td valign="center" width="413">
+FOXEER_Reaper4IN1_F4_65A_128_Multi_32_9
+</td>, <td valign="center">
+Continuous /Burst Current
+</td>: <td valign="center">
+65A*4 / 100A*4
+</td>, <td valign="center">
+Input Voltage
+</td>: <td valign="center">
+DC 9V~40V (3-8S Lipo)
+</td>, <td valign="center">
+<span>BEC</span><span></span>
+</td>: <td valign="center">
+No
+</td>, <td valign="center">
+<span>Telemetry</span><span></span>
+</td>: <td valign="center">
+Supported
+</td>, <td valign="center">
+<span>ESC Programming</span><span></span>
+</td>: <td valign="center">
+BLHeli32
+</td>, <td valign="center">
+<span>Current Scaling</span><span></span>
+</td>: <td valign="center">
+70
+</td>, <td valign="center">
+<span>Input Signal</span><span></span>
+</td>: <td valign="center">
+DShot 150/ 300/ 600/ 1200 /MultiShot/ OneShot etc.
+</td>, <td valign="center">
+Working Temperature
+</td>: <td valign="center">
+-20℃ ~ +55℃
+</td>, <td valign="center">
+Working Humidity
+</td>: <td valign="center">
+20～95%
+</td>, <td valign="center">
+Storage Temperature
+</td>: <td valign="center">
+-20℃ ~ +70℃
+</td>, <td valign="center">
+Mounting Hole
+</td>: <td valign="center">
+30.5X30.5mm,Φ4mm/M3
+</td>, <td valign="center">
+Dimension
+</td>: <td valign="center">
+42.5x42x5.5mm
+</td>, <td valign="center">
+Weight
+</td>: <td valign="center">
+14.8g
+</td>, 'download_links': [], 'video_link': None}, 'details_table': <table class="table table-bordered" width="614">
+<tbody>
+<tr>
+<td valign="center" width="189">
+<span>Firmware</span><span></span>
+</td>
+<td valign="center" width="413">
+FOXEER_Reaper4IN1_F4_65A_128_Multi_32_9
+</td>
+</tr>
+<tr>
+<td valign="center">
+Continuous /Burst Current
+</td>
+<td valign="center">
+65A*4 / 100A*4
+</td>
+</tr>
+<tr>
+<td valign="center">
+Input Voltage
+</td>
+<td valign="center">
+DC 9V~40V (3-8S Lipo)
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>BEC</span><span></span>
+</td>
+<td valign="center">
+No
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>Telemetry</span><span></span>
+</td>
+<td valign="center">
+Supported
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>ESC Programming</span><span></span>
+</td>
+<td valign="center">
+BLHeli32
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>Current Scaling</span><span></span>
+</td>
+<td valign="center">
+70
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>Input Signal</span><span></span>
+</td>
+<td valign="center">
+DShot 150/ 300/ 600/ 1200 /MultiShot/ OneShot etc.
+</td>
+</tr>
+<tr>
+<td valign="center">
+Working Temperature
+</td>
+<td valign="center">
+-20℃ ~ +55℃
+</td>
+</tr>
+<tr>
+<td valign="center">
+Working Humidity
+</td>
+<td valign="center">
+20～95%
+</td>
+</tr>
+<tr>
+<td valign="center">
+Storage Temperature
+</td>
+<td valign="center">
+-20℃ ~ +70℃
+</td>
+</tr>
+<tr>
+<td valign="center">
+Mounting Hole
+</td>
+<td valign="center">
+30.5X30.5mm,Φ4mm/M3
+</td>
+</tr>
+<tr>
+<td valign="center">
+Dimension
+</td>
+<td valign="center">
+42.5x42x5.5mm
+</td>
+</tr>
+<tr>
+<td valign="center">
+Weight
+</td>
+<td valign="center">
+14.8g
+</td>
+</tr>
+</tbody>
+</table>, 'images': {'images': ['https://inew.foxeer.com//upload/s/goods/2022-04-09/16-04-34-62513e128a8d6.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2022-04-09/16-04-52-62513e24d7404.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2022-04-09/16-04-51-62513e237e457.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2022-04-09/16-04-51-62513e2398738.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2022-04-09/16-04-51-62513e238553c.images.400x400.jpg'], 'image_block': <div class="product-img">
+<a class="jqzoom fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2022-04-09/16-04-34-62513e128a8d6.images.800x800.jpg" rel="gal1"><span big="https://inew.foxeer.com//upload/s/goods/2022-04-09/16-04-34-62513e128a8d6.images.800x800.jpg" class="zoom"><img id="zoomimg" src="https://inew.foxeer.com//upload/s/goods/2022-04-09/16-04-34-62513e128a8d6.images.400x400.jpg" width="600"/></span> </a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2022-04-09/16-04-52-62513e24d7404.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2022-04-09/16-04-52-62513e24d7404.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2022-04-09/16-04-52-62513e24d7404.images.400x400.jpg" width="600"/></span></a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2022-04-09/16-04-51-62513e237e457.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2022-04-09/16-04-51-62513e237e457.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2022-04-09/16-04-51-62513e237e457.images.400x400.jpg" width="600"/></span></a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2022-04-09/16-04-51-62513e2398738.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2022-04-09/16-04-51-62513e2398738.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2022-04-09/16-04-51-62513e2398738.images.400x400.jpg" width="600"/></span></a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2022-04-09/16-04-51-62513e238553c.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2022-04-09/16-04-51-62513e238553c.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2022-04-09/16-04-51-62513e238553c.images.400x400.jpg" width="600"/></span></a>
+</div>}}, 'tags': {'tag_combinations': [''], 'spec_info': <div id="spec_info">
+</div>}}, {'name': <h3 class="product-name product_title">
+<a href="https://www.foxeer.com/foxeer-reaper-f4-mini-128k-4in1-bl32-60a-esc-9-40v-20-20mm-m3-g-419">Foxeer Reaper F4 Mini 128K 4in1 BL32 60A ESC 9~40V 20*20mm M3</a>
+</h3>, 'link': 'https://www.foxeer.com/foxeer-reaper-f4-mini-128k-4in1-bl32-60a-esc-9-40v-20-20mm-m3-g-419', 'price': {'price': <div class="price price-detail">$79.9 </div>, 'price_div': <div class="price price-detail">$79.9 </div>}, 'type': 'Esc', 'details': {'details': {<td valign="center" width="189">
+<span>Firmware</span><span></span>
+</td>: <td valign="center" width="413">
+FOXEER_ReaperM4IN1_F4_60A_128_Multi_32_9
+</td>, <td valign="center">
+Continuous /Burst Current
+</td>: <td valign="center">
+60A*4 / 100A*4
+</td>, <td valign="center">
+Input Voltage
+</td>: <td valign="center">
+DC 9V~40V (3-8S Lipo)
+</td>, <td valign="center">
+<span>BEC</span><span></span>
+</td>: <td valign="center">
+No
+</td>, <td valign="center">
+<span>Telemetry</span><span></span>
+</td>: <td valign="center">
+Supported
+</td>, <td valign="center">
+<span>ESC Programming</span><span></span>
+</td>: <td valign="center">
+BLHeli32
+</td>, <td valign="center">
+<span>Current Scaling</span><span></span>
+</td>: <td valign="center">
+70
+</td>, <td valign="center">
+<span>Input Signal</span><span></span>
+</td>: <td valign="center">
+DShot 150/ 300/ 600/ 1200 /MultiShot/ OneShot etc.
+</td>, <td valign="center">
+Working Temperature
+</td>: <td valign="center">
+-20℃ ~ +55℃
+</td>, <td valign="center">
+Working Humidity
+</td>: <td valign="center">
+20～95%
+</td>, <td valign="center">
+Storage Temperature
+</td>: <td valign="center">
+-20℃ ~ +70℃
+</td>, <td valign="center">
+Mounting Hole
+</td>: <td valign="center">
+20×20mm, Φ4mm/ M3
+</td>, <td valign="center">
+Dimension
+</td>: <td valign="center">
+40.5×40×5.5mm
+</td>, <td valign="center">
+Weight
+</td>: <td valign="center">
+13.5g
+</td>, 'download_links': [], 'video_link': None}, 'details_table': <table class="table table-bordered" width="614">
+<tbody>
+<tr>
+<td valign="center" width="189">
+<span>Firmware</span><span></span>
+</td>
+<td valign="center" width="413">
+FOXEER_ReaperM4IN1_F4_60A_128_Multi_32_9
+</td>
+</tr>
+<tr>
+<td valign="center">
+Continuous /Burst Current
+</td>
+<td valign="center">
+60A*4 / 100A*4
+</td>
+</tr>
+<tr>
+<td valign="center">
+Input Voltage
+</td>
+<td valign="center">
+DC 9V~40V (3-8S Lipo)
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>BEC</span><span></span>
+</td>
+<td valign="center">
+No
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>Telemetry</span><span></span>
+</td>
+<td valign="center">
+Supported
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>ESC Programming</span><span></span>
+</td>
+<td valign="center">
+BLHeli32
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>Current Scaling</span><span></span>
+</td>
+<td valign="center">
+70
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>Input Signal</span><span></span>
+</td>
+<td valign="center">
+DShot 150/ 300/ 600/ 1200 /MultiShot/ OneShot etc.
+</td>
+</tr>
+<tr>
+<td valign="center">
+Working Temperature
+</td>
+<td valign="center">
+-20℃ ~ +55℃
+</td>
+</tr>
+<tr>
+<td valign="center">
+Working Humidity
+</td>
+<td valign="center">
+20～95%
+</td>
+</tr>
+<tr>
+<td valign="center">
+Storage Temperature
+</td>
+<td valign="center">
+-20℃ ~ +70℃
+</td>
+</tr>
+<tr>
+<td valign="center">
+Mounting Hole
+</td>
+<td valign="center">
+20×20mm, Φ4mm/ M3
+</td>
+</tr>
+<tr>
+<td valign="center">
+Dimension
+</td>
+<td valign="center">
+40.5×40×5.5mm
+</td>
+</tr>
+<tr>
+<td valign="center">
+Weight
+</td>
+<td valign="center">
+13.5g
+</td>
+</tr>
+</tbody>
+</table>, 'images': {'images': ['https://inew.foxeer.com//upload/s/goods/2022-04-09/15-33-05-625136b104ebc.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2022-04-09/15-33-20-625136c02a792.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2022-04-09/15-33-18-625136be71043.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2022-04-09/15-33-18-625136be6b0cf.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2022-04-09/15-33-18-625136be561b9.images.400x400.jpg'], 'image_block': <div class="product-img">
+<a class="jqzoom fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2022-04-09/15-33-05-625136b104ebc.images.800x800.jpg" rel="gal1"><span big="https://inew.foxeer.com//upload/s/goods/2022-04-09/15-33-05-625136b104ebc.images.800x800.jpg" class="zoom"><img id="zoomimg" src="https://inew.foxeer.com//upload/s/goods/2022-04-09/15-33-05-625136b104ebc.images.400x400.jpg" width="600"/></span> </a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2022-04-09/15-33-20-625136c02a792.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2022-04-09/15-33-20-625136c02a792.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2022-04-09/15-33-20-625136c02a792.images.400x400.jpg" width="600"/></span></a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2022-04-09/15-33-18-625136be71043.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2022-04-09/15-33-18-625136be71043.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2022-04-09/15-33-18-625136be71043.images.400x400.jpg" width="600"/></span></a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2022-04-09/15-33-18-625136be6b0cf.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2022-04-09/15-33-18-625136be6b0cf.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2022-04-09/15-33-18-625136be6b0cf.images.400x400.jpg" width="600"/></span></a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2022-04-09/15-33-18-625136be561b9.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2022-04-09/15-33-18-625136be561b9.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2022-04-09/15-33-18-625136be561b9.images.400x400.jpg" width="600"/></span></a>
+</div>}}, 'tags': {'tag_combinations': [''], 'spec_info': <div id="spec_info">
+</div>}}, {'name': <h3 class="product-name product_title">
+<a href="https://www.foxeer.com/foxeer-reaper-f4-mini-128k-45a-bl32-4in1-esc-20-20mm-m3-g-418">Foxeer Reaper F4 Mini 128K 45A BL32 4in1 ESC 20*20mm M3</a>
+</h3>, 'link': 'https://www.foxeer.com/foxeer-reaper-f4-mini-128k-45a-bl32-4in1-esc-20-20mm-m3-g-418', 'price': {'price': <div class="price price-detail">$59.9 </div>, 'price_div': <div class="price price-detail">$59.9 </div>}, 'type': 'Esc', 'details': {'details': {<td valign="center" width="189">
+<span>Firmware</span><span></span>
+</td>: <td valign="center" width="413">
+FOXEER_ReaperM4IN1_F4_45A_128_Multi_32_9
+</td>, <td valign="center">
+Continuous /Burst Current
+</td>: <td valign="center">
+45A*4 / 65A*4
+</td>, <td valign="center">
+Input Voltage
+</td>: <td valign="center">
+DC 10V~26.2V (3-6S Lipo)
+</td>, <td valign="center">
+<span>BEC</span><span></span>
+</td>: <td valign="center">
+No
+</td>, <td valign="center">
+<span>Telemetry</span><span></span>
+</td>: <td valign="center">
+Supported
+</td>, <td valign="center">
+<span>ESC Programming</span><span></span>
+</td>: <td valign="center">
+BLHeli32
+</td>, <td valign="center">
+<span>Current Scaling</span><span></span>
+</td>: <td valign="center">
+115
+</td>, <td valign="center">
+<span>Input Signal</span><span></span>
+</td>: <td valign="center">
+DShot 150/ 300/ 600/ 1200 /MultiShot/ OneShot etc.
+</td>, <td valign="center">
+Working Temperature
+</td>: <td valign="center">
+-20℃ ~ +55℃
+</td>, <td valign="center">
+Working Humidity
+</td>: <td valign="center">
+20～95%
+</td>, <td valign="center">
+Storage Temperature
+</td>: <td valign="center">
+-20℃ ~ +70℃
+</td>, <td valign="center">
+Mounting Hole
+</td>: <td valign="center">
+20×20mm, Φ4mm/ M3
+</td>, <td valign="center">
+Dimension
+</td>: <td valign="center">
+40.5×33×5.5mm
+</td>, <td valign="center">
+Weight
+</td>: <td valign="center">
+10g
+</td>, 'download_links': [], 'video_link': None}, 'details_table': <table class="table table-bordered" width="614">
+<tbody>
+<tr>
+<td valign="center" width="189">
+<span>Firmware</span><span></span>
+</td>
+<td valign="center" width="413">
+FOXEER_ReaperM4IN1_F4_45A_128_Multi_32_9
+</td>
+</tr>
+<tr>
+<td valign="center">
+Continuous /Burst Current
+</td>
+<td valign="center">
+45A*4 / 65A*4
+</td>
+</tr>
+<tr>
+<td valign="center">
+Input Voltage
+</td>
+<td valign="center">
+DC 10V~26.2V (3-6S Lipo)
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>BEC</span><span></span>
+</td>
+<td valign="center">
+No
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>Telemetry</span><span></span>
+</td>
+<td valign="center">
+Supported
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>ESC Programming</span><span></span>
+</td>
+<td valign="center">
+BLHeli32
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>Current Scaling</span><span></span>
+</td>
+<td valign="center">
+115
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>Input Signal</span><span></span>
+</td>
+<td valign="center">
+DShot 150/ 300/ 600/ 1200 /MultiShot/ OneShot etc.
+</td>
+</tr>
+<tr>
+<td valign="center">
+Working Temperature
+</td>
+<td valign="center">
+-20℃ ~ +55℃
+</td>
+</tr>
+<tr>
+<td valign="center">
+Working Humidity
+</td>
+<td valign="center">
+20～95%
+</td>
+</tr>
+<tr>
+<td valign="center">
+Storage Temperature
+</td>
+<td valign="center">
+-20℃ ~ +70℃
+</td>
+</tr>
+<tr>
+<td valign="center">
+Mounting Hole
+</td>
+<td valign="center">
+20×20mm, Φ4mm/ M3
+</td>
+</tr>
+<tr>
+<td valign="center">
+Dimension
+</td>
+<td valign="center">
+40.5×33×5.5mm
+</td>
+</tr>
+<tr>
+<td valign="center">
+Weight
+</td>
+<td valign="center">
+10g
+</td>
+</tr>
+</tbody>
+</table>, 'images': {'images': ['https://inew.foxeer.com//upload/s/goods/2022-04-09/14-38-00-625129c8d5791.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2022-04-09/14-38-26-625129e213b85.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2022-04-09/14-38-25-625129e1e25ff.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2022-04-09/14-38-24-625129e0b6f32.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2022-04-09/14-38-24-625129e09fa3a.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2022-04-09/14-38-24-625129e0855e6.images.400x400.jpg'], 'image_block': <div class="product-img">
+<a class="jqzoom fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2022-04-09/14-38-00-625129c8d5791.images.800x800.jpg" rel="gal1"><span big="https://inew.foxeer.com//upload/s/goods/2022-04-09/14-38-00-625129c8d5791.images.800x800.jpg" class="zoom"><img id="zoomimg" src="https://inew.foxeer.com//upload/s/goods/2022-04-09/14-38-00-625129c8d5791.images.400x400.jpg" width="600"/></span> </a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2022-04-09/14-38-26-625129e213b85.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2022-04-09/14-38-26-625129e213b85.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2022-04-09/14-38-26-625129e213b85.images.400x400.jpg" width="600"/></span></a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2022-04-09/14-38-25-625129e1e25ff.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2022-04-09/14-38-25-625129e1e25ff.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2022-04-09/14-38-25-625129e1e25ff.images.400x400.jpg" width="600"/></span></a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2022-04-09/14-38-24-625129e0b6f32.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2022-04-09/14-38-24-625129e0b6f32.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2022-04-09/14-38-24-625129e0b6f32.images.400x400.jpg" width="600"/></span></a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2022-04-09/14-38-24-625129e09fa3a.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2022-04-09/14-38-24-625129e09fa3a.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2022-04-09/14-38-24-625129e09fa3a.images.400x400.jpg" width="600"/></span></a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2022-04-09/14-38-24-625129e0855e6.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2022-04-09/14-38-24-625129e0855e6.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2022-04-09/14-38-24-625129e0855e6.images.400x400.jpg" width="600"/></span></a>
+</div>}}, 'tags': {'tag_combinations': [''], 'spec_info': <div id="spec_info">
+</div>}}, {'name': <h3 class="product-name product_title">
+<a href="https://www.foxeer.com/foxeer-mini-reaper-128k-45a-bl32-4in1-esc-20-20-m3-stm32-g-382">Foxeer Mini Reaper 128K 45A BL32 4in1 ESC 20*20 M3 STM32</a>
+</h3>, 'link': 'https://www.foxeer.com/foxeer-mini-reaper-128k-45a-bl32-4in1-esc-20-20-m3-stm32-g-382', 'price': {'price': <div class="price price-detail">$109.9 </div>, 'price_div': <div class="price price-detail">$109.9 </div>}, 'type': 'Esc', 'details': {'details': {<td valign="center" width="189">
+<span>Firmware</span><span></span>
+</td>: <td valign="center" width="413">
+FOXEER_ReaperMini4IN1_45A_128_Multi_32_8
+</td>, <td valign="center">
+Continuous /Burst Current
+</td>: <td valign="center">
+45A*4 / 65A*4
+</td>, <td valign="center">
+Input Voltage
+</td>: <td valign="center">
+DC 10V~26.2V (3-6S Lipo)
+</td>, <td valign="center">
+<span>BEC</span><span></span>
+</td>: <td valign="center">
+No
+</td>, <td valign="center">
+<span>Telemetry</span><span></span>
+</td>: <td valign="center">
+Supported
+</td>, <td valign="center">
+<span>ESC Programming</span><span></span>
+</td>: <td valign="center">
+BLHeli32
+</td>, <td valign="center">
+<span>Input Signal</span><span></span>
+</td>: <td valign="center">
+DShot 150/ 300/ 600/ 1200 /MultiShot/ OneShot etc.
+</td>, <td valign="center">
+Working Temperature
+</td>: <td valign="center">
+-20℃ ~ +55℃
+</td>, <td valign="center">
+Working Humidity
+</td>: <td valign="center">
+20～95%
+</td>, <td valign="center">
+Storage Temperature
+</td>: <td valign="center">
+-20℃ ~ +70℃
+</td>, <td valign="center">
+Mounting Hole
+</td>: <td valign="center">
+20×20mm, Φ4mm/ M3
+</td>, <td valign="center">
+Dimension
+</td>: <td valign="center">
+40.5×33×5.5mm
+</td>, <td valign="center">
+Weight
+</td>: <td valign="center">
+10g
+</td>, 'download_links': [], 'video_link': None}, 'details_table': <table class="table table-bordered" width="614">
+<tbody>
+<tr>
+<td valign="center" width="189">
+<span>Firmware</span><span></span>
+</td>
+<td valign="center" width="413">
+FOXEER_ReaperMini4IN1_45A_128_Multi_32_8
+</td>
+</tr>
+<tr>
+<td valign="center">
+Continuous /Burst Current
+</td>
+<td valign="center">
+45A*4 / 65A*4
+</td>
+</tr>
+<tr>
+<td valign="center">
+Input Voltage
+</td>
+<td valign="center">
+DC 10V~26.2V (3-6S Lipo)
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>BEC</span><span></span>
+</td>
+<td valign="center">
+No
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>Telemetry</span><span></span>
+</td>
+<td valign="center">
+Supported
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>ESC Programming</span><span></span>
+</td>
+<td valign="center">
+BLHeli32
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>Input Signal</span><span></span>
+</td>
+<td valign="center">
+DShot 150/ 300/ 600/ 1200 /MultiShot/ OneShot etc.
+</td>
+</tr>
+<tr>
+<td valign="center">
+Working Temperature
+</td>
+<td valign="center">
+-20℃ ~ +55℃
+</td>
+</tr>
+<tr>
+<td valign="center">
+Working Humidity
+</td>
+<td valign="center">
+20～95%
+</td>
+</tr>
+<tr>
+<td valign="center">
+Storage Temperature
+</td>
+<td valign="center">
+-20℃ ~ +70℃
+</td>
+</tr>
+<tr>
+<td valign="center">
+Mounting Hole
+</td>
+<td valign="center">
+20×20mm, Φ4mm/ M3
+</td>
+</tr>
+<tr>
+<td valign="center">
+Dimension
+</td>
+<td valign="center">
+40.5×33×5.5mm
+</td>
+</tr>
+<tr>
+<td valign="center">
+Weight
+</td>
+<td valign="center">
+10g
+</td>
+</tr>
+</tbody>
+</table>, 'images': {'images': ['https://inew.foxeer.com//upload/s/goods/2022-01-04/14-30-50-61d3e99a8142f.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2022-01-04/14-31-20-61d3e9b812cc8.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2022-01-04/14-31-18-61d3e9b6a46b4.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2022-01-04/14-31-18-61d3e9b696dc5.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2022-01-04/14-31-18-61d3e9b67e40f.images.400x400.jpg'], 'image_block': <div class="product-img">
+<a class="jqzoom fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2022-01-04/14-30-50-61d3e99a8142f.images.800x800.jpg" rel="gal1"><span big="https://inew.foxeer.com//upload/s/goods/2022-01-04/14-30-50-61d3e99a8142f.images.800x800.jpg" class="zoom"><img id="zoomimg" src="https://inew.foxeer.com//upload/s/goods/2022-01-04/14-30-50-61d3e99a8142f.images.400x400.jpg" width="600"/></span> </a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2022-01-04/14-31-20-61d3e9b812cc8.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2022-01-04/14-31-20-61d3e9b812cc8.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2022-01-04/14-31-20-61d3e9b812cc8.images.400x400.jpg" width="600"/></span></a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2022-01-04/14-31-18-61d3e9b6a46b4.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2022-01-04/14-31-18-61d3e9b6a46b4.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2022-01-04/14-31-18-61d3e9b6a46b4.images.400x400.jpg" width="600"/></span></a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2022-01-04/14-31-18-61d3e9b696dc5.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2022-01-04/14-31-18-61d3e9b696dc5.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2022-01-04/14-31-18-61d3e9b696dc5.images.400x400.jpg" width="600"/></span></a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2022-01-04/14-31-18-61d3e9b67e40f.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2022-01-04/14-31-18-61d3e9b67e40f.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2022-01-04/14-31-18-61d3e9b67e40f.images.400x400.jpg" width="600"/></span></a>
+</div>}}, 'tags': {'tag_combinations': [''], 'spec_info': <div id="spec_info">
+</div>}}, {'name': <h3 class="product-name product_title">
+<a href="https://www.foxeer.com/foxeer-reaper-82a-f4-128k-bl32-4in1-4-8s-esc-g-564">Foxeer Reaper 82A F4 128K BL32 4in1 4-8S ESC</a>
+</h3>, 'link': 'https://www.foxeer.com/foxeer-reaper-82a-f4-128k-bl32-4in1-4-8s-esc-g-564', 'price': {'price': <div class="price price-detail">$249.9 </div>, 'price_div': <div class="price price-detail">$249.9 </div>}, 'type': 'Esc', 'details': {'details': {<td valign="center" width="189">
+<span>Firmware</span><span></span>
+</td>: <td valign="center" width="413">
+FOXEER_Reaper_F4_80A_128_Multi_32_9
+</td>, <td valign="center">
+Continuous /Burst Current
+</td>: <td valign="center">
+82A/ 145A
+</td>, <td valign="center">
+Peak Power Rating (kW)
+</td>: <td valign="center">
+4
+</td>, <td valign="center">
+Continuous Rating Duration (s)
+</td>: <td valign="center">
+65
+</td>, <td valign="center">
+Burst Rating Time (s)
+</td>: <td valign="center">
+6
+</td>, <td valign="center">
+Input Voltage
+</td>: <td valign="center">
+4-8S Lipo
+</td>, <td valign="center">
+<span>BEC</span><span></span>
+</td>: <td valign="center">
+No
+</td>, <td valign="center">
+<span>Temperature</span><span></span>
+</td>: <td valign="center">
+No
+</td>, <td valign="center">
+<span>Telemetry</span><span></span>
+</td>: <td valign="center">
+Supported
+</td>, <td valign="center">
+<span>Current Scaling</span><span></span>
+</td>: <td valign="center">
+70
+</td>, <td valign="center">
+<span>ESC Programming</span><span></span>
+</td>: <td valign="center">
+BLHeli32
+</td>, <td valign="center">
+<span>Input Signal</span><span></span>
+</td>: <td valign="center">
+DShot 150/ 300/ 600/ 1200 /MultiShot/ OneShot etc.
+</td>, <td valign="center">
+Working Temperature
+</td>: <td valign="center">
+-20℃ ~ +65℃
+</td>, <td valign="center">
+Working Humidity
+</td>: <td valign="center">
+20～95%
+</td>, <td valign="center">
+Storage Temperature
+</td>: <td valign="center">
+-20℃ ~ +70℃
+</td>, <td valign="center">
+<span>Mounting Hole</span><span></span>
+</td>: <td valign="center">
+30.5*30.5mm M3
+</td>, <td valign="center">
+Dimension
+</td>: <td valign="center">
+56x57mm
+</td>, <td valign="center">
+Weight
+</td>: <td valign="center">
+30g
+</td>, 'download_links': [], 'video_link': None}, 'details_table': <table class="table table-bordered" width="614">
+<tbody>
+<tr>
+<td valign="center" width="189">
+<span>Firmware</span><span></span>
+</td>
+<td valign="center" width="413">
+FOXEER_Reaper_F4_80A_128_Multi_32_9
+</td>
+</tr>
+<tr>
+<td valign="center">
+Continuous /Burst Current
+</td>
+<td valign="center">
+82A/ 145A
+</td>
+</tr>
+<tr>
+<td valign="center">
+Peak Power Rating (kW)
+</td>
+<td valign="center">
+4
+</td>
+</tr>
+<tr>
+<td valign="center">
+Continuous Rating Duration (s)
+</td>
+<td valign="center">
+65
+</td>
+</tr>
+<tr>
+<td valign="center">
+Burst Rating Time (s)
+</td>
+<td valign="center">
+6
+</td>
+</tr>
+<tr>
+<td valign="center">
+Input Voltage
+</td>
+<td valign="center">
+4-8S Lipo
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>BEC</span><span></span>
+</td>
+<td valign="center">
+No
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>Temperature</span><span></span>
+</td>
+<td valign="center">
+No
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>Telemetry</span><span></span>
+</td>
+<td valign="center">
+Supported
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>Current Scaling</span><span></span>
+</td>
+<td valign="center">
+70
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>ESC Programming</span><span></span>
+</td>
+<td valign="center">
+BLHeli32
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>Input Signal</span><span></span>
+</td>
+<td valign="center">
+DShot 150/ 300/ 600/ 1200 /MultiShot/ OneShot etc.
+</td>
+</tr>
+<tr>
+<td valign="center">
+Working Temperature
+</td>
+<td valign="center">
+-20℃ ~ +65℃
+</td>
+</tr>
+<tr>
+<td valign="center">
+Working Humidity
+</td>
+<td valign="center">
+20～95%
+</td>
+</tr>
+<tr>
+<td valign="center">
+Storage Temperature
+</td>
+<td valign="center">
+-20℃ ~ +70℃
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>Mounting Hole</span><span></span>
+</td>
+<td valign="center">
+30.5*30.5mm M3
+</td>
+</tr>
+<tr>
+<td valign="center">
+Dimension
+</td>
+<td valign="center">
+56x57mm
+</td>
+</tr>
+<tr>
+<td valign="center">
+Weight
+</td>
+<td valign="center">
+30g
+</td>
+</tr>
+</tbody>
+</table>, 'images': {'images': ['https://inew.foxeer.com//upload/s/goods/2023-11-17/15-23-36-655714f8db47d.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2023-11-17/15-23-49-65571505f2950.images.400x400.jpg'], 'image_block': <div class="product-img">
+<a class="jqzoom fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2023-11-17/15-23-36-655714f8db47d.images.800x800.jpg" rel="gal1"><span big="https://inew.foxeer.com//upload/s/goods/2023-11-17/15-23-36-655714f8db47d.images.800x800.jpg" class="zoom"><img id="zoomimg" src="https://inew.foxeer.com//upload/s/goods/2023-11-17/15-23-36-655714f8db47d.images.400x400.jpg" width="600"/></span> </a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2023-11-17/15-23-49-65571505f2950.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2023-11-17/15-23-49-65571505f2950.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2023-11-17/15-23-49-65571505f2950.images.400x400.jpg" width="600"/></span></a>
+</div>}}, 'tags': {'tag_combinations': [''], 'spec_info': <div id="spec_info">
+</div>}}, {'name': <h3 class="product-name product_title">
+<a href="https://www.foxeer.com/foxeer-reaper-aio-v3-f745-45a-bls-bluejay-2-6s-g-454">Foxeer Reaper AIO V3 F745 45A BLS Bluejay 2-6S</a>
+</h3>, 'link': 'https://www.foxeer.com/foxeer-reaper-aio-v3-f745-45a-bls-bluejay-2-6s-g-454', 'price': {'price': <div class="price price-detail">$99.9 </div>, 'price_div': <div class="price price-detail">$99.9 </div>}, 'type': 'Esc', 'details': {'details': {<td valign="center" width="189">
+<span>Model</span><span></span>
+</td>: <td valign="center" width="413">
+FOXEER Reaper AIO V3
+</td>, <td valign="center">
+CPU
+</td>: <td valign="center">
+STM32F745
+</td>, <td valign="center">
+Power Supply
+</td>: <td valign="center">
+2~6S Lipo(8.4~25.2V)
+</td>, <td valign="center">
+<span>BEC Output</span><span></span>
+</td>: <td valign="center">
+DC5V/2.5A
+</td>, <td valign="center">
+<span>OSD</span><span></span>
+</td>: <td valign="center">
+BF OSD
+</td>, <td valign="center">
+Black Box
+</td>: <td valign="center">
+16M Flash Memory
+</td>, <td valign="center">
+UART
+</td>: <td valign="center">
+5 Set
+</td>, <td valign="center">
+USB
+</td>: <td valign="center">
+Micro USB
+</td>, <td valign="center">
+Fireware
+</td>: <td valign="center">
+BF:FOXE-FOXEERF745V3_AIO; Inav: FOXEERF745AIO V3
+</td>, <td valign="center">
+DJI/Vista Connector
+</td>: <td valign="center">
+Supported, 7pin
+</td>, <td valign="center">
+Size
+</td>: <td valign="center">
+32.5X32.5mm
+</td>, <td valign="center">
+Mounting Hole
+</td>: <td valign="center">
+25.5X25.5mm,Φ3mm/M2
+</td>, <td valign="center">
+Weight(g)
+</td>: <td valign="center">
+8.9g
+</td>, <td valign="center">
+Working Temperature
+</td>: <td valign="center">
+-20℃ ~ +55℃
+</td>, <td valign="center">
+Working Humidity
+</td>: <td valign="center">
+20～95%
+</td>, <td valign="center">
+Storage Temperature
+</td>: <td valign="center">
+-20℃ ~ +70℃
+</td>, <td valign="center">
+Package Includes
+</td>: <td valign="center">
+1*AIO, Rubbers Columns, XT30 Cable, Vista Cable, Capacity
+</td>, 'download_links': [{'text': <a href="https://download.foxeer.com/Foxeer_AIOV3_Add_LED.txt" target="_blank">
+LED Setup
+</a>, 'link': 'https://download.foxeer.com/Foxeer_AIOV3_Add_LED.txt'}], 'video_link': None}, 'details_table': <table class="table table-bordered" width="614">
+<tbody>
+<tr>
+<td valign="center" width="189">
+<span>Model</span><span></span>
+</td>
+<td valign="center" width="413">
+FOXEER Reaper AIO V3
+</td>
+</tr>
+<tr>
+<td valign="center">
+CPU
+</td>
+<td valign="center">
+STM32F745
+</td>
+</tr>
+<tr>
+<td valign="center">
+Power Supply
+</td>
+<td valign="center">
+2~6S Lipo(8.4~25.2V)
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>BEC Output</span><span></span>
+</td>
+<td valign="center">
+DC5V/2.5A
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>OSD</span><span></span>
+</td>
+<td valign="center">
+BF OSD
+</td>
+</tr>
+<tr>
+<td valign="center">
+Black Box
+</td>
+<td valign="center">
+16M Flash Memory
+</td>
+</tr>
+<tr>
+<td valign="center">
+UART
+</td>
+<td valign="center">
+5 Set
+</td>
+</tr>
+<tr>
+<td valign="center">
+USB
+</td>
+<td valign="center">
+Micro USB
+</td>
+</tr>
+<tr>
+<td valign="center">
+Fireware
+</td>
+<td valign="center">
+BF:FOXE-FOXEERF745V3_AIO; Inav: FOXEERF745AIO V3
+</td>
+</tr>
+<tr>
+<td valign="center">
+DJI/Vista Connector
+</td>
+<td valign="center">
+Supported, 7pin
+</td>
+</tr>
+<tr>
+<td valign="center">
+Size
+</td>
+<td valign="center">
+32.5X32.5mm
+</td>
+</tr>
+<tr>
+<td valign="center">
+Mounting Hole
+</td>
+<td valign="center">
+25.5X25.5mm,Φ3mm/M2
+</td>
+</tr>
+<tr>
+<td valign="center">
+Weight(g)
+</td>
+<td valign="center">
+8.9g
+</td>
+</tr>
+<tr>
+<td valign="center">
+Working Temperature
+</td>
+<td valign="center">
+-20℃ ~ +55℃
+</td>
+</tr>
+<tr>
+<td valign="center">
+Working Humidity
+</td>
+<td valign="center">
+20～95%
+</td>
+</tr>
+<tr>
+<td valign="center">
+Storage Temperature
+</td>
+<td valign="center">
+-20℃ ~ +70℃
+</td>
+</tr>
+<tr>
+<td valign="center">
+Package Includes
+</td>
+<td valign="center">
+1*AIO, Rubbers Columns, XT30 Cable, Vista Cable, Capacity
+</td>
+</tr>
+<tr>
+</tr>
+</tbody>
+</table>, 'images': {'images': ['https://inew.foxeer.com//upload/s/goods/2022-09-13/11-57-30-631fffaa98a23.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2022-09-13/11-57-46-631fffbaba04a.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2022-09-13/11-57-46-631fffba812ae.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2022-09-13/11-57-44-631fffb8f12f8.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2022-09-13/11-57-44-631fffb8de79a.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2022-09-13/11-57-44-631fffb8d4a49.images.400x400.jpg'], 'image_block': <div class="product-img">
+<a class="jqzoom fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2022-09-13/11-57-30-631fffaa98a23.images.800x800.jpg" rel="gal1"><span big="https://inew.foxeer.com//upload/s/goods/2022-09-13/11-57-30-631fffaa98a23.images.800x800.jpg" class="zoom"><img id="zoomimg" src="https://inew.foxeer.com//upload/s/goods/2022-09-13/11-57-30-631fffaa98a23.images.400x400.jpg" width="600"/></span> </a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2022-09-13/11-57-46-631fffbaba04a.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2022-09-13/11-57-46-631fffbaba04a.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2022-09-13/11-57-46-631fffbaba04a.images.400x400.jpg" width="600"/></span></a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2022-09-13/11-57-46-631fffba812ae.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2022-09-13/11-57-46-631fffba812ae.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2022-09-13/11-57-46-631fffba812ae.images.400x400.jpg" width="600"/></span></a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2022-09-13/11-57-44-631fffb8f12f8.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2022-09-13/11-57-44-631fffb8f12f8.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2022-09-13/11-57-44-631fffb8f12f8.images.400x400.jpg" width="600"/></span></a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2022-09-13/11-57-44-631fffb8de79a.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2022-09-13/11-57-44-631fffb8de79a.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2022-09-13/11-57-44-631fffb8de79a.images.400x400.jpg" width="600"/></span></a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2022-09-13/11-57-44-631fffb8d4a49.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2022-09-13/11-57-44-631fffb8d4a49.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2022-09-13/11-57-44-631fffb8d4a49.images.400x400.jpg" width="600"/></span></a>
+</div>}}, 'tags': {'tag_combinations': [''], 'spec_info': <div id="spec_info">
+</div>}}, {'name': <h3 class="product-name product_title">
+<a href="https://www.foxeer.com/foxeer-reaper-aio-v2-f745-45a-bls-bluejay-2-6s-g-439">Foxeer Reaper AIO V2 F745 45A BLS Bluejay 2-6S</a>
+</h3>, 'link': 'https://www.foxeer.com/foxeer-reaper-aio-v2-f745-45a-bls-bluejay-2-6s-g-439', 'price': {'price': <div class="price price-detail">$99.9 </div>, 'price_div': <div class="price price-detail">$99.9 </div>}, 'type': 'Esc', 'details': {'details': {<td valign="center" width="189">
+<span>Model</span><span></span>
+</td>: <td valign="center" width="413">
+FOXEER Reaper AIO V2
+</td>, <td valign="center">
+CPU
+</td>: <td valign="center">
+STM32F745
+</td>, <td valign="center">
+Power Supply
+</td>: <td valign="center">
+2~6S Lipo(8.4~25.2V)
+</td>, <td valign="center">
+<span>BEC Output</span><span></span>
+</td>: <td valign="center">
+DC5V/2.5A
+</td>, <td valign="center">
+<span>OSD</span><span></span>
+</td>: <td valign="center">
+BF OSD
+</td>, <td valign="center">
+Black Box
+</td>: <td valign="center">
+16M Flash Memory
+</td>, <td valign="center">
+UART
+</td>: <td valign="center">
+5 Set
+</td>, <td valign="center">
+USB
+</td>: <td valign="center">
+Micro USB
+</td>, <td valign="center">
+Fireware
+</td>: <td valign="center">
+BF:FOXE-FOXEERF745V2_AIO
+</td>, <td valign="center">
+DJI/Vista Connector
+</td>: <td valign="center">
+Supported, 7pin
+</td>, <td valign="center">
+Size
+</td>: <td valign="center">
+32.5X32.5mm
+</td>, <td valign="center">
+Mounting Hole
+</td>: <td valign="center">
+25.5X25.5mm,Φ3mm/M2
+</td>, <td valign="center">
+Weight(g)
+</td>: <td valign="center">
+8.6g
+</td>, <td valign="center">
+Working Temperature
+</td>: <td valign="center">
+-20℃ ~ +55℃
+</td>, <td valign="center">
+Working Humidity
+</td>: <td valign="center">
+20～95%
+</td>, <td valign="center">
+Storage Temperature
+</td>: <td valign="center">
+-20℃ ~ +70℃
+</td>, <td valign="center">
+Package Includes
+</td>: <td valign="center">
+1*AIO, Rubbers Columns, XT30 Cable, Vista Cable, Capacity
+</td>, 'download_links': [{'text': <a href="https://download.foxeer.com/Foxeer_AIO_V2_Wiring_Diagram" target="_blank">
+Wiring
+</a>, 'link': 'https://download.foxeer.com/Foxeer_AIO_V2_Wiring_Diagram'}], 'video_link': None}, 'details_table': <table class="table table-bordered" width="614">
+<tbody>
+<tr>
+<td valign="center" width="189">
+<span>Model</span><span></span>
+</td>
+<td valign="center" width="413">
+FOXEER Reaper AIO V2
+</td>
+</tr>
+<tr>
+<td valign="center">
+CPU
+</td>
+<td valign="center">
+STM32F745
+</td>
+</tr>
+<tr>
+<td valign="center">
+Power Supply
+</td>
+<td valign="center">
+2~6S Lipo(8.4~25.2V)
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>BEC Output</span><span></span>
+</td>
+<td valign="center">
+DC5V/2.5A
+</td>
+</tr>
+<tr>
+<td valign="center">
+<span>OSD</span><span></span>
+</td>
+<td valign="center">
+BF OSD
+</td>
+</tr>
+<tr>
+<td valign="center">
+Black Box
+</td>
+<td valign="center">
+16M Flash Memory
+</td>
+</tr>
+<tr>
+<td valign="center">
+UART
+</td>
+<td valign="center">
+5 Set
+</td>
+</tr>
+<tr>
+<td valign="center">
+USB
+</td>
+<td valign="center">
+Micro USB
+</td>
+</tr>
+<tr>
+<td valign="center">
+Fireware
+</td>
+<td valign="center">
+BF:FOXE-FOXEERF745V2_AIO
+</td>
+</tr>
+<tr>
+<td valign="center">
+DJI/Vista Connector
+</td>
+<td valign="center">
+Supported, 7pin
+</td>
+</tr>
+<tr>
+<td valign="center">
+Size
+</td>
+<td valign="center">
+32.5X32.5mm
+</td>
+</tr>
+<tr>
+<td valign="center">
+Mounting Hole
+</td>
+<td valign="center">
+25.5X25.5mm,Φ3mm/M2
+</td>
+</tr>
+<tr>
+<td valign="center">
+Weight(g)
+</td>
+<td valign="center">
+8.6g
+</td>
+</tr>
+<tr>
+<td valign="center">
+Working Temperature
+</td>
+<td valign="center">
+-20℃ ~ +55℃
+</td>
+</tr>
+<tr>
+<td valign="center">
+Working Humidity
+</td>
+<td valign="center">
+20～95%
+</td>
+</tr>
+<tr>
+<td valign="center">
+Storage Temperature
+</td>
+<td valign="center">
+-20℃ ~ +70℃
+</td>
+</tr>
+<tr>
+<td valign="center">
+Package Includes
+</td>
+<td valign="center">
+1*AIO, Rubbers Columns, XT30 Cable, Vista Cable, Capacity
+</td>
+</tr>
+<tr>
+</tr>
+</tbody>
+</table>, 'images': {'images': ['https://inew.foxeer.com//upload/s/goods/2022-05-26/17-28-34-628f48427fe6a.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2022-05-26/17-29-30-628f487a65b21.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2022-05-26/17-29-30-628f487a44891.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2022-05-26/17-29-28-628f4878ea3f2.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2022-05-26/17-29-28-628f4878e6320.images.400x400.jpg', 'https://inew.foxeer.com//upload/s/goods/2022-05-26/17-29-28-628f4878c9ce3.images.400x400.jpg'], 'image_block': <div class="product-img">
+<a class="jqzoom fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2022-05-26/17-28-34-628f48427fe6a.images.800x800.jpg" rel="gal1"><span big="https://inew.foxeer.com//upload/s/goods/2022-05-26/17-28-34-628f48427fe6a.images.800x800.jpg" class="zoom"><img id="zoomimg" src="https://inew.foxeer.com//upload/s/goods/2022-05-26/17-28-34-628f48427fe6a.images.400x400.jpg" width="600"/></span> </a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2022-05-26/17-29-30-628f487a65b21.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2022-05-26/17-29-30-628f487a65b21.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2022-05-26/17-29-30-628f487a65b21.images.400x400.jpg" width="600"/></span></a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2022-05-26/17-29-30-628f487a44891.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2022-05-26/17-29-30-628f487a44891.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2022-05-26/17-29-30-628f487a44891.images.400x400.jpg" width="600"/></span></a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2022-05-26/17-29-28-628f4878ea3f2.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2022-05-26/17-29-28-628f4878ea3f2.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2022-05-26/17-29-28-628f4878ea3f2.images.400x400.jpg" width="600"/></span></a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2022-05-26/17-29-28-628f4878e6320.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2022-05-26/17-29-28-628f4878e6320.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2022-05-26/17-29-28-628f4878e6320.images.400x400.jpg" width="600"/></span></a>
+<a class="fancybox" data-fancybox="gallery" href="https://inew.foxeer.com//upload/s/goods/2022-05-26/17-29-28-628f4878c9ce3.images.800x800.jpg" rel="group" style="display: none" target="_blank"><span big="https://inew.foxeer.com//upload/s/goods/2022-05-26/17-29-28-628f4878c9ce3.images.800x800.jpg" class="zoom"><img src="https://inew.foxeer.com//upload/s/goods/2022-05-26/17-29-28-628f4878c9ce3.images.400x400.jpg" width="600"/></span></a>
+</div>}}, 'tags': {'tag_combinations': [''], 'spec_info': <div id="spec_info">
+</div>}}]

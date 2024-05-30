@@ -1,0 +1,119 @@
+[
+    {
+        "name": "Foxeer M10Q 120 GPS 5883 Compass",
+        "link": "https://www.foxeer.com/foxeer-m10q-120-gps-5883-compass-g-517",
+        "price": "$19.9",
+        "type": "Gps",
+        "details": {
+            "Chip": "M10(10th Generation Chip)",
+            "Frequency": "GPS L1GLONASS L1BDS B1GALILEO ESBAS L1QZSS L1",
+            "Input Voltage": "5V",
+            "Antenna": "Ceramic Antenna",
+            "Channel": "72",
+            "Battery": "Bilid-in",
+            "Compass": "QMC5883",
+            "Compass Orientation": "Plug facing direction of flight and obviously antenna up, BF: CW 180° Flip",
+            "Baud Rate": "115200bps",
+            "Protocol": "Dual NMEA/UBLOX",
+            "Output Frequency": "1Hz-10Hz,10Hz default",
+            "Speed Accuracy": "0.05m/s",
+            "Horizontal Positioning Accuracy": "2D ACC1.5m(outdoor)",
+            "Receiver Sensitivity": "Trace -166dBm; Capture -160dBm",
+            "Dynamic Characteristics": "Height 50000m; Speed 500m/s; Acceleration 4G",
+            "Operating Temperature": "-40C-+85C",
+            "Storage temperature": "-40C-+105C",
+            "Weight": "2.7g",
+            "Size": "12.5*17*5mm",
+            "download_links": [],
+            "video_link": null,
+            "images": [
+                "https://inew.foxeer.com//upload/s/goods/2023-04-25/17-51-35-6447a2a7e3202.images.400x400.JPG",
+                "https://inew.foxeer.com//upload/s/goods/2023-04-25/17-45-34-6447a13e68d7f.images.400x400.JPG",
+                "https://inew.foxeer.com//upload/s/goods/2023-04-25/17-45-34-6447a13e5df36.images.400x400.JPG"
+            ]
+        },
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "name": "Foxeer M10Q 250 GPS 5883 Compass",
+        "link": "https://www.foxeer.com/foxeer-m10q-250-gps-5883-compass-g-508",
+        "price": "$19.9",
+        "type": "Gps",
+        "details": {
+            "Chip": "M10(10th Generation Chip)",
+            "Frequency": "GPS L1GLONASS L1BDS B1GALILEO ESBAS L1QZSS L1",
+            "Input Voltage": "5V",
+            "Antenna": "Ceramic Antenna",
+            "Channel": "72",
+            "Battery": "Bilid-in",
+            "Compass": "QMC5883",
+            "Compass Orientation": "Plug facing direction of flight and obviously antenna up, BF: CW 90° Flip",
+            "Baud Rate": "115200bps",
+            "Protocol": "Dual NMEA/UBLOX",
+            "Output Frequency": "1Hz-10Hz,10Hz default",
+            "Speed Accuracy": "0.05m/s",
+            "Horizontal Positioning Accuracy": "2D ACC1.5m(outdoor)",
+            "Receiver Sensitivity": "Trace -166dBm; Capture -160dBm",
+            "Dynamic Characteristics": "Height 50000m; Speed 500m/s; Acceleration 4G",
+            "Operating Temperature": "-40C-+85C",
+            "Storage temperature": "-40C-+105C",
+            "Weight": "12g",
+            "Size": "25*25*8mm",
+            "download_links": [],
+            "video_link": null,
+            "images": [
+                "https://inew.foxeer.com//upload/s/goods/2023-03-29/10-58-36-6423a95c998f4.images.400x400.jpg",
+                "https://inew.foxeer.com//upload/s/goods/2023-03-29/10-58-54-6423a96e541b0.images.400x400.jpg",
+                "https://inew.foxeer.com//upload/s/goods/2023-03-29/10-58-54-6423a96e3b79c.images.400x400.jpg",
+                "https://inew.foxeer.com//upload/s/goods/2023-03-29/10-58-53-6423a96d32a11.images.400x400.jpg",
+                "https://inew.foxeer.com//upload/s/goods/2023-03-29/10-58-53-6423a96d0e02a.images.400x400.jpg",
+                "https://inew.foxeer.com//upload/s/goods/2023-03-29/10-58-52-6423a96cf3bec.images.400x400.jpg"
+            ]
+        },
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "name": "Foxeer M10Q 180 GPS 5883 Compass",
+        "link": "https://www.foxeer.com/foxeer-m10q-180-gps-5883-compass-g-507",
+        "price": "$19.9",
+        "type": "Gps",
+        "details": {
+            "Chip": "M10(10th Generation Chip)",
+            "Frequency": "GPS L1GLONASS L1BDS B1GALILEO ESBAS L1QZSS L1",
+            "Input Voltage": "5V",
+            "Antenna": "Ceramic Antenna",
+            "Channel": "72",
+            "Battery": "Bilid-in",
+            "Compass": "QMC5883",
+            "Compass Orientation": "Plug facing direction of flight and obviously antenna up, BF: CW 180° Flip",
+            "Baud Rate": "115200bps",
+            "Protocol": "Dual NMEA/UBLOX",
+            "Output Frequency": "1Hz-10Hz,10Hz default",
+            "Speed Accuracy": "0.05m/s",
+            "Horizontal Positioning Accuracy": "2D ACC1.5m(outdoor)",
+            "Receiver Sensitivity": "Trace -166dBm; Capture -160dBm",
+            "Dynamic Characteristics": "Height 50000m; Speed 500m/s; Acceleration 4G",
+            "Operating Temperature": "-40C-+85C",
+            "Storage temperature": "-40C-+105C",
+            "Weight": "7.5g",
+            "Size": "18*18*8mm",
+            "download_links": [],
+            "video_link": null,
+            "images": [
+                "https://inew.foxeer.com//upload/s/goods/2023-03-29/10-56-25-6423a8d94eeba.images.400x400.jpg",
+                "https://inew.foxeer.com//upload/s/goods/2023-03-29/10-56-41-6423a8e94e41a.images.400x400.jpg",
+                "https://inew.foxeer.com//upload/s/goods/2023-03-29/10-56-41-6423a8e945360.images.400x400.jpg",
+                "https://inew.foxeer.com//upload/s/goods/2023-03-29/10-56-40-6423a8e846c7e.images.400x400.jpg",
+                "https://inew.foxeer.com//upload/s/goods/2023-03-29/10-56-40-6423a8e817640.images.400x400.jpg",
+                "https://inew.foxeer.com//upload/s/goods/2023-03-29/10-56-39-6423a8e7ecd93.images.400x400.jpg"
+            ]
+        },
+        "tags": [
+            ""
+        ]
+    }
+]

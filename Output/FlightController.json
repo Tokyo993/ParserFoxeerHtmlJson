@@ -1,0 +1,692 @@
+[
+    {
+        "name": "Foxeer F405 V2 FC Reaper 55A ESC 8S Stack Video Switcher Servo Borameter",
+        "link": "https://www.foxeer.com/foxeer-f405-v2-fc-reaper-55a-esc-8s-stack-video-switcher-servo-borameter-g-578",
+        "price": "$32.9-$66.9",
+        "type": "FlightController",
+        "details": {
+            "Model": "Foxeer F405 V2 Flight Controller",
+            "CPU": "STM32F405RGT6",
+            "Gyro": "ICM42688-P",
+            "Barometer": "DPS310",
+            "Power Supply": "4~8S Lipo",
+            "BEC Output": "DC5V/3A; 10V/3A",
+            "OSD": "BF OSD",
+            "Black Box": "64M Flash Memory",
+            "UART": "6 Set",
+            "Connector": "DJI; GPS/Compass; 2 Camera Switch; VTX",
+            "ESC Telemetry": "RX1",
+            "X8": "Supported",
+            "ADC": "X3",
+            "PWM": "1CH",
+            "Buzzer": "YES",
+            "Smart Audio": "YES",
+            "LED": "1 Set 2812 LED",
+            "USB": "Type-C",
+            "Fireware": "FOXEERF405V2(BetaFlight); F405V2(Ardupilot)",
+            "Size": "37X37mm",
+            "Mounting Hole": "30.5*30.5mm,Φ4mm",
+            "Weight(g)": "8.4g",
+            "Working Temperature": "-20℃ ~ +55℃",
+            "Working Humidity": "20～95%",
+            "Storage Temperature": "-20℃ ~ +70℃",
+            "download_links": [],
+            "video_link": null,
+            "images": [
+                "https://inew.foxeer.com//upload/s/goods/2024-03-29/13-59-11-660658afb2316.images.400x400.jpg",
+                "https://inew.foxeer.com//upload/s/goods/2024-03-29/13-59-24-660658bcc3f3e.images.400x400.jpg",
+                "https://inew.foxeer.com//upload/s/goods/2024-03-29/13-59-24-660658bc9371d.images.400x400.jpg",
+                "https://inew.foxeer.com//upload/s/goods/2024-03-29/13-59-24-660658bc65ed5.images.400x400.jpg"
+            ]
+        },
+        "tags": [
+            "Version: Kit",
+            "Version: FC",
+            "Version: ESC"
+        ]
+    },
+    {
+        "name": "Foxeer H7 Mini MPU6000 FC 8S Dual BEC Barometer",
+        "link": "https://www.foxeer.com/foxeer-h7-mini-mpu6000-fc-8s-dual-bec-barometer-g-504",
+        "price": "$104.9",
+        "type": "FlightController",
+        "details": {
+            "Model": "Foxeer H7",
+            "CPU": "STM32H743",
+            "Gyro": "MPU6000",
+            "Barometer": "DPS310",
+            "Power Supply": "4~8S Lipo",
+            "BEC Output": "DC5V/2A; DC10V/2A",
+            "OSD": "BF OSD",
+            "Black Box": "16M Flash Memory",
+            "UART": "6 Sets+Rx8",
+            "ESC Telemetry": "RX8",
+            "Buzzer": "YES",
+            "Smart Audio": "YES",
+            "LED": "1 Set 2812 LED",
+            "USB": "Type-C",
+            "Servo": "S1,S2",
+            "Firmware": "BetaFlight:FOXEERH743",
+            "Size": "30*31mm",
+            "Mounting Hole": "20X20mm,Φ4mm",
+            "Weight(g)": "5.6g",
+            "Working Temperature": "-20℃ ~ +55℃",
+            "Working Humidity": "20～95%",
+            "Storage Temperature": "-20℃ ~ +70℃",
+            "Package Includes": "1*FC, 4*Rubbers Columns",
+            "download_links": [],
+            "video_link": null,
+            "images": [
+                "https://inew.foxeer.com//upload/s/goods/2023-03-16/18-07-19-6412ea575532c.images.400x400.jpg",
+                "https://inew.foxeer.com//upload/s/goods/2023-03-16/18-07-38-6412ea6a0daa2.images.400x400.jpg",
+                "https://inew.foxeer.com//upload/s/goods/2023-03-16/18-07-38-6412ea6a5d127.images.400x400.jpg",
+                "https://inew.foxeer.com//upload/s/goods/2023-03-16/18-07-37-6412ea6911a01.images.400x400.jpg",
+                "https://inew.foxeer.com//upload/s/goods/2023-03-16/18-07-36-6412ea68d1233.images.400x400.jpg",
+                "https://inew.foxeer.com//upload/s/goods/2023-03-16/18-07-35-6412ea678b3cc.images.400x400.jpg",
+                "https://inew.foxeer.com//upload/s/goods/2023-03-16/18-07-35-6412ea673034b.images.400x400.jpg"
+            ]
+        },
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "name": "Foxeer H7 MPU6000 FC 8S Dual BEC Barometer X8",
+        "link": "https://www.foxeer.com/foxeer-h7-mpu6000-fc-8s-dual-bec-barometer-x8-g-503",
+        "price": "$104.9",
+        "type": "FlightController",
+        "details": {
+            "Model": "Foxeer H7",
+            "CPU": "FOXEERH743",
+            "Gyro": "MPU6000",
+            "Barometer": "DPS310",
+            "Power Supply": "4~8S Lipo",
+            "BEC Output": "3.3V/0.5A;DC5V/2A;DC10V/2A",
+            "OSD": "BF OSD",
+            "Black Box": "16M Flash Memory",
+            "UART": "6 Sets+Rx8",
+            "ESC Telemetry": "RX8",
+            "Buzzer": "YES",
+            "Connector": "DJI/HDZero",
+            "Smart Audio": "YES",
+            "LED": "1 Set 2812 LED",
+            "USB": "Type-C",
+            "Servo": "S1,S2",
+            "X8": "Supported",
+            "Firmware": "BetaFlight: FOXEERH743 ； Ardupilot",
+            "Size": "37X37mm",
+            "Mounting Hole": "30.5X30.5mm,Φ4mm",
+            "Weight(g)": "7.8g",
+            "Working Temperature": "-20℃ ~ +55℃",
+            "Working Humidity": "20～95%",
+            "Storage Temperature": "-20℃ ~ +70℃",
+            "Package Includes": "1*FC, 4*Rubbers Columns, 1*Cable",
+            "download_links": [],
+            "video_link": null,
+            "images": [
+                "https://inew.foxeer.com//upload/s/goods/2023-03-16/18-04-12-6412e99c7158f.images.400x400.jpg",
+                "https://inew.foxeer.com//upload/s/goods/2023-03-16/18-04-25-6412e9a969031.images.400x400.jpg",
+                "https://inew.foxeer.com//upload/s/goods/2023-03-16/18-04-25-6412e9a94e820.images.400x400.jpg",
+                "https://inew.foxeer.com//upload/s/goods/2023-03-16/18-04-24-6412e9a81359d.images.400x400.jpg",
+                "https://inew.foxeer.com//upload/s/goods/2023-03-16/18-04-23-6412e9a7d7fca.images.400x400.jpg",
+                "https://inew.foxeer.com//upload/s/goods/2023-03-16/18-04-23-6412e9a7cbe4b.images.400x400.jpg"
+            ]
+        },
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "name": "Foxeer F722 V4 MPU6000 FC 8S Dual BEC Barometer X8",
+        "link": "https://www.foxeer.com/foxeer-f722-v4-mpu6000-fc-8s-dual-bec-barometer-x8-g-502",
+        "price": "$64.9",
+        "type": "FlightController",
+        "details": {
+            "Model": "F722 V4 MPU6000",
+            "CPU": "STM32F722RET6",
+            "Gyro": "MPU6000",
+            "Barometer": "DPS310",
+            "Power Supply": "4~8S Lipo",
+            "BEC Output": "DC5V/2A; DC10V/2A",
+            "OSD": "BF OSD",
+            "Black Box": "16M Flash Memory",
+            "UART": "5 Sets+Rx4",
+            "ESC Telemetry": "RX4",
+            "Buzzer": "YES",
+            "Connector": "DJI/HDzero",
+            "Smart Audio": "YES",
+            "LED": "1 Set 2812 LED",
+            "USB": "Type-C",
+            "X8 Supported": "Need CLI",
+            "Firmware": "BetaFlight:FOXEERF722V4;",
+            "Size": "37X37mm",
+            "Mounting Hole": "30.5X30.5mm,Φ4mm",
+            "Weight(g)": "7.7g",
+            "Working Temperature": "-20℃ ~ +55℃",
+            "Working Humidity": "20～95%",
+            "Storage Temperature": "-20℃ ~ +70℃",
+            "Package Includes": "1*FC, 4*Rubbers Columns, 1*Cable",
+            "download_links": [
+                {
+                    "text": "X8 Setup CLI",
+                    "link": "https://download.foxeer.com/Foxeer_F722_V4_MPU6000_30x30_X8_CMD.txt"
+                }
+            ],
+            "video_link": null,
+            "images": [
+                "https://inew.foxeer.com//upload/s/goods/2023-03-15/12-07-06-6411446a63656.images.400x400.jpg",
+                "https://inew.foxeer.com//upload/s/goods/2023-03-15/12-07-18-64114476ee249.images.400x400.jpg",
+                "https://inew.foxeer.com//upload/s/goods/2023-03-15/12-07-18-64114476dc8bb.images.400x400.jpg"
+            ]
+        },
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "name": "Foxeer Reaper AIO V4 F745 MPU6000 35A Bluejay BLS 2-4S",
+        "link": "https://www.foxeer.com/foxeer-reaper-aio-v4-f745-mpu6000-35a-bluejay-bls-2-4s-g-542",
+        "price": "$99.9",
+        "type": "FlightController",
+        "details": {
+            "Model": "FOXEER Reaper AIO V4",
+            "CPU": "STM32F745",
+            "Power Supply": "2~4S Lipo",
+            "BEC Output": "DC5V/2A",
+            "OSD": "BF OSD",
+            "Black Box": "16M Flash Memory",
+            "UART": "5 Set",
+            "USB": "Micro USB",
+            "Fireware": "BF:FOXEERF745V4_AIO",
+            "DJI Connector": "Supported, 8pin",
+            "Size": "32.5X32.5mm",
+            "Mounting Hole": "25.5X25.5mm,Φ3mm/M2",
+            "Weight(g)": "8.6g",
+            "Working Temperature": "-20℃ ~ +55℃",
+            "Working Humidity": "20～95%",
+            "Storage Temperature": "-20℃ ~ +70℃",
+            "Package Includes": "1*AIO, Rubbers Columns, XT30 Cable, DJI Cable, Capacity",
+            "download_links": [
+                {
+                    "text": "LED Setup",
+                    "link": "https://download.foxeer.com/Foxeer_AIOV3_Add_LED.txt"
+                }
+            ],
+            "video_link": null,
+            "images": [
+                "https://inew.foxeer.com//upload/s/goods/2023-08-04/17-22-23-64ccc34f321b4.images.400x400.jpg",
+                "https://inew.foxeer.com//upload/s/goods/2023-08-04/17-22-40-64ccc3606d6cf.images.400x400.jpg",
+                "https://inew.foxeer.com//upload/s/goods/2023-08-04/17-22-40-64ccc3603cd64.images.400x400.jpg",
+                "https://inew.foxeer.com//upload/s/goods/2023-08-04/17-22-40-64ccc36020430.images.400x400.jpg"
+            ]
+        },
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "name": "Foxeer F722 V4 Mini Flight Controller MPU6000",
+        "link": "https://www.foxeer.com/foxeer-f722-v4-mini-flight-controller-mpu6000-g-471",
+        "price": "$64.9",
+        "type": "FlightController",
+        "details": {
+            "Model": "Foxeer F722 V4 Mini MPU6000",
+            "CPU": "STM32F722RET6",
+            "Power Supply": "2~6S Lipo (6.5V~30V)",
+            "BEC Output": "DC5V/3A",
+            "OSD": "BF OSD",
+            "Black Box": "16M Flash Memory",
+            "UART": "4 Set",
+            "ESC Telemetry": "RX4",
+            "Buzzer": "YES",
+            "Smart Audio": "YES",
+            "LED": "1 Set 2812 LED",
+            "USB": "Micro USB",
+            "Fireware": "FOXEERF722V4(BetaFlight)",
+            "Size": "26X26mm",
+            "Mounting Hole": "20X20mm,Φ4mm",
+            "Weight(g)": "4g",
+            "Working Temperature": "-20℃ ~ +55℃",
+            "Working Humidity": "20～95%",
+            "Storage Temperature": "-20℃ ~ +70℃",
+            "Package Includes": "1*FC, 4*Rubbers Columns",
+            "download_links": [],
+            "video_link": null,
+            "images": [
+                "https://inew.foxeer.com//upload/s/goods/2022-11-03/14-25-01-63635ebd50957.images.400x400.jpg",
+                "https://inew.foxeer.com//upload/s/goods/2022-11-03/14-25-16-63635eccf08f6.images.400x400.jpg",
+                "https://inew.foxeer.com//upload/s/goods/2022-11-03/14-25-15-63635ecb5b351.images.400x400.jpg",
+                "https://inew.foxeer.com//upload/s/goods/2022-11-03/14-25-15-63635ecb74bde.images.400x400.jpg",
+                "https://inew.foxeer.com//upload/s/goods/2022-11-03/14-25-15-63635ecb5cfa7.images.400x400.jpg"
+            ]
+        },
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "name": "Foxeer F722 V4 Flight Controller X8 DJI Type-C",
+        "link": "https://www.foxeer.com/foxeer-f722-v4-flight-controller-x8-dji-type-c-g-446",
+        "price": "$46.9 $56.9",
+        "type": "FlightController",
+        "details": {
+            "Model": "F722 V4",
+            "CPU": "STM32F722RET6",
+            "Power Supply": "3~6S Lipo (11V~30V)",
+            "BEC Output": "DC5V/3A; DC9V/3A",
+            "OSD": "BF OSD",
+            "Black Box": "16M Flash Memory",
+            "UART": "6 Set",
+            "ESC Telemetry": "RX4",
+            "Buzzer": "YES",
+            "Smart Audio": "YES",
+            "LED": "1 Set 2812 LED",
+            "USB": "Type-C",
+            "X8 Supported": "Need CLI",
+            "Firmware": "BF:FOXEERF722V4; Inav: FOXEERF722V4 & FOXEERF722V4 X8",
+            "Size": "37X37mm",
+            "Mounting Hole": "30.5X30.5mm,Φ4mm",
+            "Weight(g)": "8g",
+            "Working Temperature": "-20℃ ~ +55℃",
+            "Working Humidity": "20～95%",
+            "Storage Temperature": "-20℃ ~ +70℃",
+            "Package Includes": "1*FC, 4*Rubbers Columns",
+            "download_links": [
+                {
+                    "text": "X8 Setup CLI",
+                    "link": "https://download.foxeer.com/Foxeer_FC_V3_X8_CLI.txt"
+                }
+            ],
+            "video_link": null,
+            "images": [
+                "https://inew.foxeer.com//upload/s/goods/2022-08-09/16-24-42-62f219ca631fa.images.400x400.jpg",
+                "https://inew.foxeer.com//upload/s/goods/2022-08-09/16-24-54-62f219d6749fa.images.400x400.jpg",
+                "https://inew.foxeer.com//upload/s/goods/2022-08-09/16-24-53-62f219d50a92f.images.400x400.jpg",
+                "https://inew.foxeer.com//upload/s/goods/2022-08-09/16-24-52-62f219d4ea588.images.400x400.jpg",
+                "https://inew.foxeer.com//upload/s/goods/2022-08-09/16-24-52-62f219d4e30bf.images.400x400.jpg"
+            ]
+        },
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "name": "Foxeer F722 V4 Mini Flight Controller 20*20mm BetaFlight",
+        "link": "https://www.foxeer.com/foxeer-f722-v4-mini-flight-controller-20-20mm-betaflight-g-448",
+        "price": "$39.9 $56.9",
+        "type": "FlightController",
+        "details": {
+            "Model": "Mini F722 V4",
+            "CPU": "STM32F722RET6",
+            "Power Supply": "2~6S Lipo (6.5V~30V)",
+            "BEC Output": "DC5V/3A",
+            "OSD": "BF OSD",
+            "Black Box": "16M Flash Memory",
+            "UART": "4 Set",
+            "ESC Telemetry": "RX4",
+            "Buzzer": "YES",
+            "Smart Audio": "YES",
+            "LED": "1 Set 2812 LED",
+            "USB": "Micro USB",
+            "Fireware": "FOXEERF722V4",
+            "Size": "26X26mm",
+            "Mounting Hole": "20X20mm,Φ4mm",
+            "Weight(g)": "4g",
+            "Working Temperature": "-20℃ ~ +55℃",
+            "Working Humidity": "20～95%",
+            "Storage Temperature": "-20℃ ~ +70℃",
+            "Package Includes": "1*FC, 4*Rubbers Columns",
+            "download_links": [],
+            "video_link": null,
+            "images": [
+                "https://inew.foxeer.com//upload/s/goods/2022-08-09/16-40-18-62f21d72dac1b.images.400x400.jpg",
+                "https://inew.foxeer.com//upload/s/goods/2022-08-09/16-40-32-62f21d8052778.images.400x400.jpg",
+                "https://inew.foxeer.com//upload/s/goods/2022-08-09/16-40-32-62f21d80ccdf6.images.400x400.jpg",
+                "https://inew.foxeer.com//upload/s/goods/2022-08-09/16-40-31-62f21d7f15195.images.400x400.jpg",
+                "https://inew.foxeer.com//upload/s/goods/2022-08-09/16-40-30-62f21d7ed4298.images.400x400.jpg"
+            ]
+        },
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "name": "Foxeer Mini F722 V4 Pro FPV Flight Controller 20*20mm Build-In Pit PASS",
+        "link": "https://www.foxeer.com/foxeer-mini-f722-v4-pro-fpv-flight-controller-20-20mm-build-in-pit-pass-g-447",
+        "price": "$39.9 $59.9",
+        "type": "FlightController",
+        "details": {
+            "Model": "Mini F722 V4 Pro",
+            "CPU": "STM32F722RET6",
+            "Power Supply": "2~6S Lipo (6.5V~30V)",
+            "BEC Output": "DC5V/3A",
+            "OSD": "BF OSD",
+            "Black Box": "16M Flash Memory",
+            "UART": "4 Set",
+            "ESC Telemetry": "RX4",
+            "Buzzer": "YES",
+            "Smart Audio": "YES",
+            "LED": "1 Set 2812 LED",
+            "USB": "Micro USB",
+            "Firmware": "FOXEERF722V4",
+            "Size": "28.5*28.5mm",
+            "Mounting Hole": "20X20mm,Φ4mm",
+            "Weight(g)": "4.4g",
+            "Working Temperature": "-20℃ ~ +55℃",
+            "Working Humidity": "20～95%",
+            "Storage Temperature": "-20℃ ~ +70℃",
+            "Package Includes": "1*FC, 4*Rubbers Columns",
+            "download_links": [],
+            "video_link": null,
+            "images": [
+                "https://inew.foxeer.com//upload/s/goods/2022-08-09/16-32-01-62f21b81e0f91.images.400x400.jpg",
+                "https://inew.foxeer.com//upload/s/goods/2022-08-09/16-33-58-62f21bf657326.images.400x400.jpg",
+                "https://inew.foxeer.com//upload/s/goods/2022-08-09/16-33-04-62f21bc05517b.images.400x400.jpg",
+                "https://inew.foxeer.com//upload/s/goods/2022-08-09/16-33-04-62f21bc0281e0.images.400x400.jpg",
+                "https://inew.foxeer.com//upload/s/goods/2022-08-09/16-33-04-62f21bc020fed.images.400x400.jpg"
+            ]
+        },
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "name": "Foxeer F722 V4 Dual BEC 5V/10V HV 8S Mini Flight Controller",
+        "link": "https://www.foxeer.com/foxeer-f722-v4-dual-bec-5v-10v-hv-8s-mini-flight-controller-g-455",
+        "price": "$39.9 $62.9",
+        "type": "FlightController",
+        "details": {
+            "Model": "Mini F722 V4 8S Dual BEC",
+            "Gyro": "ICM 42688-P",
+            "CPU": "STM32F722RET6",
+            "Power Supply": "4~8S Lipo",
+            "BEC Output": "DC5V/3A; 10V/2A",
+            "OSD": "BF OSD",
+            "Black Box": "16M Flash Memory",
+            "UART": "6 Sets",
+            "ESC Telemetry": "RX4",
+            "Buzzer": "YES",
+            "Smart Audio": "YES",
+            "LED": "1 Set 2812 LED",
+            "USB": "Micro USB",
+            "Fireware": "FOXEERF722V4",
+            "Size": "30*31mm",
+            "Mounting Hole": "20X20mm,Φ4mm",
+            "Weight(g)": "5.6g",
+            "Working Temperature": "-20℃ ~ +55℃",
+            "Working Humidity": "20～95%",
+            "Storage Temperature": "-20℃ ~ +70℃",
+            "Package Includes": "1*FC, 4*Rubbers Columns",
+            "download_links": [],
+            "video_link": null,
+            "images": [
+                "https://inew.foxeer.com//upload/s/goods/2022-09-17/15-04-17-63257171d40a2.images.400x400.jpg",
+                "https://inew.foxeer.com//upload/s/goods/2022-09-17/14-56-22-63256f96e6bc2.images.400x400.jpg",
+                "https://inew.foxeer.com//upload/s/goods/2022-09-17/14-56-21-63256f95bf0f6.images.400x400.jpg",
+                "https://inew.foxeer.com//upload/s/goods/2022-09-17/14-56-21-63256f958ff60.images.400x400.jpg",
+                "https://inew.foxeer.com//upload/s/goods/2022-09-17/14-56-20-63256f945774f.images.400x400.jpg"
+            ]
+        },
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "name": "Foxeer Mini F722 V3 Pro FPV Flight Controller 20*20mm Build-In Pit PASS",
+        "link": "https://www.foxeer.com/foxeer-mini-f722-v3-pro-fpv-flight-controller-20-20mm-build-in-pit-pass-g-426",
+        "price": "$59.9",
+        "type": "FlightController",
+        "details": {
+            "Model": "Mini F722 V3 Pro",
+            "CPU": "STM32F722RET6",
+            "Power Supply": "2~6S Lipo (6.5V~30V)",
+            "BEC Output": "DC5V/3A",
+            "OSD": "BF OSD",
+            "Black Box": "16M Flash Memory",
+            "UART": "4 Set",
+            "ESC Telemetry": "RX4",
+            "Buzzer": "YES",
+            "Smart Audio": "YES",
+            "LED": "1 Set 2812 LED",
+            "USB": "Micro USB",
+            "Firmware": "FOXEERF722V3",
+            "Size": "28.5*28.5mm",
+            "Mounting Hole": "20X20mm,Φ4mm",
+            "Weight(g)": "4.4g",
+            "Working Temperature": "-20℃ ~ +55℃",
+            "Working Humidity": "20～95%",
+            "Storage Temperature": "-20℃ ~ +70℃",
+            "Package Includes": "1*FC, 4*Rubbers Columns",
+            "download_links": [],
+            "video_link": null,
+            "images": [
+                "https://inew.foxeer.com//upload/s/goods/2022-04-15/16-22-28-62592b4458fd0.images.400x400.jpg",
+                "https://inew.foxeer.com//upload/s/goods/2022-04-15/16-22-43-62592b534f230.images.400x400.jpg",
+                "https://inew.foxeer.com//upload/s/goods/2022-04-15/16-22-43-62592b532c6e8.images.400x400.jpg",
+                "https://inew.foxeer.com//upload/s/goods/2022-04-15/16-22-41-62592b51e821b.images.400x400.jpg",
+                "https://inew.foxeer.com//upload/s/goods/2022-04-15/16-22-41-62592b51c3752.images.400x400.jpg",
+                "https://inew.foxeer.com//upload/s/goods/2022-04-15/16-22-41-62592b51bee7c.images.400x400.jpg"
+            ]
+        },
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "name": "Foxeer Reaper AIO V3 F745 45A BLS Bluejay 2-6S",
+        "link": "https://www.foxeer.com/foxeer-reaper-aio-v3-f745-45a-bls-bluejay-2-6s-g-454",
+        "price": "$99.9",
+        "type": "FlightController",
+        "details": {
+            "Model": "FOXEER Reaper AIO V3",
+            "CPU": "STM32F745",
+            "Power Supply": "2~6S Lipo(8.4~25.2V)",
+            "BEC Output": "DC5V/2.5A",
+            "OSD": "BF OSD",
+            "Black Box": "16M Flash Memory",
+            "UART": "5 Set",
+            "USB": "Micro USB",
+            "Fireware": "BF:FOXE-FOXEERF745V3_AIO; Inav: FOXEERF745AIO V3",
+            "DJI/Vista Connector": "Supported, 7pin",
+            "Size": "32.5X32.5mm",
+            "Mounting Hole": "25.5X25.5mm,Φ3mm/M2",
+            "Weight(g)": "8.9g",
+            "Working Temperature": "-20℃ ~ +55℃",
+            "Working Humidity": "20～95%",
+            "Storage Temperature": "-20℃ ~ +70℃",
+            "Package Includes": "1*AIO, Rubbers Columns, XT30 Cable, Vista Cable, Capacity",
+            "download_links": [
+                {
+                    "text": "LED Setup",
+                    "link": "https://download.foxeer.com/Foxeer_AIOV3_Add_LED.txt"
+                }
+            ],
+            "video_link": null,
+            "images": [
+                "https://inew.foxeer.com//upload/s/goods/2022-09-13/11-57-30-631fffaa98a23.images.400x400.jpg",
+                "https://inew.foxeer.com//upload/s/goods/2022-09-13/11-57-46-631fffbaba04a.images.400x400.jpg",
+                "https://inew.foxeer.com//upload/s/goods/2022-09-13/11-57-46-631fffba812ae.images.400x400.jpg",
+                "https://inew.foxeer.com//upload/s/goods/2022-09-13/11-57-44-631fffb8f12f8.images.400x400.jpg",
+                "https://inew.foxeer.com//upload/s/goods/2022-09-13/11-57-44-631fffb8de79a.images.400x400.jpg",
+                "https://inew.foxeer.com//upload/s/goods/2022-09-13/11-57-44-631fffb8d4a49.images.400x400.jpg"
+            ]
+        },
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "name": "Foxeer F722 V3 Flight Controller X8 DJI Type-C",
+        "link": "https://www.foxeer.com/foxeer-f722-v3-flight-controller-x8-dji-type-c-g-430",
+        "price": "$39.9 $56.9",
+        "type": "FlightController",
+        "details": {
+            "Model": "F722 V3",
+            "CPU": "STM32F722RET6",
+            "Power Supply": "3~6S Lipo (11V~30V)",
+            "BEC Output": "DC5V/3A; DC9V/3A",
+            "OSD": "BF OSD",
+            "Black Box": "16M Flash Memory",
+            "UART": "6 Set",
+            "ESC Telemetry": "RX4",
+            "Buzzer": "YES",
+            "Smart Audio": "YES",
+            "LED": "1 Set 2812 LED",
+            "USB": "Type-C",
+            "X8 Supported": "Need CLI",
+            "Firmware": "FOXEERF722V3",
+            "Size": "37X37mm",
+            "Mounting Hole": "30.5X30.5mm,Φ4mm",
+            "Weight(g)": "8g",
+            "Working Temperature": "-20℃ ~ +55℃",
+            "Working Humidity": "20～95%",
+            "Storage Temperature": "-20℃ ~ +70℃",
+            "Package Includes": "1*FC, 4*Rubbers Columns",
+            "download_links": [
+                {
+                    "text": "Manual",
+                    "link": "https://download.foxeer.com/Foxeer_F722_V3_Diagram.pdf"
+                },
+                {
+                    "text": "X8 Setup CLI",
+                    "link": "https://download.foxeer.com/Foxeer_FC_V3_X8_CLI.txt"
+                }
+            ],
+            "video_link": null,
+            "images": [
+                "https://inew.foxeer.com//upload/s/goods/2022-04-29/16-42-47-626ba507d85ed.images.400x400.jpg",
+                "https://inew.foxeer.com//upload/s/goods/2022-04-29/16-43-00-626ba5140e7f9.images.400x400.jpg",
+                "https://inew.foxeer.com//upload/s/goods/2022-04-29/16-43-01-626ba5153b0eb.images.400x400.jpg",
+                "https://inew.foxeer.com//upload/s/goods/2022-04-29/16-43-00-626ba51414b57.images.400x400.jpg",
+                "https://inew.foxeer.com//upload/s/goods/2022-04-29/16-42-58-626ba5129d5e0.images.400x400.jpg",
+                "https://inew.foxeer.com//upload/s/goods/2022-04-29/16-42-58-626ba5127cc8e.images.400x400.jpg"
+            ]
+        },
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "name": "Foxeer Mini F722 V2 Flight Controller 20*20mm Mounting Hole BetaFlight",
+        "link": "https://www.foxeer.com/foxeer-mini-f722-v2-flight-controller-20-20mm-mounting-hole-betaflight-g-422",
+        "price": "$56.9",
+        "type": "FlightController",
+        "details": {
+            "Model": "Mini F722 V2",
+            "CPU": "STM32F722RET6",
+            "Power Supply": "2~6S Lipo (6.5V~30V)",
+            "BEC Output": "DC5V/2A",
+            "OSD": "BF OSD",
+            "Black Box": "16M Flash Memory",
+            "UART": "4 Set",
+            "ESC Telemetry": "RX4",
+            "Buzzer": "YES",
+            "Smart Audio": "YES",
+            "LED": "1 Set 2812 LED",
+            "USB": "Micro USB",
+            "Fireware": "FOXEERF722V2(BF&Inav)",
+            "Size": "26X26mm",
+            "Mounting Hole": "20X20mm,Φ4mm",
+            "Weight(g)": "4g",
+            "Working Temperature": "-20℃ ~ +55℃",
+            "Working Humidity": "20～95%",
+            "Storage Temperature": "-20℃ ~ +70℃",
+            "Package Includes": "1*FC, 4*Rubbers Columns",
+            "download_links": [],
+            "video_link": null,
+            "images": [
+                "https://inew.foxeer.com//upload/s/goods/2020-06-17/09-27-31-5ee97183ed080.images.400x400.jpg",
+                "https://inew.foxeer.com//upload/s/goods/2020-06-17/09-27-58-5ee9719eb64b5.images.400x400.jpg",
+                "https://inew.foxeer.com//upload/s/goods/2020-06-17/09-27-58-5ee9719eda7ed.images.400x400.jpg",
+                "https://inew.foxeer.com//upload/s/goods/2020-06-17/09-28-00-5ee971a037c41.images.400x400.jpg",
+                "https://inew.foxeer.com//upload/s/goods/2020-06-17/09-28-01-5ee971a1d5990.images.400x400.jpg"
+            ]
+        },
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "name": "Foxeer Reaper AIO V2 F745 45A BLS Bluejay 2-6S",
+        "link": "https://www.foxeer.com/foxeer-reaper-aio-v2-f745-45a-bls-bluejay-2-6s-g-439",
+        "price": "$99.9",
+        "type": "FlightController",
+        "details": {
+            "Model": "FOXEER Reaper AIO V2",
+            "CPU": "STM32F745",
+            "Power Supply": "2~6S Lipo(8.4~25.2V)",
+            "BEC Output": "DC5V/2.5A",
+            "OSD": "BF OSD",
+            "Black Box": "16M Flash Memory",
+            "UART": "5 Set",
+            "USB": "Micro USB",
+            "Fireware": "BF:FOXE-FOXEERF745V2_AIO",
+            "DJI/Vista Connector": "Supported, 7pin",
+            "Size": "32.5X32.5mm",
+            "Mounting Hole": "25.5X25.5mm,Φ3mm/M2",
+            "Weight(g)": "8.6g",
+            "Working Temperature": "-20℃ ~ +55℃",
+            "Working Humidity": "20～95%",
+            "Storage Temperature": "-20℃ ~ +70℃",
+            "Package Includes": "1*AIO, Rubbers Columns, XT30 Cable, Vista Cable, Capacity",
+            "download_links": [
+                {
+                    "text": "Wiring",
+                    "link": "https://download.foxeer.com/Foxeer_AIO_V2_Wiring_Diagram"
+                }
+            ],
+            "video_link": null,
+            "images": [
+                "https://inew.foxeer.com//upload/s/goods/2022-05-26/17-28-34-628f48427fe6a.images.400x400.jpg",
+                "https://inew.foxeer.com//upload/s/goods/2022-05-26/17-29-30-628f487a65b21.images.400x400.jpg",
+                "https://inew.foxeer.com//upload/s/goods/2022-05-26/17-29-30-628f487a44891.images.400x400.jpg",
+                "https://inew.foxeer.com//upload/s/goods/2022-05-26/17-29-28-628f4878ea3f2.images.400x400.jpg",
+                "https://inew.foxeer.com//upload/s/goods/2022-05-26/17-29-28-628f4878e6320.images.400x400.jpg",
+                "https://inew.foxeer.com//upload/s/goods/2022-05-26/17-29-28-628f4878c9ce3.images.400x400.jpg"
+            ]
+        },
+        "tags": [
+            ""
+        ]
+    },
+    {
+        "name": "Foxeer F722 V3 Mini Flight Controller 20*20mm BetaFlight",
+        "link": "https://www.foxeer.com/foxeer-f722-v3-mini-flight-controller-20-20mm-betaflight-g-425",
+        "price": "$56.9",
+        "type": "FlightController",
+        "details": {
+            "Model": "Mini F722 V3",
+            "CPU": "STM32F722RET6",
+            "Power Supply": "2~6S Lipo (6.5V~30V)",
+            "BEC Output": "DC5V/3A",
+            "OSD": "BF OSD",
+            "Black Box": "16M Flash Memory",
+            "UART": "4 Set",
+            "ESC Telemetry": "RX4",
+            "Buzzer": "YES",
+            "Smart Audio": "YES",
+            "LED": "1 Set 2812 LED",
+            "USB": "Micro USB",
+            "Fireware": "FOXEERF722V3",
+            "Size": "26X26mm",
+            "Mounting Hole": "20X20mm,Φ4mm",
+            "Weight(g)": "4g",
+            "Working Temperature": "-20℃ ~ +55℃",
+            "Working Humidity": "20～95%",
+            "Storage Temperature": "-20℃ ~ +70℃",
+            "Package Includes": "1*FC, 4*Rubbers Columns",
+            "download_links": [],
+            "video_link": null,
+            "images": [
+                "https://inew.foxeer.com//upload/s/goods/2022-04-15/16-18-28-62592a542634d.images.400x400.jpg",
+                "https://inew.foxeer.com//upload/s/goods/2022-04-15/16-18-53-62592a6d610bc.images.400x400.jpg",
+                "https://inew.foxeer.com//upload/s/goods/2022-04-15/16-18-50-62592a6ae379d.images.400x400.jpg",
+                "https://inew.foxeer.com//upload/s/goods/2022-04-15/16-18-50-62592a6adf7b6.images.400x400.jpg",
+                "https://inew.foxeer.com//upload/s/goods/2022-04-15/16-18-50-62592a6ac8361.images.400x400.jpg"
+            ]
+        },
+        "tags": [
+            ""
+        ]
+    }
+]
